@@ -1,0 +1,191 @@
+Source address;Destination address;Distance[km]
+Virrey Cevallos y Chile;Azopardo y Mexico;2.122
+Virrey Cevallos y Chile;Rincon y Carlos Calvo;1.005
+Virrey Cevallos y Chile;Virrey Liniers y C.Calvo;2.721
+Virrey Cevallos y Chile;Billinghurst y Peron;3.611
+Virrey Cevallos y Chile;Del Libertador y Montevideo;4.485
+Virrey Cevallos y Chile;Corredor Norte y Casares;6.849
+Virrey Cevallos y Chile;EEUU y 33 Orientales;3.749
+Virrey Cevallos y Chile;F. Alcorta y Derecho;5.367
+Virrey Cevallos y Chile;Montevideo y Peron;1.447
+Virrey Cevallos y Chile;Cnel. Diaz y Mansilla;4.886
+Virrey Cevallos y Chile;Arenales y Montevideo;2.906
+Virrey Cevallos y Chile;Potosi y Rawson;4.554
+Virrey Cevallos y Chile;J. Alvarez y Padilla;6.864
+Virrey Cevallos y Chile;Chile y Tacuari;1.018
+Virrey Cevallos y Chile;Serrano y Loyola;6.803
+Virrey Cevallos y Chile;Gorriti y G. Cruz;6.945
+Virrey Cevallos y Chile;11 de Sep y Monroe;11.425
+Virrey Cevallos y Chile;M.T. Alvear y Uriburu;3.051
+Virrey Cevallos y Chile;La Pampa y Superi;10.164
+Azopardo y Mexico;Rincon y Carlos Calvo;3.291
+Azopardo y Mexico;Virrey Liniers y C.Calvo;5.02
+Azopardo y Mexico;Billinghurst y Peron;5.439
+Azopardo y Mexico;Del Libertador y Montevideo;3.707
+Azopardo y Mexico;Corredor Norte y Casares;6.326
+Azopardo y Mexico;EEUU y 33 Orientales;6.048
+Azopardo y Mexico;F. Alcorta y Derecho;4.588
+Azopardo y Mexico;Montevideo y Peron;2.933
+Azopardo y Mexico;Cnel. Diaz y Mansilla;6.721
+Azopardo y Mexico;Arenales y Montevideo;4.413
+Azopardo y Mexico;Potosi y Rawson;6.382
+Azopardo y Mexico;J. Alvarez y Padilla;8.691
+Azopardo y Mexico;Chile y Tacuari;1.366
+Azopardo y Mexico;Serrano y Loyola;8.63
+Azopardo y Mexico;Gorriti y G. Cruz;8.772
+Azopardo y Mexico;11 de Sep y Monroe;11.503
+Azopardo y Mexico;M.T. Alvear y Uriburu;4.829
+Azopardo y Mexico;La Pampa y Superi;11.991
+Rincon y Carlos Calvo;Virrey Liniers y C.Calvo;1.72
+Rincon y Carlos Calvo;Billinghurst y Peron;3.334
+Rincon y Carlos Calvo;Del Libertador y Montevideo;4.868
+Rincon y Carlos Calvo;Corredor Norte y Casares;6.572
+Rincon y Carlos Calvo;EEUU y 33 Orientales;2.748
+Rincon y Carlos Calvo;F. Alcorta y Derecho;5.041
+Rincon y Carlos Calvo;Montevideo y Peron;2.151
+Rincon y Carlos Calvo;Cnel. Diaz y Mansilla;4.609
+Rincon y Carlos Calvo;Arenales y Montevideo;4.005
+Rincon y Carlos Calvo;Potosi y Rawson;4.277
+Rincon y Carlos Calvo;J. Alvarez y Padilla;6.587
+Rincon y Carlos Calvo;Chile y Tacuari;2.025
+Rincon y Carlos Calvo;Serrano y Loyola;6.526
+Rincon y Carlos Calvo;Gorriti y G. Cruz;6.668
+Rincon y Carlos Calvo;11 de Sep y Monroe;11.148
+Rincon y Carlos Calvo;M.T. Alvear y Uriburu;2.774
+Rincon y Carlos Calvo;La Pampa y Superi;9.887
+Virrey Liniers y C.Calvo;Billinghurst y Peron;1.849
+Virrey Liniers y C.Calvo;Del Libertador y Montevideo;7.374
+Virrey Liniers y C.Calvo;Corredor Norte y Casares;6.092
+Virrey Liniers y C.Calvo;EEUU y 33 Orientales;1.028
+Virrey Liniers y C.Calvo;F. Alcorta y Derecho;6.385
+Virrey Liniers y C.Calvo;Montevideo y Peron;3.778
+Virrey Liniers y C.Calvo;Cnel. Diaz y Mansilla;3.554
+Virrey Liniers y C.Calvo;Arenales y Montevideo;5.359
+Virrey Liniers y C.Calvo;Potosi y Rawson;2.793
+Virrey Liniers y C.Calvo;J. Alvarez y Padilla;4.574
+Virrey Liniers y C.Calvo;Chile y Tacuari;3.859
+Virrey Liniers y C.Calvo;Serrano y Loyola;4.938
+Virrey Liniers y C.Calvo;Gorriti y G. Cruz;5.578
+Virrey Liniers y C.Calvo;11 de Sep y Monroe;10.668
+Virrey Liniers y C.Calvo;M.T. Alvear y Uriburu;4.128
+Virrey Liniers y C.Calvo;La Pampa y Superi;8.797
+Billinghurst y Peron;Del Libertador y Montevideo;5.525
+Billinghurst y Peron;Corredor Norte y Casares;4.243
+Billinghurst y Peron;EEUU y 33 Orientales;2.812
+Billinghurst y Peron;F. Alcorta y Derecho;4.536
+Billinghurst y Peron;Montevideo y Peron;3.02
+Billinghurst y Peron;Cnel. Diaz y Mansilla;1.705
+Billinghurst y Peron;Arenales y Montevideo;3.958
+Billinghurst y Peron;Potosi y Rawson;0.986
+Billinghurst y Peron;J. Alvarez y Padilla;2.767
+Billinghurst y Peron;Chile y Tacuari;4.629
+Billinghurst y Peron;Serrano y Loyola;3.131
+Billinghurst y Peron;Gorriti y G. Cruz;3.729
+Billinghurst y Peron;11 de Sep y Monroe;8.819
+Billinghurst y Peron;M.T. Alvear y Uriburu;2.726
+Billinghurst y Peron;La Pampa y Superi;6.948
+Del Libertador y Montevideo;Corredor Norte y Casares;2.676
+Del Libertador y Montevideo;EEUU y 33 Orientales;7.473
+Del Libertador y Montevideo;F. Alcorta y Derecho;0.938
+Del Libertador y Montevideo;Montevideo y Peron;2.599
+Del Libertador y Montevideo;Cnel. Diaz y Mansilla;4.073
+Del Libertador y Montevideo;Arenales y Montevideo;1.305
+Del Libertador y Montevideo;Potosi y Rawson;5.694
+Del Libertador y Montevideo;J. Alvarez y Padilla;6.397
+Del Libertador y Montevideo;Chile y Tacuari;4.227
+Del Libertador y Montevideo;Serrano y Loyola;6.336
+Del Libertador y Montevideo;Gorriti y G. Cruz;6.117
+Del Libertador y Montevideo;11 de Sep y Monroe;7.853
+Del Libertador y Montevideo;M.T. Alvear y Uriburu;2.541
+Del Libertador y Montevideo;La Pampa y Superi;9.258
+Corredor Norte y Casares;EEUU y 33 Orientales;6.495
+Corredor Norte y Casares;F. Alcorta y Derecho;2.339
+Corredor Norte y Casares;Montevideo y Peron;5.064
+Corredor Norte y Casares;Cnel. Diaz y Mansilla;2.538
+Corredor Norte y Casares;Arenales y Montevideo;3.771
+Corredor Norte y Casares;Potosi y Rawson;4.669
+Corredor Norte y Casares;J. Alvarez y Padilla;4.742
+Corredor Norte y Casares;Chile y Tacuari;7.208
+Corredor Norte y Casares;Serrano y Loyola;4.681
+Corredor Norte y Casares;Gorriti y G. Cruz;3.654
+Corredor Norte y Casares;11 de Sep y Monroe;5.39
+Corredor Norte y Casares;M.T. Alvear y Uriburu;3.448
+Corredor Norte y Casares;La Pampa y Superi;6.795
+EEUU y 33 Orientales;F. Alcorta y Derecho;7.169
+EEUU y 33 Orientales;Montevideo y Peron;4.563
+EEUU y 33 Orientales;Cnel. Diaz y Mansilla;4.338
+EEUU y 33 Orientales;Arenales y Montevideo;6.144
+EEUU y 33 Orientales;Potosi y Rawson;2.055
+EEUU y 33 Orientales;J. Alvarez y Padilla;3.357
+EEUU y 33 Orientales;Chile y Tacuari;4.644
+EEUU y 33 Orientales;Serrano y Loyola;4.206
+EEUU y 33 Orientales;Gorriti y G. Cruz;6.362
+EEUU y 33 Orientales;11 de Sep y Monroe;11.452
+EEUU y 33 Orientales;M.T. Alvear y Uriburu;4.913
+EEUU y 33 Orientales;La Pampa y Superi;9.581
+F. Alcorta y Derecho;Montevideo y Peron;3.26
+F. Alcorta y Derecho;Cnel. Diaz y Mansilla;3.136
+F. Alcorta y Derecho;Arenales y Montevideo;1.966
+F. Alcorta y Derecho;Potosi y Rawson;5.144
+F. Alcorta y Derecho;J. Alvarez y Padilla;6.102
+F. Alcorta y Derecho;Chile y Tacuari;4.888
+F. Alcorta y Derecho;Serrano y Loyola;6.041
+F. Alcorta y Derecho;Gorriti y G. Cruz;5.179
+F. Alcorta y Derecho;11 de Sep y Monroe;6.915
+F. Alcorta y Derecho;M.T. Alvear y Uriburu;1.991
+F. Alcorta y Derecho;La Pampa y Superi;8.32
+Montevideo y Peron;Cnel. Diaz y Mansilla;3.461
+Montevideo y Peron;Arenales y Montevideo;1.293
+Montevideo y Peron;Potosi y Rawson;3.45
+Montevideo y Peron;J. Alvarez y Padilla;5.783
+Montevideo y Peron;Chile y Tacuari;2.143
+Montevideo y Peron;Serrano y Loyola;5.722
+Montevideo y Peron;Gorriti y G. Cruz;5.864
+Montevideo y Peron;11 de Sep y Monroe;10.344
+Montevideo y Peron;M.T. Alvear y Uriburu;1.914
+Montevideo y Peron;La Pampa y Superi;9.083
+Cnel. Diaz y Mansilla;Arenales y Montevideo;3.011
+Cnel. Diaz y Mansilla;Potosi y Rawson;2.691
+Cnel. Diaz y Mansilla;J. Alvarez y Padilla;3.181
+Cnel. Diaz y Mansilla;Chile y Tacuari;6.334
+Cnel. Diaz y Mansilla;Serrano y Loyola;3.12
+Cnel. Diaz y Mansilla;Gorriti y G. Cruz;2.695
+Cnel. Diaz y Mansilla;11 de Sep y Monroe;7.114
+Cnel. Diaz y Mansilla;M.T. Alvear y Uriburu;1.92
+Cnel. Diaz y Mansilla;La Pampa y Superi;6.482
+Arenales y Montevideo;Potosi y Rawson;4.718
+Arenales y Montevideo;J. Alvarez y Padilla;5.474
+Arenales y Montevideo;Chile y Tacuari;3.436
+Arenales y Montevideo;Serrano y Loyola;5.413
+Arenales y Montevideo;Gorriti y G. Cruz;5.555
+Arenales y Montevideo;11 de Sep y Monroe;8.51
+Arenales y Montevideo;M.T. Alvear y Uriburu;1.103
+Arenales y Montevideo;La Pampa y Superi;8.774
+Potosi y Rawson;J. Alvarez y Padilla;1.781
+Potosi y Rawson;Chile y Tacuari;5.572
+Potosi y Rawson;Serrano y Loyola;2.743
+Potosi y Rawson;Gorriti y G. Cruz;3.419
+Potosi y Rawson;11 de Sep y Monroe;9.191
+Potosi y Rawson;M.T. Alvear y Uriburu;3.669
+Potosi y Rawson;La Pampa y Superi;6.747
+J. Alvarez y Padilla;Chile y Tacuari;7.167
+J. Alvarez y Padilla;Serrano y Loyola;1.517
+J. Alvarez y Padilla;Gorriti y G. Cruz;2.785
+J. Alvarez y Padilla;11 de Sep y Monroe;8.561
+J. Alvarez y Padilla;M.T. Alvear y Uriburu;4.821
+J. Alvarez y Padilla;La Pampa y Superi;5.522
+Chile y Tacuari;Serrano y Loyola;7.765
+Chile y Tacuari;Gorriti y G. Cruz;7.907
+Chile y Tacuari;11 de Sep y Monroe;11.264
+Chile y Tacuari;M.T. Alvear y Uriburu;4.013
+Chile y Tacuari;La Pampa y Superi;11.126
+Serrano y Loyola;Gorriti y G. Cruz;1.079
+Serrano y Loyola;11 de Sep y Monroe;6.856
+Serrano y Loyola;M.T. Alvear y Uriburu;4.255
+Serrano y Loyola;La Pampa y Superi;4.005
+Gorriti y G. Cruz;11 de Sep y Monroe;5.774
+Gorriti y G. Cruz;M.T. Alvear y Uriburu;3.826
+Gorriti y G. Cruz;La Pampa y Superi;3.649
+11 de Sep y Monroe;M.T. Alvear y Uriburu;8.22
+11 de Sep y Monroe;La Pampa y Superi;2.622
+M.T. Alvear y Uriburu;La Pampa y Superi;7.781

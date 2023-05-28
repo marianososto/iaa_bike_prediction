@@ -10,6 +10,7 @@ def read_coordinates_csv():
         coordinates = []
         lines = lines[1:]  # skip header
         for line in lines:
+            line = line.replace('\n', '')
             line = line.split(';')
             coordinates.append((line[0], line[1], line[2]))
         return coordinates

@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 def read_coordinates_csv():
-    with open('codificacion_coordenadas_codificacion.csv', 'r') as f:
+    with open('codificacion_coordenadas.csv', 'r') as f:
         lines = f.readlines()
         coordinates = []
         lines = lines[1:]  # skip header

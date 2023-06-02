@@ -1,0 +1,2050 @@
+año,mes,punto_cruce,cantidad_ciclistas,Calle 1,Calle 2,Calle 1 Id,Calle 2 Id,Mes Id
+2010,Abril,Virrey Cevallos y Chile,1004,Virrey Cevallos,Chile,1,19,4
+2010,Abril,Azopardo y Mexico,349,Azopardo,Mexico,2,25,4
+2010,Abril,Rincon y Carlos Calvo,1098,Rincon,Carlos Calvo,3,26,4
+2010,Abril,Virrey Liniers y C.Calvo,422,Virrey Liniers,C.Calvo,4,27,4
+2010,Abril,Billinghurst y Peron,1116,Billinghurst,Peron,5,28,4
+2010,Abril,Del Libertador y Montevideo,858,Del Libertador,Montevideo,6,10,4
+2010,Abril,Corredor Norte y Casares,808,Corredor Norte,Casares,7,29,4
+2010,Abril,EEUU y 33 Orientales,216,EEUU,33 Orientales,8,30,4
+2010,Abril,F. Alcorta y Derecho,1091,F. Alcorta,Derecho,9,31,4
+2010,Abril,Montevideo y Peron,302,Montevideo,Peron,10,28,4
+2010,Abril,Cnel. Diaz y Mansilla,205,Cnel. Diaz,Mansilla,11,32,4
+2010,Abril,Arenales y Montevideo,445,Arenales,Montevideo,12,10,4
+2010,Mayo,Virrey Cevallos y Chile,1043,Virrey Cevallos,Chile,1,19,5
+2010,Mayo,Azopardo y Mexico,391,Azopardo,Mexico,2,25,5
+2010,Mayo,Rincon y Carlos Calvo,923,Rincon,Carlos Calvo,3,26,5
+2010,Mayo,Virrey Liniers y C.Calvo,545,Virrey Liniers,C.Calvo,4,27,5
+2010,Mayo,Billinghurst y Peron,986,Billinghurst,Peron,5,28,5
+2010,Mayo,Del Libertador y Montevideo,753,Del Libertador,Montevideo,6,10,5
+2010,Mayo,Corredor Norte y Casares,573,Corredor Norte,Casares,7,29,5
+2010,Mayo,EEUU y 33 Orientales,191,EEUU,33 Orientales,8,30,5
+2010,Mayo,F. Alcorta y Derecho,964,F. Alcorta,Derecho,9,31,5
+2010,Mayo,Montevideo y Peron,267,Montevideo,Peron,10,28,5
+2010,Mayo,Cnel. Diaz y Mansilla,181,Cnel. Diaz,Mansilla,11,32,5
+2010,Mayo,Arenales y Montevideo,393,Arenales,Montevideo,12,10,5
+2010,Junio,Virrey Cevallos y Chile,898,Virrey Cevallos,Chile,1,19,6
+2010,Junio,Azopardo y Mexico,420,Azopardo,Mexico,2,25,6
+2010,Junio,Rincon y Carlos Calvo,1021,Rincon,Carlos Calvo,3,26,6
+2010,Junio,Virrey Liniers y C.Calvo,443,Virrey Liniers,C.Calvo,4,27,6
+2010,Junio,Billinghurst y Peron,877,Billinghurst,Peron,5,28,6
+2010,Junio,Del Libertador y Montevideo,676,Del Libertador,Montevideo,6,10,6
+2010,Junio,Corredor Norte y Casares,621,Corredor Norte,Casares,7,29,6
+2010,Junio,EEUU y 33 Orientales,170,EEUU,33 Orientales,8,30,6
+2010,Junio,F. Alcorta y Derecho,856,F. Alcorta,Derecho,9,31,6
+2010,Junio,Montevideo y Peron,237,Montevideo,Peron,10,28,6
+2010,Junio,Cnel. Diaz y Mansilla,161,Cnel. Diaz,Mansilla,11,32,6
+2010,Junio,Arenales y Montevideo,349,Arenales,Montevideo,12,10,6
+2010,Julio,Virrey Cevallos y Chile,681,Virrey Cevallos,Chile,1,19,7
+2010,Julio,Azopardo y Mexico,379,Azopardo,Mexico,2,25,7
+2010,Julio,Rincon y Carlos Calvo,883,Rincon,Carlos Calvo,3,26,7
+2010,Julio,Virrey Liniers y C.Calvo,263,Virrey Liniers,C.Calvo,4,27,7
+2010,Julio,Billinghurst y Peron,732,Billinghurst,Peron,5,28,7
+2010,Julio,Del Libertador y Montevideo,558,Del Libertador,Montevideo,6,10,7
+2010,Julio,Corredor Norte y Casares,622,Corredor Norte,Casares,7,29,7
+2010,Julio,EEUU y 33 Orientales,142,EEUU,33 Orientales,8,30,7
+2010,Julio,F. Alcorta y Derecho,715,F. Alcorta,Derecho,9,31,7
+2010,Julio,Montevideo y Peron,198,Montevideo,Peron,10,28,7
+2010,Julio,Cnel. Diaz y Mansilla,135,Cnel. Diaz,Mansilla,11,32,7
+2010,Julio,Arenales y Montevideo,292,Arenales,Montevideo,12,10,7
+2010,Agosto,Virrey Cevallos y Chile,851,Virrey Cevallos,Chile,1,19,8
+2010,Agosto,Azopardo y Mexico,354,Azopardo,Mexico,2,25,8
+2010,Agosto,Rincon y Carlos Calvo,734,Rincon,Carlos Calvo,3,26,8
+2010,Agosto,Virrey Liniers y C.Calvo,352,Virrey Liniers,C.Calvo,4,27,8
+2010,Agosto,Billinghurst y Peron,806,Billinghurst,Peron,5,28,8
+2010,Agosto,Del Libertador y Montevideo,618,Del Libertador,Montevideo,6,10,8
+2010,Agosto,Corredor Norte y Casares,515,Corredor Norte,Casares,7,29,8
+2010,Agosto,EEUU y 33 Orientales,156,EEUU,33 Orientales,8,30,8
+2010,Agosto,F. Alcorta y Derecho,788,F. Alcorta,Derecho,9,31,8
+2010,Agosto,Montevideo y Peron,218,Montevideo,Peron,10,28,8
+2010,Agosto,Cnel. Diaz y Mansilla,148,Cnel. Diaz,Mansilla,11,32,8
+2010,Agosto,Arenales y Montevideo,321,Arenales,Montevideo,12,10,8
+2010,Septiembre,Virrey Cevallos y Chile,973,Virrey Cevallos,Chile,1,19,9
+2010,Septiembre,Azopardo y Mexico,573,Azopardo,Mexico,2,25,9
+2010,Septiembre,Rincon y Carlos Calvo,1147,Rincon,Carlos Calvo,3,26,9
+2010,Septiembre,Virrey Liniers y C.Calvo,540,Virrey Liniers,C.Calvo,4,27,9
+2010,Septiembre,Billinghurst y Peron,869,Billinghurst,Peron,5,28,9
+2010,Septiembre,Del Libertador y Montevideo,661,Del Libertador,Montevideo,6,10,9
+2010,Septiembre,Corredor Norte y Casares,887,Corredor Norte,Casares,7,29,9
+2010,Septiembre,EEUU y 33 Orientales,276,EEUU,33 Orientales,8,30,9
+2010,Septiembre,F. Alcorta y Derecho,849,F. Alcorta,Derecho,9,31,9
+2010,Septiembre,Montevideo y Peron,235,Montevideo,Peron,10,28,9
+2010,Septiembre,Cnel. Diaz y Mansilla,160,Cnel. Diaz,Mansilla,11,32,9
+2010,Septiembre,Arenales y Montevideo,346,Arenales,Montevideo,12,10,9
+2010,Octubre,Virrey Cevallos y Chile,1005,Virrey Cevallos,Chile,1,19,10
+2010,Octubre,Azopardo y Mexico,529,Azopardo,Mexico,2,25,10
+2010,Octubre,Rincon y Carlos Calvo,1135,Rincon,Carlos Calvo,3,26,10
+2010,Octubre,Virrey Liniers y C.Calvo,788,Virrey Liniers,C.Calvo,4,27,10
+2010,Octubre,Billinghurst y Peron,954,Billinghurst,Peron,5,28,10
+2010,Octubre,Del Libertador y Montevideo,731,Del Libertador,Montevideo,6,10,10
+2010,Octubre,Corredor Norte y Casares,1053,Corredor Norte,Casares,7,29,10
+2010,Octubre,EEUU y 33 Orientales,369,EEUU,33 Orientales,8,30,10
+2010,Octubre,F. Alcorta y Derecho,932,F. Alcorta,Derecho,9,31,10
+2010,Octubre,Montevideo y Peron,258,Montevideo,Peron,10,28,10
+2010,Octubre,Cnel. Diaz y Mansilla,175,Cnel. Diaz,Mansilla,11,32,10
+2010,Octubre,Arenales y Montevideo,380,Arenales,Montevideo,12,10,10
+2010,Noviembre,Virrey Cevallos y Chile,962,Virrey Cevallos,Chile,1,19,11
+2010,Noviembre,Azopardo y Mexico,779,Azopardo,Mexico,2,25,11
+2010,Noviembre,Rincon y Carlos Calvo,1273,Rincon,Carlos Calvo,3,26,11
+2010,Noviembre,Virrey Liniers y C.Calvo,853,Virrey Liniers,C.Calvo,4,27,11
+2010,Noviembre,Billinghurst y Peron,1542,Billinghurst,Peron,5,28,11
+2010,Noviembre,Del Libertador y Montevideo,794,Del Libertador,Montevideo,6,10,11
+2010,Noviembre,Corredor Norte y Casares,1010,Corredor Norte,Casares,7,29,11
+2010,Noviembre,EEUU y 33 Orientales,403,EEUU,33 Orientales,8,30,11
+2010,Noviembre,F. Alcorta y Derecho,1010,F. Alcorta,Derecho,9,31,11
+2010,Noviembre,Montevideo y Peron,279,Montevideo,Peron,10,28,11
+2010,Noviembre,Cnel. Diaz y Mansilla,190,Cnel. Diaz,Mansilla,11,32,11
+2010,Noviembre,Arenales y Montevideo,412,Arenales,Montevideo,12,10,11
+2010,Diciembre,Virrey Cevallos y Chile,985,Virrey Cevallos,Chile,1,19,12
+2010,Diciembre,Azopardo y Mexico,706,Azopardo,Mexico,2,25,12
+2010,Diciembre,Rincon y Carlos Calvo,1554,Rincon,Carlos Calvo,3,26,12
+2010,Diciembre,Virrey Liniers y C.Calvo,753,Virrey Liniers,C.Calvo,4,27,12
+2010,Diciembre,Billinghurst y Peron,1825,Billinghurst,Peron,5,28,12
+2010,Diciembre,Del Libertador y Montevideo,771,Del Libertador,Montevideo,6,10,12
+2010,Diciembre,Corredor Norte y Casares,1153,Corredor Norte,Casares,7,29,12
+2010,Diciembre,EEUU y 33 Orientales,461,EEUU,33 Orientales,8,30,12
+2010,Diciembre,F. Alcorta y Derecho,910,F. Alcorta,Derecho,9,31,12
+2010,Diciembre,Montevideo y Peron,248,Montevideo,Peron,10,28,12
+2010,Diciembre,Cnel. Diaz y Mansilla,169,Cnel. Diaz,Mansilla,11,32,12
+2010,Diciembre,Arenales y Montevideo,365,Arenales,Montevideo,12,10,12
+2011,Enero,Virrey Cevallos y Chile,955,Virrey Cevallos,Chile,1,19,1
+2011,Enero,Azopardo y Mexico,560,Azopardo,Mexico,2,25,1
+2011,Enero,Rincon y Carlos Calvo,1217,Rincon,Carlos Calvo,3,26,1
+2011,Enero,Virrey Liniers y C.Calvo,907,Virrey Liniers,C.Calvo,4,27,1
+2011,Enero,Billinghurst y Peron,1583,Billinghurst,Peron,5,28,1
+2011,Enero,Del Libertador y Montevideo,902,Del Libertador,Montevideo,6,10,1
+2011,Enero,Corredor Norte y Casares,1417,Corredor Norte,Casares,7,29,1
+2011,Enero,EEUU y 33 Orientales,502,EEUU,33 Orientales,8,30,1
+2011,Enero,F. Alcorta y Derecho,962,F. Alcorta,Derecho,9,31,1
+2011,Enero,Montevideo y Peron,373,Montevideo,Peron,10,28,1
+2011,Enero,Potosi y Rawson,523,Potosi,Rawson,17,33,1
+2011,Enero,J. Alvarez y Padilla,191,J. Alvarez,Padilla,18,34,1
+2011,Enero,Cnel. Diaz y Mansilla,316,Cnel. Diaz,Mansilla,11,32,1
+2011,Enero,Arenales y Montevideo,474,Arenales,Montevideo,12,10,1
+2011,Febrero,Virrey Cevallos y Chile,1006,Virrey Cevallos,Chile,1,19,2
+2011,Febrero,Azopardo y Mexico,590,Azopardo,Mexico,2,25,2
+2011,Febrero,Rincon y Carlos Calvo,1279,Rincon,Carlos Calvo,3,26,2
+2011,Febrero,Virrey Liniers y C.Calvo,843,Virrey Liniers,C.Calvo,4,27,2
+2011,Febrero,Billinghurst y Peron,1671,Billinghurst,Peron,5,28,2
+2011,Febrero,Del Libertador y Montevideo,1173,Del Libertador,Montevideo,6,10,2
+2011,Febrero,Corredor Norte y Casares,1463,Corredor Norte,Casares,7,29,2
+2011,Febrero,EEUU y 33 Orientales,643,EEUU,33 Orientales,8,30,2
+2011,Febrero,F. Alcorta y Derecho,1132,F. Alcorta,Derecho,9,31,2
+2011,Febrero,Montevideo y Peron,394,Montevideo,Peron,10,28,2
+2011,Febrero,Potosi y Rawson,407,Potosi,Rawson,17,33,2
+2011,Febrero,J. Alvarez y Padilla,201,J. Alvarez,Padilla,18,34,2
+2011,Febrero,Cnel. Diaz y Mansilla,334,Cnel. Diaz,Mansilla,11,32,2
+2011,Febrero,Arenales y Montevideo,500,Arenales,Montevideo,12,10,2
+2011,Marzo,Virrey Cevallos y Chile,1251,Virrey Cevallos,Chile,1,19,3
+2011,Marzo,Azopardo y Mexico,673,Azopardo,Mexico,2,25,3
+2011,Marzo,Rincon y Carlos Calvo,1166,Rincon,Carlos Calvo,3,26,3
+2011,Marzo,Virrey Liniers y C.Calvo,1103,Virrey Liniers,C.Calvo,4,27,3
+2011,Marzo,Billinghurst y Peron,1957,Billinghurst,Peron,5,28,3
+2011,Marzo,Del Libertador y Montevideo,1098,Del Libertador,Montevideo,6,10,3
+2011,Marzo,Corredor Norte y Casares,1756,Corredor Norte,Casares,7,29,3
+2011,Marzo,EEUU y 33 Orientales,695,EEUU,33 Orientales,8,30,3
+2011,Marzo,F. Alcorta y Derecho,1334,F. Alcorta,Derecho,9,31,3
+2011,Marzo,Montevideo y Peron,976,Montevideo,Peron,10,28,3
+2011,Marzo,Potosi y Rawson,444,Potosi,Rawson,17,33,3
+2011,Marzo,J. Alvarez y Padilla,306,J. Alvarez,Padilla,18,34,3
+2011,Marzo,Cnel. Diaz y Mansilla,373,Cnel. Diaz,Mansilla,11,32,3
+2011,Marzo,Arenales y Montevideo,558,Arenales,Montevideo,12,10,3
+2011,Abril,Virrey Cevallos y Chile,1444,Virrey Cevallos,Chile,1,19,4
+2011,Abril,Azopardo y Mexico,879,Azopardo,Mexico,2,25,4
+2011,Abril,Rincon y Carlos Calvo,1167,Rincon,Carlos Calvo,3,26,4
+2011,Abril,Virrey Liniers y C.Calvo,815,Virrey Liniers,C.Calvo,4,27,4
+2011,Abril,Billinghurst y Peron,2438,Billinghurst,Peron,5,28,4
+2011,Abril,Del Libertador y Montevideo,1473,Del Libertador,Montevideo,6,10,4
+2011,Abril,Corredor Norte y Casares,2075,Corredor Norte,Casares,7,29,4
+2011,Abril,EEUU y 33 Orientales,815,EEUU,33 Orientales,8,30,4
+2011,Abril,F. Alcorta y Derecho,1215,F. Alcorta,Derecho,9,31,4
+2011,Abril,Montevideo y Peron,1166,Montevideo,Peron,10,28,4
+2011,Abril,Potosi y Rawson,676,Potosi,Rawson,17,33,4
+2011,Abril,J. Alvarez y Padilla,404,J. Alvarez,Padilla,18,34,4
+2011,Abril,Cnel. Diaz y Mansilla,381,Cnel. Diaz,Mansilla,11,32,4
+2011,Abril,Arenales y Montevideo,571,Arenales,Montevideo,12,10,4
+2011,Mayo,Virrey Cevallos y Chile,1250,Virrey Cevallos,Chile,1,19,5
+2011,Mayo,Azopardo y Mexico,564,Azopardo,Mexico,2,25,5
+2011,Mayo,Rincon y Carlos Calvo,1009,Rincon,Carlos Calvo,3,26,5
+2011,Mayo,Virrey Liniers y C.Calvo,1168,Virrey Liniers,C.Calvo,4,27,5
+2011,Mayo,Billinghurst y Peron,2072,Billinghurst,Peron,5,28,5
+2011,Mayo,Del Libertador y Montevideo,1729,Del Libertador,Montevideo,6,10,5
+2011,Mayo,Corredor Norte y Casares,2044,Corredor Norte,Casares,7,29,5
+2011,Mayo,EEUU y 33 Orientales,783,EEUU,33 Orientales,8,30,5
+2011,Mayo,F. Alcorta y Derecho,1366,F. Alcorta,Derecho,9,31,5
+2011,Mayo,Montevideo y Peron,1075,Montevideo,Peron,10,28,5
+2011,Mayo,Potosi y Rawson,706,Potosi,Rawson,17,33,5
+2011,Mayo,J. Alvarez y Padilla,317,J. Alvarez,Padilla,18,34,5
+2011,Mayo,Cnel. Diaz y Mansilla,337,Cnel. Diaz,Mansilla,11,32,5
+2011,Mayo,Arenales y Montevideo,504,Arenales,Montevideo,12,10,5
+2011,Junio,Virrey Cevallos y Chile,1336,Virrey Cevallos,Chile,1,19,6
+2011,Junio,Azopardo y Mexico,584,Azopardo,Mexico,2,25,6
+2011,Junio,Rincon y Carlos Calvo,1059,Rincon,Carlos Calvo,3,26,6
+2011,Junio,Virrey Liniers y C.Calvo,752,Virrey Liniers,C.Calvo,4,27,6
+2011,Junio,Billinghurst y Peron,1964,Billinghurst,Peron,5,28,6
+2011,Junio,Del Libertador y Montevideo,1559,Del Libertador,Montevideo,6,10,6
+2011,Junio,Corredor Norte y Casares,1738,Corredor Norte,Casares,7,29,6
+2011,Junio,EEUU y 33 Orientales,616,EEUU,33 Orientales,8,30,6
+2011,Junio,F. Alcorta y Derecho,1093,F. Alcorta,Derecho,9,31,6
+2011,Junio,Montevideo y Peron,925,Montevideo,Peron,10,28,6
+2011,Junio,Potosi y Rawson,468,Potosi,Rawson,17,33,6
+2011,Junio,J. Alvarez y Padilla,223,J. Alvarez,Padilla,18,34,6
+2011,Junio,Cnel. Diaz y Mansilla,300,Cnel. Diaz,Mansilla,11,32,6
+2011,Junio,Arenales y Montevideo,448,Arenales,Montevideo,12,10,6
+2011,Julio,Virrey Cevallos y Chile,1149,Virrey Cevallos,Chile,1,19,7
+2011,Julio,Azopardo y Mexico,533,Azopardo,Mexico,2,25,7
+2011,Julio,Rincon y Carlos Calvo,740,Rincon,Carlos Calvo,3,26,7
+2011,Julio,Virrey Liniers y C.Calvo,663,Virrey Liniers,C.Calvo,4,27,7
+2011,Julio,Billinghurst y Peron,1555,Billinghurst,Peron,5,28,7
+2011,Julio,Del Libertador y Montevideo,969,Del Libertador,Montevideo,6,10,7
+2011,Julio,Corredor Norte y Casares,1168,Corredor Norte,Casares,7,29,7
+2011,Julio,EEUU y 33 Orientales,490,EEUU,33 Orientales,8,30,7
+2011,Julio,F. Alcorta y Derecho,821,F. Alcorta,Derecho,9,31,7
+2011,Julio,Montevideo y Peron,809,Montevideo,Peron,10,28,7
+2011,Julio,Potosi y Rawson,441,Potosi,Rawson,17,33,7
+2011,Julio,J. Alvarez y Padilla,243,J. Alvarez,Padilla,18,34,7
+2011,Julio,Cnel. Diaz y Mansilla,250,Cnel. Diaz,Mansilla,11,32,7
+2011,Julio,Arenales y Montevideo,374,Arenales,Montevideo,12,10,7
+2011,Agosto,Virrey Cevallos y Chile,919,Virrey Cevallos,Chile,1,19,8
+2011,Agosto,Azopardo y Mexico,504,Azopardo,Mexico,2,25,8
+2011,Agosto,Rincon y Carlos Calvo,758,Rincon,Carlos Calvo,3,26,8
+2011,Agosto,Virrey Liniers y C.Calvo,586,Virrey Liniers,C.Calvo,4,27,8
+2011,Agosto,Billinghurst y Peron,1387,Billinghurst,Peron,5,28,8
+2011,Agosto,Del Libertador y Montevideo,950,Del Libertador,Montevideo,6,10,8
+2011,Agosto,Corredor Norte y Casares,1230,Corredor Norte,Casares,7,29,8
+2011,Agosto,EEUU y 33 Orientales,441,EEUU,33 Orientales,8,30,8
+2011,Agosto,F. Alcorta y Derecho,786,F. Alcorta,Derecho,9,31,8
+2011,Agosto,Montevideo y Peron,870,Montevideo,Peron,10,28,8
+2011,Agosto,Potosi y Rawson,419,Potosi,Rawson,17,33,8
+2011,Agosto,J. Alvarez y Padilla,238,J. Alvarez,Padilla,18,34,8
+2011,Agosto,Cnel. Diaz y Mansilla,275,Cnel. Diaz,Mansilla,11,32,8
+2011,Agosto,Arenales y Montevideo,412,Arenales,Montevideo,12,10,8
+2011,Septiembre,Virrey Cevallos y Chile,1267,Virrey Cevallos,Chile,1,19,9
+2011,Septiembre,Azopardo y Mexico,587,Azopardo,Mexico,2,25,9
+2011,Septiembre,Rincon y Carlos Calvo,873,Rincon,Carlos Calvo,3,26,9
+2011,Septiembre,Virrey Liniers y C.Calvo,684,Virrey Liniers,C.Calvo,4,27,9
+2011,Septiembre,Billinghurst y Peron,1910,Billinghurst,Peron,5,28,9
+2011,Septiembre,Del Libertador y Montevideo,1308,Del Libertador,Montevideo,6,10,9
+2011,Septiembre,Corredor Norte y Casares,1906,Corredor Norte,Casares,7,29,9
+2011,Septiembre,EEUU y 33 Orientales,657,EEUU,33 Orientales,8,30,9
+2011,Septiembre,F. Alcorta y Derecho,1411,F. Alcorta,Derecho,9,31,9
+2011,Septiembre,Montevideo y Peron,893,Montevideo,Peron,10,28,9
+2011,Septiembre,Potosi y Rawson,666,Potosi,Rawson,17,33,9
+2011,Septiembre,J. Alvarez y Padilla,359,J. Alvarez,Padilla,18,34,9
+2011,Septiembre,Cnel. Diaz y Mansilla,297,Cnel. Diaz,Mansilla,11,32,9
+2011,Septiembre,Arenales y Montevideo,445,Arenales,Montevideo,12,10,9
+2011,Octubre,Virrey Cevallos y Chile,1543,Virrey Cevallos,Chile,1,19,10
+2011,Octubre,Azopardo y Mexico,696,Azopardo,Mexico,2,25,10
+2011,Octubre,Rincon y Carlos Calvo,1142,Rincon,Carlos Calvo,3,26,10
+2011,Octubre,Virrey Liniers y C.Calvo,1008,Virrey Liniers,C.Calvo,4,27,10
+2011,Octubre,Billinghurst y Peron,2501,Billinghurst,Peron,5,28,10
+2011,Octubre,Del Libertador y Montevideo,2157,Del Libertador,Montevideo,6,10,10
+2011,Octubre,Corredor Norte y Casares,3310,Corredor Norte,Casares,7,29,10
+2011,Octubre,EEUU y 33 Orientales,838,EEUU,33 Orientales,8,30,10
+2011,Octubre,F. Alcorta y Derecho,1680,F. Alcorta,Derecho,9,31,10
+2011,Octubre,Montevideo y Peron,1063,Montevideo,Peron,10,28,10
+2011,Octubre,Potosi y Rawson,802,Potosi,Rawson,17,33,10
+2011,Octubre,J. Alvarez y Padilla,387,J. Alvarez,Padilla,18,34,10
+2011,Octubre,Cnel. Diaz y Mansilla,326,Cnel. Diaz,Mansilla,11,32,10
+2011,Octubre,Arenales y Montevideo,488,Arenales,Montevideo,12,10,10
+2011,Noviembre,Virrey Cevallos y Chile,1712,Virrey Cevallos,Chile,1,19,11
+2011,Noviembre,Azopardo y Mexico,815,Azopardo,Mexico,2,25,11
+2011,Noviembre,Rincon y Carlos Calvo,1049,Rincon,Carlos Calvo,3,26,11
+2011,Noviembre,Virrey Liniers y C.Calvo,1062,Virrey Liniers,C.Calvo,4,27,11
+2011,Noviembre,Billinghurst y Peron,2986,Billinghurst,Peron,5,28,11
+2011,Noviembre,Del Libertador y Montevideo,2493,Del Libertador,Montevideo,6,10,11
+2011,Noviembre,Corredor Norte y Casares,3245,Corredor Norte,Casares,7,29,11
+2011,Noviembre,EEUU y 33 Orientales,952,EEUU,33 Orientales,8,30,11
+2011,Noviembre,F. Alcorta y Derecho,2012,F. Alcorta,Derecho,9,31,11
+2011,Noviembre,Montevideo y Peron,1220,Montevideo,Peron,10,28,11
+2011,Noviembre,Potosi y Rawson,837,Potosi,Rawson,17,33,11
+2011,Noviembre,J. Alvarez y Padilla,492,J. Alvarez,Padilla,18,34,11
+2011,Noviembre,Chile y Tacuari,784,Chile,Tacuari,19,35,11
+2011,Noviembre,Serrano y Loyola,684,Serrano,Loyola,20,36,11
+2011,Noviembre,Gorriti y G. Cruz,1175,Gorriti,G. Cruz,21,37,11
+2011,Noviembre,Cnel. Diaz y Mansilla,353,Cnel. Diaz,Mansilla,11,32,11
+2011,Noviembre,Arenales y Montevideo,528,Arenales,Montevideo,12,10,11
+2011,Diciembre,Virrey Cevallos y Chile,1567,Virrey Cevallos,Chile,1,19,12
+2011,Diciembre,Azopardo y Mexico,749,Azopardo,Mexico,2,25,12
+2011,Diciembre,Rincon y Carlos Calvo,1342,Rincon,Carlos Calvo,3,26,12
+2011,Diciembre,Virrey Liniers y C.Calvo,1141,Virrey Liniers,C.Calvo,4,27,12
+2011,Diciembre,Billinghurst y Peron,2541,Billinghurst,Peron,5,28,12
+2011,Diciembre,Del Libertador y Montevideo,2109,Del Libertador,Montevideo,6,10,12
+2011,Diciembre,Corredor Norte y Casares,2875,Corredor Norte,Casares,7,29,12
+2011,Diciembre,EEUU y 33 Orientales,875,EEUU,33 Orientales,8,30,12
+2011,Diciembre,F. Alcorta y Derecho,1440,F. Alcorta,Derecho,9,31,12
+2011,Diciembre,Montevideo y Peron,1081,Montevideo,Peron,10,28,12
+2011,Diciembre,Potosi y Rawson,761,Potosi,Rawson,17,33,12
+2011,Diciembre,J. Alvarez y Padilla,478,J. Alvarez,Padilla,18,34,12
+2011,Diciembre,Chile y Tacuari,871,Chile,Tacuari,19,35,12
+2011,Diciembre,Serrano y Loyola,637,Serrano,Loyola,20,36,12
+2011,Diciembre,Gorriti y G. Cruz,1435,Gorriti,G. Cruz,21,37,12
+2011,Diciembre,Cnel. Diaz y Mansilla,313,Cnel. Diaz,Mansilla,11,32,12
+2011,Diciembre,Arenales y Montevideo,469,Arenales,Montevideo,12,10,12
+2012,Enero,Virrey Cevallos y Chile,1145,Virrey Cevallos,Chile,1,19,1
+2012,Enero,Azopardo y Mexico,507,Azopardo,Mexico,2,25,1
+2012,Enero,Rincon y Carlos Calvo,1067,Rincon,Carlos Calvo,3,26,1
+2012,Enero,Virrey Liniers y C.Calvo,1093,Virrey Liniers,C.Calvo,4,27,1
+2012,Enero,Billinghurst y Peron,1981,Billinghurst,Peron,5,28,1
+2012,Enero,Del Libertador y Montevideo,1673,Del Libertador,Montevideo,6,10,1
+2012,Enero,Corredor Norte y Casares,2906,Corredor Norte,Casares,7,29,1
+2012,Enero,EEUU y 33 Orientales,751,EEUU,33 Orientales,8,30,1
+2012,Enero,F. Alcorta y Derecho,834,F. Alcorta,Derecho,9,31,1
+2012,Enero,Montevideo y Peron,1043,Montevideo,Peron,10,28,1
+2012,Enero,Potosi y Rawson,745,Potosi,Rawson,17,33,1
+2012,Enero,J. Alvarez y Padilla,383,J. Alvarez,Padilla,18,34,1
+2012,Enero,Chile y Tacuari,680,Chile,Tacuari,19,35,1
+2012,Enero,Serrano y Loyola,890,Serrano,Loyola,20,36,1
+2012,Enero,Gorriti y G. Cruz,1615,Gorriti,G. Cruz,21,37,1
+2012,Enero,Cnel. Diaz y Mansilla,719,Cnel. Diaz,Mansilla,11,32,1
+2012,Enero,11 de Sep y Monroe,401,11 de Sep,Monroe,22,38,1
+2012,Enero,Arenales y Montevideo,459,Arenales,Montevideo,12,10,1
+2012,Febrero,Virrey Cevallos y Chile,884,Virrey Cevallos,Chile,1,19,2
+2012,Febrero,Azopardo y Mexico,547,Azopardo,Mexico,2,25,2
+2012,Febrero,Rincon y Carlos Calvo,1546,Rincon,Carlos Calvo,3,26,2
+2012,Febrero,Virrey Liniers y C.Calvo,982,Virrey Liniers,C.Calvo,4,27,2
+2012,Febrero,Billinghurst y Peron,2008,Billinghurst,Peron,5,28,2
+2012,Febrero,Del Libertador y Montevideo,1222,Del Libertador,Montevideo,6,10,2
+2012,Febrero,Corredor Norte y Casares,1839,Corredor Norte,Casares,7,29,2
+2012,Febrero,EEUU y 33 Orientales,681,EEUU,33 Orientales,8,30,2
+2012,Febrero,F. Alcorta y Derecho,1436,F. Alcorta,Derecho,9,31,2
+2012,Febrero,Montevideo y Peron,1080,Montevideo,Peron,10,28,2
+2012,Febrero,Potosi y Rawson,576,Potosi,Rawson,17,33,2
+2012,Febrero,J. Alvarez y Padilla,409,J. Alvarez,Padilla,18,34,2
+2012,Febrero,Chile y Tacuari,794,Chile,Tacuari,19,35,2
+2012,Febrero,Serrano y Loyola,1057,Serrano,Loyola,20,36,2
+2012,Febrero,Gorriti y G. Cruz,1634,Gorriti,G. Cruz,21,37,2
+2012,Febrero,Cnel. Diaz y Mansilla,1047,Cnel. Diaz,Mansilla,11,32,2
+2012,Febrero,11 de Sep y Monroe,445,11 de Sep,Monroe,22,38,2
+2012,Febrero,Arenales y Montevideo,446,Arenales,Montevideo,12,10,2
+2012,Marzo,Virrey Cevallos y Chile,1744,Virrey Cevallos,Chile,1,19,3
+2012,Marzo,Azopardo y Mexico,783,Azopardo,Mexico,2,25,3
+2012,Marzo,Rincon y Carlos Calvo,1390,Rincon,Carlos Calvo,3,26,3
+2012,Marzo,Virrey Liniers y C.Calvo,867,Virrey Liniers,C.Calvo,4,27,3
+2012,Marzo,Billinghurst y Peron,2742,Billinghurst,Peron,5,28,3
+2012,Marzo,Del Libertador y Montevideo,1912,Del Libertador,Montevideo,6,10,3
+2012,Marzo,Corredor Norte y Casares,3198,Corredor Norte,Casares,7,29,3
+2012,Marzo,EEUU y 33 Orientales,1138,EEUU,33 Orientales,8,30,3
+2012,Marzo,F. Alcorta y Derecho,1831,F. Alcorta,Derecho,9,31,3
+2012,Marzo,Montevideo y Peron,1433,Montevideo,Peron,10,28,3
+2012,Marzo,Potosi y Rawson,826,Potosi,Rawson,17,33,3
+2012,Marzo,J. Alvarez y Padilla,663,J. Alvarez,Padilla,18,34,3
+2012,Marzo,Chile y Tacuari,944,Chile,Tacuari,19,35,3
+2012,Marzo,Serrano y Loyola,977,Serrano,Loyola,20,36,3
+2012,Marzo,Gorriti y G. Cruz,1744,Gorriti,G. Cruz,21,37,3
+2012,Marzo,Cnel. Diaz y Mansilla,1314,Cnel. Diaz,Mansilla,11,32,3
+2012,Marzo,11 de Sep y Monroe,545,11 de Sep,Monroe,22,38,3
+2012,Marzo,Arenales y Montevideo,454,Arenales,Montevideo,12,10,3
+2012,Abril,Virrey Cevallos y Chile,1857,Virrey Cevallos,Chile,1,19,4
+2012,Abril,Azopardo y Mexico,612,Azopardo,Mexico,2,25,4
+2012,Abril,Rincon y Carlos Calvo,1635,Rincon,Carlos Calvo,3,26,4
+2012,Abril,Virrey Liniers y C.Calvo,1130,Virrey Liniers,C.Calvo,4,27,4
+2012,Abril,Billinghurst y Peron,3023,Billinghurst,Peron,5,28,4
+2012,Abril,Del Libertador y Montevideo,2173,Del Libertador,Montevideo,6,10,4
+2012,Abril,Corredor Norte y Casares,2803,Corredor Norte,Casares,7,29,4
+2012,Abril,EEUU y 33 Orientales,1126,EEUU,33 Orientales,8,30,4
+2012,Abril,F. Alcorta y Derecho,1745,F. Alcorta,Derecho,9,31,4
+2012,Abril,Montevideo y Peron,2047,Montevideo,Peron,10,28,4
+2012,Abril,Potosi y Rawson,858,Potosi,Rawson,17,33,4
+2012,Abril,J. Alvarez y Padilla,793,J. Alvarez,Padilla,18,34,4
+2012,Abril,Chile y Tacuari,871,Chile,Tacuari,19,35,4
+2012,Abril,Serrano y Loyola,1066,Serrano,Loyola,20,36,4
+2012,Abril,Gorriti y G. Cruz,2124,Gorriti,G. Cruz,21,37,4
+2012,Abril,Cnel. Diaz y Mansilla,1420,Cnel. Diaz,Mansilla,11,32,4
+2012,Abril,11 de Sep y Monroe,750,11 de Sep,Monroe,22,38,4
+2012,Abril,Arenales y Montevideo,431,Arenales,Montevideo,12,10,4
+2012,Mayo,Virrey Cevallos y Chile,1712,Virrey Cevallos,Chile,1,19,5
+2012,Mayo,Azopardo y Mexico,614,Azopardo,Mexico,2,25,5
+2012,Mayo,Rincon y Carlos Calvo,1552,Rincon,Carlos Calvo,3,26,5
+2012,Mayo,Virrey Liniers y C.Calvo,1332,Virrey Liniers,C.Calvo,4,27,5
+2012,Mayo,Billinghurst y Peron,3305,Billinghurst,Peron,5,28,5
+2012,Mayo,Del Libertador y Montevideo,2388,Del Libertador,Montevideo,6,10,5
+2012,Mayo,Corredor Norte y Casares,2407,Corredor Norte,Casares,7,29,5
+2012,Mayo,EEUU y 33 Orientales,936,EEUU,33 Orientales,8,30,5
+2012,Mayo,F. Alcorta y Derecho,1907,F. Alcorta,Derecho,9,31,5
+2012,Mayo,Montevideo y Peron,2035,Montevideo,Peron,10,28,5
+2012,Mayo,Potosi y Rawson,854,Potosi,Rawson,17,33,5
+2012,Mayo,J. Alvarez y Padilla,628,J. Alvarez,Padilla,18,34,5
+2012,Mayo,Chile y Tacuari,975,Chile,Tacuari,19,35,5
+2012,Mayo,Serrano y Loyola,913,Serrano,Loyola,20,36,5
+2012,Mayo,Gorriti y G. Cruz,1903,Gorriti,G. Cruz,21,37,5
+2012,Mayo,Cnel. Diaz y Mansilla,1622,Cnel. Diaz,Mansilla,11,32,5
+2012,Mayo,11 de Sep y Monroe,693,11 de Sep,Monroe,22,38,5
+2012,Mayo,Arenales y Montevideo,413,Arenales,Montevideo,12,10,5
+2012,Junio,Virrey Cevallos y Chile,1721,Virrey Cevallos,Chile,1,19,6
+2012,Junio,Azopardo y Mexico,557,Azopardo,Mexico,2,25,6
+2012,Junio,Rincon y Carlos Calvo,1273,Rincon,Carlos Calvo,3,26,6
+2012,Junio,Virrey Liniers y C.Calvo,1147,Virrey Liniers,C.Calvo,4,27,6
+2012,Junio,Billinghurst y Peron,2643,Billinghurst,Peron,5,28,6
+2012,Junio,Del Libertador y Montevideo,1366,Del Libertador,Montevideo,6,10,6
+2012,Junio,Corredor Norte y Casares,1855,Corredor Norte,Casares,7,29,6
+2012,Junio,EEUU y 33 Orientales,753,EEUU,33 Orientales,8,30,6
+2012,Junio,F. Alcorta y Derecho,1365,F. Alcorta,Derecho,9,31,6
+2012,Junio,Montevideo y Peron,1857,Montevideo,Peron,10,28,6
+2012,Junio,Potosi y Rawson,631,Potosi,Rawson,17,33,6
+2012,Junio,J. Alvarez y Padilla,414,J. Alvarez,Padilla,18,34,6
+2012,Junio,Chile y Tacuari,878,Chile,Tacuari,19,35,6
+2012,Junio,Serrano y Loyola,769,Serrano,Loyola,20,36,6
+2012,Junio,Gorriti y G. Cruz,1564,Gorriti,G. Cruz,21,37,6
+2012,Junio,Cnel. Diaz y Mansilla,814,Cnel. Diaz,Mansilla,11,32,6
+2012,Junio,11 de Sep y Monroe,386,11 de Sep,Monroe,22,38,6
+2012,Junio,Arenales y Montevideo,397,Arenales,Montevideo,12,10,6
+2012,Julio,Virrey Cevallos y Chile,1427,Virrey Cevallos,Chile,1,19,7
+2012,Julio,Azopardo y Mexico,570,Azopardo,Mexico,2,25,7
+2012,Julio,Rincon y Carlos Calvo,1240,Rincon,Carlos Calvo,3,26,7
+2012,Julio,Virrey Liniers y C.Calvo,820,Virrey Liniers,C.Calvo,4,27,7
+2012,Julio,Billinghurst y Peron,2035,Billinghurst,Peron,5,28,7
+2012,Julio,Del Libertador y Montevideo,1263,Del Libertador,Montevideo,6,10,7
+2012,Julio,Corredor Norte y Casares,1790,Corredor Norte,Casares,7,29,7
+2012,Julio,EEUU y 33 Orientales,733,EEUU,33 Orientales,8,30,7
+2012,Julio,F. Alcorta y Derecho,1446,F. Alcorta,Derecho,9,31,7
+2012,Julio,Montevideo y Peron,1338,Montevideo,Peron,10,28,7
+2012,Julio,Potosi y Rawson,724,Potosi,Rawson,17,33,7
+2012,Julio,J. Alvarez y Padilla,327,J. Alvarez,Padilla,18,34,7
+2012,Julio,Chile y Tacuari,766,Chile,Tacuari,19,35,7
+2012,Julio,Serrano y Loyola,789,Serrano,Loyola,20,36,7
+2012,Julio,Gorriti y G. Cruz,1580,Gorriti,G. Cruz,21,37,7
+2012,Julio,Cnel. Diaz y Mansilla,1128,Cnel. Diaz,Mansilla,11,32,7
+2012,Julio,11 de Sep y Monroe,492,11 de Sep,Monroe,22,38,7
+2012,Julio,Arenales y Montevideo,377,Arenales,Montevideo,12,10,7
+2012,Agosto,Virrey Cevallos y Chile,1499,Virrey Cevallos,Chile,1,19,8
+2012,Agosto,Azopardo y Mexico,621,Azopardo,Mexico,2,25,8
+2012,Agosto,Rincon y Carlos Calvo,1790,Rincon,Carlos Calvo,3,26,8
+2012,Agosto,Virrey Liniers y C.Calvo,1251,Virrey Liniers,C.Calvo,4,27,8
+2012,Agosto,Billinghurst y Peron,3105,Billinghurst,Peron,5,28,8
+2012,Agosto,Del Libertador y Montevideo,2022,Del Libertador,Montevideo,6,10,8
+2012,Agosto,Corredor Norte y Casares,2692,Corredor Norte,Casares,7,29,8
+2012,Agosto,EEUU y 33 Orientales,929,EEUU,33 Orientales,8,30,8
+2012,Agosto,F. Alcorta y Derecho,1424,F. Alcorta,Derecho,9,31,8
+2012,Agosto,Montevideo y Peron,1986,Montevideo,Peron,10,28,8
+2012,Agosto,Potosi y Rawson,892,Potosi,Rawson,17,33,8
+2012,Agosto,J. Alvarez y Padilla,558,J. Alvarez,Padilla,18,34,8
+2012,Agosto,Chile y Tacuari,761,Chile,Tacuari,19,35,8
+2012,Agosto,Serrano y Loyola,873,Serrano,Loyola,20,36,8
+2012,Agosto,Gorriti y G. Cruz,2093,Gorriti,G. Cruz,21,37,8
+2012,Agosto,Cnel. Diaz y Mansilla,1461,Cnel. Diaz,Mansilla,11,32,8
+2012,Agosto,11 de Sep y Monroe,591,11 de Sep,Monroe,22,38,8
+2012,Agosto,Arenales y Montevideo,412,Arenales,Montevideo,12,10,8
+2012,Septiembre,Virrey Cevallos y Chile,2040,Virrey Cevallos,Chile,1,19,9
+2012,Septiembre,Azopardo y Mexico,857,Azopardo,Mexico,2,25,9
+2012,Septiembre,Rincon y Carlos Calvo,1983,Rincon,Carlos Calvo,3,26,9
+2012,Septiembre,Virrey Liniers y C.Calvo,1673,Virrey Liniers,C.Calvo,4,27,9
+2012,Septiembre,Billinghurst y Peron,3257,Billinghurst,Peron,5,28,9
+2012,Septiembre,Del Libertador y Montevideo,1659,Del Libertador,Montevideo,6,10,9
+2012,Septiembre,Corredor Norte y Casares,2146,Corredor Norte,Casares,7,29,9
+2012,Septiembre,EEUU y 33 Orientales,885,EEUU,33 Orientales,8,30,9
+2012,Septiembre,F. Alcorta y Derecho,1696,F. Alcorta,Derecho,9,31,9
+2012,Septiembre,Montevideo y Peron,2175,Montevideo,Peron,10,28,9
+2012,Septiembre,Potosi y Rawson,1023,Potosi,Rawson,17,33,9
+2012,Septiembre,J. Alvarez y Padilla,753,J. Alvarez,Padilla,18,34,9
+2012,Septiembre,Chile y Tacuari,862,Chile,Tacuari,19,35,9
+2012,Septiembre,Serrano y Loyola,1375,Serrano,Loyola,20,36,9
+2012,Septiembre,Gorriti y G. Cruz,2238,Gorriti,G. Cruz,21,37,9
+2012,Septiembre,Cnel. Diaz y Mansilla,1536,Cnel. Diaz,Mansilla,11,32,9
+2012,Septiembre,11 de Sep y Monroe,373,11 de Sep,Monroe,22,38,9
+2012,Septiembre,Arenales y Montevideo,1541,Arenales,Montevideo,12,10,9
+2012,Octubre,Virrey Cevallos y Chile,2440,Virrey Cevallos,Chile,1,19,10
+2012,Octubre,Azopardo y Mexico,884,Azopardo,Mexico,2,25,10
+2012,Octubre,Rincon y Carlos Calvo,1923,Rincon,Carlos Calvo,3,26,10
+2012,Octubre,Virrey Liniers y C.Calvo,1632,Virrey Liniers,C.Calvo,4,27,10
+2012,Octubre,Billinghurst y Peron,3318,Billinghurst,Peron,5,28,10
+2012,Octubre,Del Libertador y Montevideo,1939,Del Libertador,Montevideo,6,10,10
+2012,Octubre,Corredor Norte y Casares,3175,Corredor Norte,Casares,7,29,10
+2012,Octubre,EEUU y 33 Orientales,1083,EEUU,33 Orientales,8,30,10
+2012,Octubre,F. Alcorta y Derecho,1780,F. Alcorta,Derecho,9,31,10
+2012,Octubre,Montevideo y Peron,1914,Montevideo,Peron,10,28,10
+2012,Octubre,Potosi y Rawson,943,Potosi,Rawson,17,33,10
+2012,Octubre,J. Alvarez y Padilla,651,J. Alvarez,Padilla,18,34,10
+2012,Octubre,Chile y Tacuari,814,Chile,Tacuari,19,35,10
+2012,Octubre,Serrano y Loyola,942,Serrano,Loyola,20,36,10
+2012,Octubre,Gorriti y G. Cruz,1549,Gorriti,G. Cruz,21,37,10
+2012,Octubre,Cnel. Diaz y Mansilla,1155,Cnel. Diaz,Mansilla,11,32,10
+2012,Octubre,11 de Sep y Monroe,582,11 de Sep,Monroe,22,38,10
+2012,Octubre,Arenales y Montevideo,1263,Arenales,Montevideo,12,10,10
+2012,Noviembre,Virrey Cevallos y Chile,2163,Virrey Cevallos,Chile,1,19,11
+2012,Noviembre,Azopardo y Mexico,728,Azopardo,Mexico,2,25,11
+2012,Noviembre,Rincon y Carlos Calvo,2076,Rincon,Carlos Calvo,3,26,11
+2012,Noviembre,Virrey Liniers y C.Calvo,2302,Virrey Liniers,C.Calvo,4,27,11
+2012,Noviembre,Billinghurst y Peron,4486,Billinghurst,Peron,5,28,11
+2012,Noviembre,Del Libertador y Montevideo,2493,Del Libertador,Montevideo,6,10,11
+2012,Noviembre,Corredor Norte y Casares,4030,Corredor Norte,Casares,7,29,11
+2012,Noviembre,EEUU y 33 Orientales,1281,EEUU,33 Orientales,8,30,11
+2012,Noviembre,F. Alcorta y Derecho,2745,F. Alcorta,Derecho,9,31,11
+2012,Noviembre,Montevideo y Peron,2743,Montevideo,Peron,10,28,11
+2012,Noviembre,Potosi y Rawson,1260,Potosi,Rawson,17,33,11
+2012,Noviembre,J. Alvarez y Padilla,978,J. Alvarez,Padilla,18,34,11
+2012,Noviembre,Chile y Tacuari,1060,Chile,Tacuari,19,35,11
+2012,Noviembre,Serrano y Loyola,1437,Serrano,Loyola,20,36,11
+2012,Noviembre,Gorriti y G. Cruz,2733,Gorriti,G. Cruz,21,37,11
+2012,Noviembre,Cnel. Diaz y Mansilla,2203,Cnel. Diaz,Mansilla,11,32,11
+2012,Noviembre,11 de Sep y Monroe,676,11 de Sep,Monroe,22,38,11
+2012,Noviembre,Arenales y Montevideo,1869,Arenales,Montevideo,12,10,11
+2012,Diciembre,Virrey Cevallos y Chile,2041,Virrey Cevallos,Chile,1,19,12
+2012,Diciembre,Azopardo y Mexico,822,Azopardo,Mexico,2,25,12
+2012,Diciembre,Rincon y Carlos Calvo,2306,Rincon,Carlos Calvo,3,26,12
+2012,Diciembre,Virrey Liniers y C.Calvo,1989,Virrey Liniers,C.Calvo,4,27,12
+2012,Diciembre,Billinghurst y Peron,3490,Billinghurst,Peron,5,28,12
+2012,Diciembre,Del Libertador y Montevideo,2123,Del Libertador,Montevideo,6,10,12
+2012,Diciembre,Corredor Norte y Casares,2643,Corredor Norte,Casares,7,29,12
+2012,Diciembre,EEUU y 33 Orientales,1063,EEUU,33 Orientales,8,30,12
+2012,Diciembre,F. Alcorta y Derecho,2108,F. Alcorta,Derecho,9,31,12
+2012,Diciembre,Montevideo y Peron,2457,Montevideo,Peron,10,28,12
+2012,Diciembre,Potosi y Rawson,1165,Potosi,Rawson,17,33,12
+2012,Diciembre,J. Alvarez y Padilla,634,J. Alvarez,Padilla,18,34,12
+2012,Diciembre,Chile y Tacuari,949,Chile,Tacuari,19,35,12
+2012,Diciembre,Serrano y Loyola,1198,Serrano,Loyola,20,36,12
+2012,Diciembre,Gorriti y G. Cruz,2243,Gorriti,G. Cruz,21,37,12
+2012,Diciembre,Cnel. Diaz y Mansilla,2294,Cnel. Diaz,Mansilla,11,32,12
+2012,Diciembre,11 de Sep y Monroe,864,11 de Sep,Monroe,22,38,12
+2012,Diciembre,Arenales y Montevideo,1902,Arenales,Montevideo,12,10,12
+2013,Enero,Virrey Cevallos y Chile,1855,Virrey Cevallos,Chile,1,19,1
+2013,Enero,Azopardo y Mexico,874,Azopardo,Mexico,2,25,1
+2013,Enero,Rincon y Carlos Calvo,1541,Rincon,Carlos Calvo,3,26,1
+2013,Enero,Virrey Liniers y C.Calvo,1601,Virrey Liniers,C.Calvo,4,27,1
+2013,Enero,Billinghurst y Peron,3701,Billinghurst,Peron,5,28,1
+2013,Enero,Del Libertador y Montevideo,2592,Del Libertador,Montevideo,6,10,1
+2013,Enero,Corredor Norte y Casares,3626,Corredor Norte,Casares,7,29,1
+2013,Enero,EEUU y 33 Orientales,1241,EEUU,33 Orientales,8,30,1
+2013,Enero,F. Alcorta y Derecho,2168,F. Alcorta,Derecho,9,31,1
+2013,Enero,Montevideo y Peron,2381,Montevideo,Peron,10,28,1
+2013,Enero,Potosi y Rawson,1208,Potosi,Rawson,17,33,1
+2013,Enero,J. Alvarez y Padilla,805,J. Alvarez,Padilla,18,34,1
+2013,Enero,Chile y Tacuari,984,Chile,Tacuari,19,35,1
+2013,Enero,Serrano y Loyola,1414,Serrano,Loyola,20,36,1
+2013,Enero,Gorriti y G. Cruz,2358,Gorriti,G. Cruz,21,37,1
+2013,Enero,Cnel. Diaz y Mansilla,2161,Cnel. Diaz,Mansilla,11,32,1
+2013,Enero,11 de Sep y Monroe,878,11 de Sep,Monroe,22,38,1
+2013,Enero,Arenales y Montevideo,1770,Arenales,Montevideo,12,10,1
+2013,Febrero,Virrey Cevallos y Chile,2376,Virrey Cevallos,Chile,1,19,2
+2013,Febrero,Azopardo y Mexico,1011,Azopardo,Mexico,2,25,2
+2013,Febrero,Rincon y Carlos Calvo,1953,Rincon,Carlos Calvo,3,26,2
+2013,Febrero,Virrey Liniers y C.Calvo,2133,Virrey Liniers,C.Calvo,4,27,2
+2013,Febrero,Billinghurst y Peron,3805,Billinghurst,Peron,5,28,2
+2013,Febrero,Del Libertador y Montevideo,2867,Del Libertador,Montevideo,6,10,2
+2013,Febrero,Corredor Norte y Casares,5358,Corredor Norte,Casares,7,29,2
+2013,Febrero,EEUU y 33 Orientales,998,EEUU,33 Orientales,8,30,2
+2013,Febrero,F. Alcorta y Derecho,2830,F. Alcorta,Derecho,9,31,2
+2013,Febrero,Montevideo y Peron,2461,Montevideo,Peron,10,28,2
+2013,Febrero,Potosi y Rawson,1083,Potosi,Rawson,17,33,2
+2013,Febrero,J. Alvarez y Padilla,688,J. Alvarez,Padilla,18,34,2
+2013,Febrero,Chile y Tacuari,1002,Chile,Tacuari,19,35,2
+2013,Febrero,Serrano y Loyola,1512,Serrano,Loyola,20,36,2
+2013,Febrero,Gorriti y G. Cruz,2884,Gorriti,G. Cruz,21,37,2
+2013,Febrero,Cnel. Diaz y Mansilla,2559,Cnel. Diaz,Mansilla,11,32,2
+2013,Febrero,11 de Sep y Monroe,1183,11 de Sep,Monroe,22,38,2
+2013,Febrero,Arenales y Montevideo,1914,Arenales,Montevideo,12,10,2
+2013,Marzo,Virrey Cevallos y Chile,2698,Virrey Cevallos,Chile,1,19,3
+2013,Marzo,Azopardo y Mexico,941,Azopardo,Mexico,2,25,3
+2013,Marzo,Rincon y Carlos Calvo,2556,Rincon,Carlos Calvo,3,26,3
+2013,Marzo,Virrey Liniers y C.Calvo,2308,Virrey Liniers,C.Calvo,4,27,3
+2013,Marzo,Billinghurst y Peron,4759,Billinghurst,Peron,5,28,3
+2013,Marzo,Del Libertador y Montevideo,3159,Del Libertador,Montevideo,6,10,3
+2013,Marzo,Corredor Norte y Casares,4141,Corredor Norte,Casares,7,29,3
+2013,Marzo,EEUU y 33 Orientales,1590,EEUU,33 Orientales,8,30,3
+2013,Marzo,F. Alcorta y Derecho,2510,F. Alcorta,Derecho,9,31,3
+2013,Marzo,Montevideo y Peron,3427,Montevideo,Peron,10,28,3
+2013,Marzo,Potosi y Rawson,1394,Potosi,Rawson,17,33,3
+2013,Marzo,J. Alvarez y Padilla,955,J. Alvarez,Padilla,18,34,3
+2013,Marzo,Chile y Tacuari,1074,Chile,Tacuari,19,35,3
+2013,Marzo,Serrano y Loyola,1783,Serrano,Loyola,20,36,3
+2013,Marzo,Gorriti y G. Cruz,3495,Gorriti,G. Cruz,21,37,3
+2013,Marzo,Cnel. Diaz y Mansilla,2575,Cnel. Diaz,Mansilla,11,32,3
+2013,Marzo,11 de Sep y Monroe,1279,11 de Sep,Monroe,22,38,3
+2013,Marzo,Arenales y Montevideo,2381,Arenales,Montevideo,12,10,3
+2013,Abril,Virrey Cevallos y Chile,2231,Virrey Cevallos,Chile,1,19,4
+2013,Abril,Azopardo y Mexico,800,Azopardo,Mexico,2,25,4
+2013,Abril,Rincon y Carlos Calvo,2392,Rincon,Carlos Calvo,3,26,4
+2013,Abril,Virrey Liniers y C.Calvo,2481,Virrey Liniers,C.Calvo,4,27,4
+2013,Abril,Billinghurst y Peron,5088,Billinghurst,Peron,5,28,4
+2013,Abril,Del Libertador y Montevideo,2988,Del Libertador,Montevideo,6,10,4
+2013,Abril,Corredor Norte y Casares,3682,Corredor Norte,Casares,7,29,4
+2013,Abril,EEUU y 33 Orientales,1388,EEUU,33 Orientales,8,30,4
+2013,Abril,F. Alcorta y Derecho,2438,F. Alcorta,Derecho,9,31,4
+2013,Abril,Montevideo y Peron,3075,Montevideo,Peron,10,28,4
+2013,Abril,Potosi y Rawson,1439,Potosi,Rawson,17,33,4
+2013,Abril,J. Alvarez y Padilla,1172,J. Alvarez,Padilla,18,34,4
+2013,Abril,Chile y Tacuari,1345,Chile,Tacuari,19,35,4
+2013,Abril,Serrano y Loyola,1646,Serrano,Loyola,20,36,4
+2013,Abril,Gorriti y G. Cruz,3932,Gorriti,G. Cruz,21,37,4
+2013,Abril,Cnel. Diaz y Mansilla,2839,Cnel. Diaz,Mansilla,11,32,4
+2013,Abril,11 de Sep y Monroe,1083,11 de Sep,Monroe,22,38,4
+2013,Abril,Arenales y Montevideo,2249,Arenales,Montevideo,12,10,4
+2013,Mayo,Virrey Cevallos y Chile,2235,Virrey Cevallos,Chile,1,19,5
+2013,Mayo,Azopardo y Mexico,825,Azopardo,Mexico,2,25,5
+2013,Mayo,Rincon y Carlos Calvo,2113,Rincon,Carlos Calvo,3,26,5
+2013,Mayo,Virrey Liniers y C.Calvo,2017,Virrey Liniers,C.Calvo,4,27,5
+2013,Mayo,Billinghurst y Peron,4592,Billinghurst,Peron,5,28,5
+2013,Mayo,Del Libertador y Montevideo,2327,Del Libertador,Montevideo,6,10,5
+2013,Mayo,Corredor Norte y Casares,3698,Corredor Norte,Casares,7,29,5
+2013,Mayo,EEUU y 33 Orientales,1301,EEUU,33 Orientales,8,30,5
+2013,Mayo,F. Alcorta y Derecho,2402,F. Alcorta,Derecho,9,31,5
+2013,Mayo,Montevideo y Peron,2773,Montevideo,Peron,10,28,5
+2013,Mayo,Potosi y Rawson,1136,Potosi,Rawson,17,33,5
+2013,Mayo,J. Alvarez y Padilla,1041,J. Alvarez,Padilla,18,34,5
+2013,Mayo,Chile y Tacuari,854,Chile,Tacuari,19,35,5
+2013,Mayo,Serrano y Loyola,1133,Serrano,Loyola,20,36,5
+2013,Mayo,Gorriti y G. Cruz,2461,Gorriti,G. Cruz,21,37,5
+2013,Mayo,Cnel. Diaz y Mansilla,2169,Cnel. Diaz,Mansilla,11,32,5
+2013,Mayo,11 de Sep y Monroe,875,11 de Sep,Monroe,22,38,5
+2013,Mayo,Arenales y Montevideo,1974,Arenales,Montevideo,12,10,5
+2013,Junio,Virrey Cevallos y Chile,1973,Virrey Cevallos,Chile,1,19,6
+2013,Junio,Azopardo y Mexico,821,Azopardo,Mexico,2,25,6
+2013,Junio,Rincon y Carlos Calvo,2478,Rincon,Carlos Calvo,3,26,6
+2013,Junio,Virrey Liniers y C.Calvo,1924,Virrey Liniers,C.Calvo,4,27,6
+2013,Junio,Billinghurst y Peron,4147,Billinghurst,Peron,5,28,6
+2013,Junio,Del Libertador y Montevideo,2042,Del Libertador,Montevideo,6,10,6
+2013,Junio,Corredor Norte y Casares,3221,Corredor Norte,Casares,7,29,6
+2013,Junio,EEUU y 33 Orientales,1083,EEUU,33 Orientales,8,30,6
+2013,Junio,F. Alcorta y Derecho,2590,F. Alcorta,Derecho,9,31,6
+2013,Junio,Montevideo y Peron,2769,Montevideo,Peron,10,28,6
+2013,Junio,Potosi y Rawson,1106,Potosi,Rawson,17,33,6
+2013,Junio,J. Alvarez y Padilla,661,J. Alvarez,Padilla,18,34,6
+2013,Junio,Chile y Tacuari,1123,Chile,Tacuari,19,35,6
+2013,Junio,Serrano y Loyola,1584,Serrano,Loyola,20,36,6
+2013,Junio,Gorriti y G. Cruz,3214,Gorriti,G. Cruz,21,37,6
+2013,Junio,Cnel. Diaz y Mansilla,2787,Cnel. Diaz,Mansilla,11,32,6
+2013,Junio,11 de Sep y Monroe,914,11 de Sep,Monroe,22,38,6
+2013,Junio,Arenales y Montevideo,2260,Arenales,Montevideo,12,10,6
+2013,Junio,M.T. Alvear y Uriburu,301,M.T. Alvear,Uriburu,23,39,6
+2013,Julio,Virrey Cevallos y Chile,1946,Virrey Cevallos,Chile,1,19,7
+2013,Julio,Azopardo y Mexico,809,Azopardo,Mexico,2,25,7
+2013,Julio,Rincon y Carlos Calvo,1839,Rincon,Carlos Calvo,3,26,7
+2013,Julio,Virrey Liniers y C.Calvo,1813,Virrey Liniers,C.Calvo,4,27,7
+2013,Julio,Billinghurst y Peron,3412,Billinghurst,Peron,5,28,7
+2013,Julio,Del Libertador y Montevideo,2278,Del Libertador,Montevideo,6,10,7
+2013,Julio,Corredor Norte y Casares,3420,Corredor Norte,Casares,7,29,7
+2013,Julio,EEUU y 33 Orientales,1097,EEUU,33 Orientales,8,30,7
+2013,Julio,F. Alcorta y Derecho,1535,F. Alcorta,Derecho,9,31,7
+2013,Julio,Montevideo y Peron,1876,Montevideo,Peron,10,28,7
+2013,Julio,Potosi y Rawson,651,Potosi,Rawson,17,33,7
+2013,Julio,J. Alvarez y Padilla,445,J. Alvarez,Padilla,18,34,7
+2013,Julio,Chile y Tacuari,919,Chile,Tacuari,19,35,7
+2013,Julio,Serrano y Loyola,1057,Serrano,Loyola,20,36,7
+2013,Julio,Gorriti y G. Cruz,2541,Gorriti,G. Cruz,21,37,7
+2013,Julio,Cnel. Diaz y Mansilla,1831,Cnel. Diaz,Mansilla,11,32,7
+2013,Julio,11 de Sep y Monroe,846,11 de Sep,Monroe,22,38,7
+2013,Julio,Arenales y Montevideo,1554,Arenales,Montevideo,12,10,7
+2013,Julio,M.T. Alvear y Uriburu,252,M.T. Alvear,Uriburu,23,39,7
+2013,Agosto,Virrey Cevallos y Chile,1857,Virrey Cevallos,Chile,1,19,8
+2013,Agosto,Azopardo y Mexico,771,Azopardo,Mexico,2,25,8
+2013,Agosto,Rincon y Carlos Calvo,1872,Rincon,Carlos Calvo,3,26,8
+2013,Agosto,Virrey Liniers y C.Calvo,1771,Virrey Liniers,C.Calvo,4,27,8
+2013,Agosto,Billinghurst y Peron,3592,Billinghurst,Peron,5,28,8
+2013,Agosto,Del Libertador y Montevideo,2379,Del Libertador,Montevideo,6,10,8
+2013,Agosto,Corredor Norte y Casares,3842,Corredor Norte,Casares,7,29,8
+2013,Agosto,EEUU y 33 Orientales,1002,EEUU,33 Orientales,8,30,8
+2013,Agosto,F. Alcorta y Derecho,1919,F. Alcorta,Derecho,9,31,8
+2013,Agosto,Montevideo y Peron,2651,Montevideo,Peron,10,28,8
+2013,Agosto,Potosi y Rawson,939,Potosi,Rawson,17,33,8
+2013,Agosto,J. Alvarez y Padilla,832,J. Alvarez,Padilla,18,34,8
+2013,Agosto,Chile y Tacuari,1063,Chile,Tacuari,19,35,8
+2013,Agosto,Serrano y Loyola,1231,Serrano,Loyola,20,36,8
+2013,Agosto,Gorriti y G. Cruz,2386,Gorriti,G. Cruz,21,37,8
+2013,Agosto,Cnel. Diaz y Mansilla,2217,Cnel. Diaz,Mansilla,11,32,8
+2013,Agosto,11 de Sep y Monroe,1057,11 de Sep,Monroe,22,38,8
+2013,Agosto,Arenales y Montevideo,1889,Arenales,Montevideo,12,10,8
+2013,Agosto,M.T. Alvear y Uriburu,277,M.T. Alvear,Uriburu,23,39,8
+2013,Septiembre,Virrey Cevallos y Chile,1783,Virrey Cevallos,Chile,1,19,9
+2013,Septiembre,Azopardo y Mexico,848,Azopardo,Mexico,2,25,9
+2013,Septiembre,Rincon y Carlos Calvo,2267,Rincon,Carlos Calvo,3,26,9
+2013,Septiembre,Virrey Liniers y C.Calvo,2191,Virrey Liniers,C.Calvo,4,27,9
+2013,Septiembre,Billinghurst y Peron,3809,Billinghurst,Peron,5,28,9
+2013,Septiembre,Del Libertador y Montevideo,3348,Del Libertador,Montevideo,6,10,9
+2013,Septiembre,Corredor Norte y Casares,3536,Corredor Norte,Casares,7,29,9
+2013,Septiembre,EEUU y 33 Orientales,1077,EEUU,33 Orientales,8,30,9
+2013,Septiembre,F. Alcorta y Derecho,2196,F. Alcorta,Derecho,9,31,9
+2013,Septiembre,Montevideo y Peron,2917,Montevideo,Peron,10,28,9
+2013,Septiembre,Potosi y Rawson,1526,Potosi,Rawson,17,33,9
+2013,Septiembre,J. Alvarez y Padilla,706,J. Alvarez,Padilla,18,34,9
+2013,Septiembre,Chile y Tacuari,1060,Chile,Tacuari,19,35,9
+2013,Septiembre,Serrano y Loyola,1606,Serrano,Loyola,20,36,9
+2013,Septiembre,Gorriti y G. Cruz,3495,Gorriti,G. Cruz,21,37,9
+2013,Septiembre,Cnel. Diaz y Mansilla,2644,Cnel. Diaz,Mansilla,11,32,9
+2013,Septiembre,11 de Sep y Monroe,728,11 de Sep,Monroe,22,38,9
+2013,Septiembre,Arenales y Montevideo,2263,Arenales,Montevideo,12,10,9
+2013,Septiembre,M.T. Alvear y Uriburu,299,M.T. Alvear,Uriburu,23,39,9
+2013,Octubre,Virrey Cevallos y Chile,2392,Virrey Cevallos,Chile,1,19,10
+2013,Octubre,Azopardo y Mexico,905,Azopardo,Mexico,2,25,10
+2013,Octubre,Rincon y Carlos Calvo,2576,Rincon,Carlos Calvo,3,26,10
+2013,Octubre,Virrey Liniers y C.Calvo,2345,Virrey Liniers,C.Calvo,4,27,10
+2013,Octubre,Billinghurst y Peron,4880,Billinghurst,Peron,5,28,10
+2013,Octubre,Del Libertador y Montevideo,3001,Del Libertador,Montevideo,6,10,10
+2013,Octubre,Corredor Norte y Casares,4005,Corredor Norte,Casares,7,29,10
+2013,Octubre,EEUU y 33 Orientales,1355,EEUU,33 Orientales,8,30,10
+2013,Octubre,F. Alcorta y Derecho,3102,F. Alcorta,Derecho,9,31,10
+2013,Octubre,Montevideo y Peron,3141,Montevideo,Peron,10,28,10
+2013,Octubre,Potosi y Rawson,1845,Potosi,Rawson,17,33,10
+2013,Octubre,J. Alvarez y Padilla,1242,J. Alvarez,Padilla,18,34,10
+2013,Octubre,Chile y Tacuari,1009,Chile,Tacuari,19,35,10
+2013,Octubre,Serrano y Loyola,1637,Serrano,Loyola,20,36,10
+2013,Octubre,Gorriti y G. Cruz,3312,Gorriti,G. Cruz,21,37,10
+2013,Octubre,Cnel. Diaz y Mansilla,2794,Cnel. Diaz,Mansilla,11,32,10
+2013,Octubre,11 de Sep y Monroe,1250,11 de Sep,Monroe,22,38,10
+2013,Octubre,Arenales y Montevideo,2713,Arenales,Montevideo,12,10,10
+2013,Octubre,M.T. Alvear y Uriburu,328,M.T. Alvear,Uriburu,23,39,10
+2013,Noviembre,Virrey Cevallos y Chile,2491,Virrey Cevallos,Chile,1,19,11
+2013,Noviembre,Azopardo y Mexico,874,Azopardo,Mexico,2,25,11
+2013,Noviembre,Rincon y Carlos Calvo,4066,Rincon,Carlos Calvo,3,26,11
+2013,Noviembre,Virrey Liniers y C.Calvo,2756,Virrey Liniers,C.Calvo,4,27,11
+2013,Noviembre,Billinghurst y Peron,4693,Billinghurst,Peron,5,28,11
+2013,Noviembre,Del Libertador y Montevideo,3327,Del Libertador,Montevideo,6,10,11
+2013,Noviembre,Corredor Norte y Casares,5253,Corredor Norte,Casares,7,29,11
+2013,Noviembre,EEUU y 33 Orientales,1469,EEUU,33 Orientales,8,30,11
+2013,Noviembre,F. Alcorta y Derecho,3122,F. Alcorta,Derecho,9,31,11
+2013,Noviembre,Montevideo y Peron,4248,Montevideo,Peron,10,28,11
+2013,Noviembre,Potosi y Rawson,1912,Potosi,Rawson,17,33,11
+2013,Noviembre,J. Alvarez y Padilla,1324,J. Alvarez,Padilla,18,34,11
+2013,Noviembre,Chile y Tacuari,1186,Chile,Tacuari,19,35,11
+2013,Noviembre,Serrano y Loyola,2394,Serrano,Loyola,20,36,11
+2013,Noviembre,Gorriti y G. Cruz,4315,Gorriti,G. Cruz,21,37,11
+2013,Noviembre,Cnel. Diaz y Mansilla,3114,Cnel. Diaz,Mansilla,11,32,11
+2013,Noviembre,11 de Sep y Monroe,1296,11 de Sep,Monroe,22,38,11
+2013,Noviembre,Arenales y Montevideo,2995,Arenales,Montevideo,12,10,11
+2013,Noviembre,M.T. Alvear y Uriburu,355,M.T. Alvear,Uriburu,23,39,11
+2013,Diciembre,Virrey Cevallos y Chile,2465,Virrey Cevallos,Chile,1,19,12
+2013,Diciembre,Azopardo y Mexico,833,Azopardo,Mexico,2,25,12
+2013,Diciembre,Rincon y Carlos Calvo,2408,Rincon,Carlos Calvo,3,26,12
+2013,Diciembre,Virrey Liniers y C.Calvo,2147,Virrey Liniers,C.Calvo,4,27,12
+2013,Diciembre,Billinghurst y Peron,4017,Billinghurst,Peron,5,28,12
+2013,Diciembre,Del Libertador y Montevideo,2008,Del Libertador,Montevideo,6,10,12
+2013,Diciembre,Corredor Norte y Casares,3830,Corredor Norte,Casares,7,29,12
+2013,Diciembre,EEUU y 33 Orientales,1240,EEUU,33 Orientales,8,30,12
+2013,Diciembre,F. Alcorta y Derecho,2214,F. Alcorta,Derecho,9,31,12
+2013,Diciembre,Montevideo y Peron,3575,Montevideo,Peron,10,28,12
+2013,Diciembre,Potosi y Rawson,1069,Potosi,Rawson,17,33,12
+2013,Diciembre,J. Alvarez y Padilla,1405,J. Alvarez,Padilla,18,34,12
+2013,Diciembre,Chile y Tacuari,1056,Chile,Tacuari,19,35,12
+2013,Diciembre,Serrano y Loyola,1617,Serrano,Loyola,20,36,12
+2013,Diciembre,Gorriti y G. Cruz,3927,Gorriti,G. Cruz,21,37,12
+2013,Diciembre,Cnel. Diaz y Mansilla,3263,Cnel. Diaz,Mansilla,11,32,12
+2013,Diciembre,11 de Sep y Monroe,1037,11 de Sep,Monroe,22,38,12
+2013,Diciembre,Arenales y Montevideo,2298,Arenales,Montevideo,12,10,12
+2013,Diciembre,M.T. Alvear y Uriburu,315,M.T. Alvear,Uriburu,23,39,12
+2014,Enero,Virrey Cevallos y Chile,1760,Virrey Cevallos,Chile,1,19,1
+2014,Enero,Azopardo y Mexico,828,Azopardo,Mexico,2,25,1
+2014,Enero,Rincon y Carlos Calvo,1868,Rincon,Carlos Calvo,3,26,1
+2014,Enero,Virrey Liniers y C.Calvo,1869,Virrey Liniers,C.Calvo,4,27,1
+2014,Enero,Billinghurst y Peron,3737,Billinghurst,Peron,5,28,1
+2014,Enero,Del Libertador y Montevideo,2434,Del Libertador,Montevideo,6,10,1
+2014,Enero,Corredor Norte y Casares,4614,Corredor Norte,Casares,7,29,1
+2014,Enero,EEUU y 33 Orientales,1051,EEUU,33 Orientales,8,30,1
+2014,Enero,F. Alcorta y Derecho,2381,F. Alcorta,Derecho,9,31,1
+2014,Enero,Montevideo y Peron,2352,Montevideo,Peron,10,28,1
+2014,Enero,Potosi y Rawson,906,Potosi,Rawson,17,33,1
+2014,Enero,J. Alvarez y Padilla,822,J. Alvarez,Padilla,18,34,1
+2014,Enero,Chile y Tacuari,799,Chile,Tacuari,19,35,1
+2014,Enero,Serrano y Loyola,1335,Serrano,Loyola,20,36,1
+2014,Enero,Gorriti y G. Cruz,2663,Gorriti,G. Cruz,21,37,1
+2014,Enero,Cnel. Diaz y Mansilla,2279,Cnel. Diaz,Mansilla,11,32,1
+2014,Enero,11 de Sep y Monroe,824,11 de Sep,Monroe,22,38,1
+2014,Enero,Arenales y Montevideo,1953,Arenales,Montevideo,12,10,1
+2014,Enero,M.T. Alvear y Uriburu,717,M.T. Alvear,Uriburu,23,39,1
+2014,Febrero,Virrey Cevallos y Chile,2101,Virrey Cevallos,Chile,1,19,2
+2014,Febrero,Azopardo y Mexico,663,Azopardo,Mexico,2,25,2
+2014,Febrero,Rincon y Carlos Calvo,1642,Rincon,Carlos Calvo,3,26,2
+2014,Febrero,Virrey Liniers y C.Calvo,1246,Virrey Liniers,C.Calvo,4,27,2
+2014,Febrero,Billinghurst y Peron,3694,Billinghurst,Peron,5,28,2
+2014,Febrero,Del Libertador y Montevideo,1884,Del Libertador,Montevideo,6,10,2
+2014,Febrero,Corredor Norte y Casares,3210,Corredor Norte,Casares,7,29,2
+2014,Febrero,EEUU y 33 Orientales,1121,EEUU,33 Orientales,8,30,2
+2014,Febrero,F. Alcorta y Derecho,1994,F. Alcorta,Derecho,9,31,2
+2014,Febrero,Montevideo y Peron,2804,Montevideo,Peron,10,28,2
+2014,Febrero,Potosi y Rawson,1362,Potosi,Rawson,17,33,2
+2014,Febrero,J. Alvarez y Padilla,999,J. Alvarez,Padilla,18,34,2
+2014,Febrero,Chile y Tacuari,867,Chile,Tacuari,19,35,2
+2014,Febrero,Serrano y Loyola,1675,Serrano,Loyola,20,36,2
+2014,Febrero,Gorriti y G. Cruz,2722,Gorriti,G. Cruz,21,37,2
+2014,Febrero,Cnel. Diaz y Mansilla,2277,Cnel. Diaz,Mansilla,11,32,2
+2014,Febrero,11 de Sep y Monroe,1079,11 de Sep,Monroe,22,38,2
+2014,Febrero,Arenales y Montevideo,2201,Arenales,Montevideo,12,10,2
+2014,Febrero,M.T. Alvear y Uriburu,974,M.T. Alvear,Uriburu,23,39,2
+2014,Marzo,Virrey Cevallos y Chile,2413,Virrey Cevallos,Chile,1,19,3
+2014,Marzo,Azopardo y Mexico,867,Azopardo,Mexico,2,25,3
+2014,Marzo,Rincon y Carlos Calvo,2114,Rincon,Carlos Calvo,3,26,3
+2014,Marzo,Virrey Liniers y C.Calvo,2637,Virrey Liniers,C.Calvo,4,27,3
+2014,Marzo,Billinghurst y Peron,4643,Billinghurst,Peron,5,28,3
+2014,Marzo,Del Libertador y Montevideo,2469,Del Libertador,Montevideo,6,10,3
+2014,Marzo,Corredor Norte y Casares,4021,Corredor Norte,Casares,7,29,3
+2014,Marzo,EEUU y 33 Orientales,1360,EEUU,33 Orientales,8,30,3
+2014,Marzo,F. Alcorta y Derecho,3066,F. Alcorta,Derecho,9,31,3
+2014,Marzo,Montevideo y Peron,3129,Montevideo,Peron,10,28,3
+2014,Marzo,Potosi y Rawson,1961,Potosi,Rawson,17,33,3
+2014,Marzo,J. Alvarez y Padilla,1484,J. Alvarez,Padilla,18,34,3
+2014,Marzo,Chile y Tacuari,936,Chile,Tacuari,19,35,3
+2014,Marzo,Serrano y Loyola,2255,Serrano,Loyola,20,36,3
+2014,Marzo,Gorriti y G. Cruz,3324,Gorriti,G. Cruz,21,37,3
+2014,Marzo,Cnel. Diaz y Mansilla,2951,Cnel. Diaz,Mansilla,11,32,3
+2014,Marzo,11 de Sep y Monroe,1204,11 de Sep,Monroe,22,38,3
+2014,Marzo,Arenales y Montevideo,2430,Arenales,Montevideo,12,10,3
+2014,Marzo,M.T. Alvear y Uriburu,1125,M.T. Alvear,Uriburu,23,39,3
+2014,Abril,Virrey Cevallos y Chile,3223,Virrey Cevallos,Chile,1,19,4
+2014,Abril,Azopardo y Mexico,855,Azopardo,Mexico,2,25,4
+2014,Abril,Rincon y Carlos Calvo,2714,Rincon,Carlos Calvo,3,26,4
+2014,Abril,Virrey Liniers y C.Calvo,2674,Virrey Liniers,C.Calvo,4,27,4
+2014,Abril,Billinghurst y Peron,5485,Billinghurst,Peron,5,28,4
+2014,Abril,Del Libertador y Montevideo,2902,Del Libertador,Montevideo,6,10,4
+2014,Abril,Corredor Norte y Casares,4444,Corredor Norte,Casares,7,29,4
+2014,Abril,EEUU y 33 Orientales,1414,EEUU,33 Orientales,8,30,4
+2014,Abril,F. Alcorta y Derecho,2708,F. Alcorta,Derecho,9,31,4
+2014,Abril,Montevideo y Peron,3394,Montevideo,Peron,10,28,4
+2014,Abril,Potosi y Rawson,1387,Potosi,Rawson,17,33,4
+2014,Abril,J. Alvarez y Padilla,1426,J. Alvarez,Padilla,18,34,4
+2014,Abril,Chile y Tacuari,1072,Chile,Tacuari,19,35,4
+2014,Abril,Serrano y Loyola,2324,Serrano,Loyola,20,36,4
+2014,Abril,Gorriti y G. Cruz,3786,Gorriti,G. Cruz,21,37,4
+2014,Abril,Cnel. Diaz y Mansilla,3024,Cnel. Diaz,Mansilla,11,32,4
+2014,Abril,11 de Sep y Monroe,1234,11 de Sep,Monroe,22,38,4
+2014,Abril,Arenales y Montevideo,2120,Arenales,Montevideo,12,10,4
+2014,Abril,M.T. Alvear y Uriburu,1466,M.T. Alvear,Uriburu,23,39,4
+2014,Mayo,Virrey Cevallos y Chile,2656,Virrey Cevallos,Chile,1,19,5
+2014,Mayo,Azopardo y Mexico,997,Azopardo,Mexico,2,25,5
+2014,Mayo,Rincon y Carlos Calvo,2347,Rincon,Carlos Calvo,3,26,5
+2014,Mayo,Virrey Liniers y C.Calvo,2022,Virrey Liniers,C.Calvo,4,27,5
+2014,Mayo,Billinghurst y Peron,4750,Billinghurst,Peron,5,28,5
+2014,Mayo,Del Libertador y Montevideo,2963,Del Libertador,Montevideo,6,10,5
+2014,Mayo,Corredor Norte y Casares,3738,Corredor Norte,Casares,7,29,5
+2014,Mayo,EEUU y 33 Orientales,1382,EEUU,33 Orientales,8,30,5
+2014,Mayo,F. Alcorta y Derecho,2252,F. Alcorta,Derecho,9,31,5
+2014,Mayo,Montevideo y Peron,3603,Montevideo,Peron,10,28,5
+2014,Mayo,Potosi y Rawson,1545,Potosi,Rawson,17,33,5
+2014,Mayo,J. Alvarez y Padilla,1262,J. Alvarez,Padilla,18,34,5
+2014,Mayo,Chile y Tacuari,707,Chile,Tacuari,19,35,5
+2014,Mayo,Serrano y Loyola,2352,Serrano,Loyola,20,36,5
+2014,Mayo,Gorriti y G. Cruz,3620,Gorriti,G. Cruz,21,37,5
+2014,Mayo,Cnel. Diaz y Mansilla,2563,Cnel. Diaz,Mansilla,11,32,5
+2014,Mayo,11 de Sep y Monroe,975,11 de Sep,Monroe,22,38,5
+2014,Mayo,Arenales y Montevideo,2321,Arenales,Montevideo,12,10,5
+2014,Mayo,M.T. Alvear y Uriburu,1416,M.T. Alvear,Uriburu,23,39,5
+2014,Junio,Virrey Cevallos y Chile,3036,Virrey Cevallos,Chile,1,19,6
+2014,Junio,Azopardo y Mexico,919,Azopardo,Mexico,2,25,6
+2014,Junio,Rincon y Carlos Calvo,2178,Rincon,Carlos Calvo,3,26,6
+2014,Junio,Virrey Liniers y C.Calvo,2278,Virrey Liniers,C.Calvo,4,27,6
+2014,Junio,Billinghurst y Peron,5166,Billinghurst,Peron,5,28,6
+2014,Junio,Del Libertador y Montevideo,2249,Del Libertador,Montevideo,6,10,6
+2014,Junio,Corredor Norte y Casares,3241,Corredor Norte,Casares,7,29,6
+2014,Junio,EEUU y 33 Orientales,1168,EEUU,33 Orientales,8,30,6
+2014,Junio,F. Alcorta y Derecho,2235,F. Alcorta,Derecho,9,31,6
+2014,Junio,Montevideo y Peron,3175,Montevideo,Peron,10,28,6
+2014,Junio,Potosi y Rawson,1509,Potosi,Rawson,17,33,6
+2014,Junio,J. Alvarez y Padilla,1198,J. Alvarez,Padilla,18,34,6
+2014,Junio,Chile y Tacuari,609,Chile,Tacuari,19,35,6
+2014,Junio,Serrano y Loyola,2121,Serrano,Loyola,20,36,6
+2014,Junio,Gorriti y G. Cruz,3358,Gorriti,G. Cruz,21,37,6
+2014,Junio,Cnel. Diaz y Mansilla,2128,Cnel. Diaz,Mansilla,11,32,6
+2014,Junio,11 de Sep y Monroe,955,11 de Sep,Monroe,22,38,6
+2014,Junio,Arenales y Montevideo,2033,Arenales,Montevideo,12,10,6
+2014,Junio,M.T. Alvear y Uriburu,1276,M.T. Alvear,Uriburu,23,39,6
+2014,Julio,Virrey Cevallos y Chile,2286,Virrey Cevallos,Chile,1,19,7
+2014,Julio,Azopardo y Mexico,736,Azopardo,Mexico,2,25,7
+2014,Julio,Rincon y Carlos Calvo,2354,Rincon,Carlos Calvo,3,26,7
+2014,Julio,Virrey Liniers y C.Calvo,2062,Virrey Liniers,C.Calvo,4,27,7
+2014,Julio,Billinghurst y Peron,3910,Billinghurst,Peron,5,28,7
+2014,Julio,Del Libertador y Montevideo,2123,Del Libertador,Montevideo,6,10,7
+2014,Julio,Corredor Norte y Casares,3154,Corredor Norte,Casares,7,29,7
+2014,Julio,EEUU y 33 Orientales,943,EEUU,33 Orientales,8,30,7
+2014,Julio,F. Alcorta y Derecho,1768,F. Alcorta,Derecho,9,31,7
+2014,Julio,Montevideo y Peron,3331,Montevideo,Peron,10,28,7
+2014,Julio,Potosi y Rawson,1150,Potosi,Rawson,17,33,7
+2014,Julio,J. Alvarez y Padilla,943,J. Alvarez,Padilla,18,34,7
+2014,Julio,Chile y Tacuari,878,Chile,Tacuari,19,35,7
+2014,Julio,Serrano y Loyola,1783,Serrano,Loyola,20,36,7
+2014,Julio,Gorriti y G. Cruz,2792,Gorriti,G. Cruz,21,37,7
+2014,Julio,Cnel. Diaz y Mansilla,2013,Cnel. Diaz,Mansilla,11,32,7
+2014,Julio,11 de Sep y Monroe,851,11 de Sep,Monroe,22,38,7
+2014,Julio,Arenales y Montevideo,2009,Arenales,Montevideo,12,10,7
+2014,Julio,M.T. Alvear y Uriburu,1243,M.T. Alvear,Uriburu,23,39,7
+2014,Agosto,Virrey Cevallos y Chile,2284,Virrey Cevallos,Chile,1,19,8
+2014,Agosto,Azopardo y Mexico,1120,Azopardo,Mexico,2,25,8
+2014,Agosto,Rincon y Carlos Calvo,1944,Rincon,Carlos Calvo,3,26,8
+2014,Agosto,Virrey Liniers y C.Calvo,1658,Virrey Liniers,C.Calvo,4,27,8
+2014,Agosto,Billinghurst y Peron,3008,Billinghurst,Peron,5,28,8
+2014,Agosto,Del Libertador y Montevideo,1928,Del Libertador,Montevideo,6,10,8
+2014,Agosto,Corredor Norte y Casares,3485,Corredor Norte,Casares,7,29,8
+2014,Agosto,EEUU y 33 Orientales,902,EEUU,33 Orientales,8,30,8
+2014,Agosto,F. Alcorta y Derecho,1748,F. Alcorta,Derecho,9,31,8
+2014,Agosto,Montevideo y Peron,3267,Montevideo,Peron,10,28,8
+2014,Agosto,Potosi y Rawson,1185,Potosi,Rawson,17,33,8
+2014,Agosto,J. Alvarez y Padilla,959,J. Alvarez,Padilla,18,34,8
+2014,Agosto,Chile y Tacuari,824,Chile,Tacuari,19,35,8
+2014,Agosto,Serrano y Loyola,2341,Serrano,Loyola,20,36,8
+2014,Agosto,Gorriti y G. Cruz,2802,Gorriti,G. Cruz,21,37,8
+2014,Agosto,Cnel. Diaz y Mansilla,2107,Cnel. Diaz,Mansilla,11,32,8
+2014,Agosto,11 de Sep y Monroe,806,11 de Sep,Monroe,22,38,8
+2014,Agosto,Arenales y Montevideo,1474,Arenales,Montevideo,12,10,8
+2014,Agosto,M.T. Alvear y Uriburu,1234,M.T. Alvear,Uriburu,23,39,8
+2014,Septiembre,Virrey Cevallos y Chile,2235,Virrey Cevallos,Chile,1,19,9
+2014,Septiembre,Azopardo y Mexico,660,Azopardo,Mexico,2,25,9
+2014,Septiembre,Rincon y Carlos Calvo,1860,Rincon,Carlos Calvo,3,26,9
+2014,Septiembre,Virrey Liniers y C.Calvo,2094,Virrey Liniers,C.Calvo,4,27,9
+2014,Septiembre,Billinghurst y Peron,3480,Billinghurst,Peron,5,28,9
+2014,Septiembre,Del Libertador y Montevideo,2183,Del Libertador,Montevideo,6,10,9
+2014,Septiembre,Corredor Norte y Casares,3603,Corredor Norte,Casares,7,29,9
+2014,Septiembre,EEUU y 33 Orientales,986,EEUU,33 Orientales,8,30,9
+2014,Septiembre,F. Alcorta y Derecho,2570,F. Alcorta,Derecho,9,31,9
+2014,Septiembre,Montevideo y Peron,3122,Montevideo,Peron,10,28,9
+2014,Septiembre,Potosi y Rawson,1613,Potosi,Rawson,17,33,9
+2014,Septiembre,J. Alvarez y Padilla,1039,J. Alvarez,Padilla,18,34,9
+2014,Septiembre,Chile y Tacuari,868,Chile,Tacuari,19,35,9
+2014,Septiembre,Serrano y Loyola,1956,Serrano,Loyola,20,36,9
+2014,Septiembre,Gorriti y G. Cruz,3052,Gorriti,G. Cruz,21,37,9
+2014,Septiembre,Cnel. Diaz y Mansilla,2145,Cnel. Diaz,Mansilla,11,32,9
+2014,Septiembre,11 de Sep y Monroe,1065,11 de Sep,Monroe,22,38,9
+2014,Septiembre,Arenales y Montevideo,1780,Arenales,Montevideo,12,10,9
+2014,Septiembre,M.T. Alvear y Uriburu,1460,M.T. Alvear,Uriburu,23,39,9
+2014,Octubre,Virrey Cevallos y Chile,2402,Virrey Cevallos,Chile,1,19,10
+2014,Octubre,Azopardo y Mexico,792,Azopardo,Mexico,2,25,10
+2014,Octubre,Rincon y Carlos Calvo,2015,Rincon,Carlos Calvo,3,26,10
+2014,Octubre,Virrey Liniers y C.Calvo,2185,Virrey Liniers,C.Calvo,4,27,10
+2014,Octubre,Billinghurst y Peron,4045,Billinghurst,Peron,5,28,10
+2014,Octubre,Del Libertador y Montevideo,2061,Del Libertador,Montevideo,6,10,10
+2014,Octubre,Corredor Norte y Casares,2930,Corredor Norte,Casares,7,29,10
+2014,Octubre,EEUU y 33 Orientales,1059,EEUU,33 Orientales,8,30,10
+2014,Octubre,F. Alcorta y Derecho,1747,F. Alcorta,Derecho,9,31,10
+2014,Octubre,Montevideo y Peron,3543,Montevideo,Peron,10,28,10
+2014,Octubre,Potosi y Rawson,1267,Potosi,Rawson,17,33,10
+2014,Octubre,J. Alvarez y Padilla,1285,J. Alvarez,Padilla,18,34,10
+2014,Octubre,Chile y Tacuari,1120,Chile,Tacuari,19,35,10
+2014,Octubre,Serrano y Loyola,2139,Serrano,Loyola,20,36,10
+2014,Octubre,Gorriti y G. Cruz,2954,Gorriti,G. Cruz,21,37,10
+2014,Octubre,Cnel. Diaz y Mansilla,2284,Cnel. Diaz,Mansilla,11,32,10
+2014,Octubre,11 de Sep y Monroe,902,11 de Sep,Monroe,22,38,10
+2014,Octubre,Arenales y Montevideo,2213,Arenales,Montevideo,12,10,10
+2014,Octubre,M.T. Alvear y Uriburu,1588,M.T. Alvear,Uriburu,23,39,10
+2014,Noviembre,Virrey Cevallos y Chile,2824,Virrey Cevallos,Chile,1,19,11
+2014,Noviembre,Azopardo y Mexico,732,Azopardo,Mexico,2,25,11
+2014,Noviembre,Rincon y Carlos Calvo,2543,Rincon,Carlos Calvo,3,26,11
+2014,Noviembre,Virrey Liniers y C.Calvo,2504,Virrey Liniers,C.Calvo,4,27,11
+2014,Noviembre,Billinghurst y Peron,4795,Billinghurst,Peron,5,28,11
+2014,Noviembre,Del Libertador y Montevideo,2799,Del Libertador,Montevideo,6,10,11
+2014,Noviembre,Corredor Norte y Casares,4471,Corredor Norte,Casares,7,29,11
+2014,Noviembre,EEUU y 33 Orientales,1484,EEUU,33 Orientales,8,30,11
+2014,Noviembre,F. Alcorta y Derecho,2764,F. Alcorta,Derecho,9,31,11
+2014,Noviembre,Montevideo y Peron,3927,Montevideo,Peron,10,28,11
+2014,Noviembre,Potosi y Rawson,1702,Potosi,Rawson,17,33,11
+2014,Noviembre,J. Alvarez y Padilla,1492,J. Alvarez,Padilla,18,34,11
+2014,Noviembre,Chile y Tacuari,1128,Chile,Tacuari,19,35,11
+2014,Noviembre,Serrano y Loyola,3104,Serrano,Loyola,20,36,11
+2014,Noviembre,Gorriti y G. Cruz,4100,Gorriti,G. Cruz,21,37,11
+2014,Noviembre,Cnel. Diaz y Mansilla,3310,Cnel. Diaz,Mansilla,11,32,11
+2014,Noviembre,11 de Sep y Monroe,1335,11 de Sep,Monroe,22,38,11
+2014,Noviembre,Arenales y Montevideo,2670,Arenales,Montevideo,12,10,11
+2014,Noviembre,M.T. Alvear y Uriburu,1728,M.T. Alvear,Uriburu,23,39,11
+2014,Diciembre,Virrey Cevallos y Chile,2927,Virrey Cevallos,Chile,1,19,12
+2014,Diciembre,Azopardo y Mexico,878,Azopardo,Mexico,2,25,12
+2014,Diciembre,Rincon y Carlos Calvo,2438,Rincon,Carlos Calvo,3,26,12
+2014,Diciembre,Virrey Liniers y C.Calvo,1920,Virrey Liniers,C.Calvo,4,27,12
+2014,Diciembre,Billinghurst y Peron,3936,Billinghurst,Peron,5,28,12
+2014,Diciembre,Del Libertador y Montevideo,2325,Del Libertador,Montevideo,6,10,12
+2014,Diciembre,Corredor Norte y Casares,4517,Corredor Norte,Casares,7,29,12
+2014,Diciembre,EEUU y 33 Orientales,1431,EEUU,33 Orientales,8,30,12
+2014,Diciembre,F. Alcorta y Derecho,2585,F. Alcorta,Derecho,9,31,12
+2014,Diciembre,Montevideo y Peron,3292,Montevideo,Peron,10,28,12
+2014,Diciembre,Potosi y Rawson,1630,Potosi,Rawson,17,33,12
+2014,Diciembre,J. Alvarez y Padilla,1107,J. Alvarez,Padilla,18,34,12
+2014,Diciembre,Chile y Tacuari,1095,Chile,Tacuari,19,35,12
+2014,Diciembre,Serrano y Loyola,2903,Serrano,Loyola,20,36,12
+2014,Diciembre,Gorriti y G. Cruz,3825,Gorriti,G. Cruz,21,37,12
+2014,Diciembre,Cnel. Diaz y Mansilla,3146,Cnel. Diaz,Mansilla,11,32,12
+2014,Diciembre,11 de Sep y Monroe,1009,11 de Sep,Monroe,22,38,12
+2014,Diciembre,Arenales y Montevideo,2397,Arenales,Montevideo,12,10,12
+2014,Diciembre,M.T. Alvear y Uriburu,1397,M.T. Alvear,Uriburu,23,39,12
+2015,Enero,Virrey Cevallos y Chile,2054,Virrey Cevallos,Chile,1,19,1
+2015,Enero,Azopardo y Mexico,741,Azopardo,Mexico,2,25,1
+2015,Enero,Rincon y Carlos Calvo,1966,Rincon,Carlos Calvo,3,26,1
+2015,Enero,Virrey Liniers y C.Calvo,1679,Virrey Liniers,C.Calvo,4,27,1
+2015,Enero,Billinghurst y Peron,4039,Billinghurst,Peron,5,28,1
+2015,Enero,Del Libertador y Montevideo,1732,Del Libertador,Montevideo,6,10,1
+2015,Enero,Corredor Norte y Casares,3599,Corredor Norte,Casares,7,29,1
+2015,Enero,EEUU y 33 Orientales,1460,EEUU,33 Orientales,8,30,1
+2015,Enero,F. Alcorta y Derecho,2011,F. Alcorta,Derecho,9,31,1
+2015,Enero,Montevideo y Peron,2495,Montevideo,Peron,10,28,1
+2015,Enero,Potosi y Rawson,1129,Potosi,Rawson,17,33,1
+2015,Enero,J. Alvarez y Padilla,975,J. Alvarez,Padilla,18,34,1
+2015,Enero,Chile y Tacuari,823,Chile,Tacuari,19,35,1
+2015,Enero,Serrano y Loyola,2168,Serrano,Loyola,20,36,1
+2015,Enero,Gorriti y G. Cruz,3299,Gorriti,G. Cruz,21,37,1
+2015,Enero,Cnel. Diaz y Mansilla,1907,Cnel. Diaz,Mansilla,11,32,1
+2015,Enero,11 de Sep y Monroe,795,11 de Sep,Monroe,22,38,1
+2015,Enero,Arenales y Montevideo,2003,Arenales,Montevideo,12,10,1
+2015,Enero,M.T. Alvear y Uriburu,836,M.T. Alvear,Uriburu,23,39,1
+2015,Enero,La Pampa y Superi,1493,La Pampa,Superi,24,40,1
+2015,Febrero,Virrey Cevallos y Chile,2158,Virrey Cevallos,Chile,1,19,2
+2015,Febrero,Azopardo y Mexico,835,Azopardo,Mexico,2,25,2
+2015,Febrero,Rincon y Carlos Calvo,1711,Rincon,Carlos Calvo,3,26,2
+2015,Febrero,Virrey Liniers y C.Calvo,1752,Virrey Liniers,C.Calvo,4,27,2
+2015,Febrero,Billinghurst y Peron,4148,Billinghurst,Peron,5,28,2
+2015,Febrero,Del Libertador y Montevideo,1482,Del Libertador,Montevideo,6,10,2
+2015,Febrero,Corredor Norte y Casares,3657,Corredor Norte,Casares,7,29,2
+2015,Febrero,EEUU y 33 Orientales,962,EEUU,33 Orientales,8,30,2
+2015,Febrero,F. Alcorta y Derecho,1924,F. Alcorta,Derecho,9,31,2
+2015,Febrero,Montevideo y Peron,2762,Montevideo,Peron,10,28,2
+2015,Febrero,Potosi y Rawson,1214,Potosi,Rawson,17,33,2
+2015,Febrero,J. Alvarez y Padilla,1531,J. Alvarez,Padilla,18,34,2
+2015,Febrero,Chile y Tacuari,994,Chile,Tacuari,19,35,2
+2015,Febrero,Serrano y Loyola,2553,Serrano,Loyola,20,36,2
+2015,Febrero,Gorriti y G. Cruz,3639,Gorriti,G. Cruz,21,37,2
+2015,Febrero,Cnel. Diaz y Mansilla,2534,Cnel. Diaz,Mansilla,11,32,2
+2015,Febrero,11 de Sep y Monroe,1274,11 de Sep,Monroe,22,38,2
+2015,Febrero,Arenales y Montevideo,1420,Arenales,Montevideo,12,10,2
+2015,Febrero,M.T. Alvear y Uriburu,1106,M.T. Alvear,Uriburu,23,39,2
+2015,Febrero,La Pampa y Superi,1741,La Pampa,Superi,24,40,2
+2015,Marzo,Virrey Cevallos y Chile,2656,Virrey Cevallos,Chile,1,19,3
+2015,Marzo,Azopardo y Mexico,816,Azopardo,Mexico,2,25,3
+2015,Marzo,Rincon y Carlos Calvo,2255,Rincon,Carlos Calvo,3,26,3
+2015,Marzo,Virrey Liniers y C.Calvo,2389,Virrey Liniers,C.Calvo,4,27,3
+2015,Marzo,Billinghurst y Peron,4996,Billinghurst,Peron,5,28,3
+2015,Marzo,Del Libertador y Montevideo,2408,Del Libertador,Montevideo,6,10,3
+2015,Marzo,Corredor Norte y Casares,3794,Corredor Norte,Casares,7,29,3
+2015,Marzo,EEUU y 33 Orientales,1627,EEUU,33 Orientales,8,30,3
+2015,Marzo,F. Alcorta y Derecho,2163,F. Alcorta,Derecho,9,31,3
+2015,Marzo,Montevideo y Peron,2951,Montevideo,Peron,10,28,3
+2015,Marzo,Potosi y Rawson,1424,Potosi,Rawson,17,33,3
+2015,Marzo,J. Alvarez y Padilla,1692,J. Alvarez,Padilla,18,34,3
+2015,Marzo,Chile y Tacuari,1168,Chile,Tacuari,19,35,3
+2015,Marzo,Serrano y Loyola,2668,Serrano,Loyola,20,36,3
+2015,Marzo,Gorriti y G. Cruz,3709,Gorriti,G. Cruz,21,37,3
+2015,Marzo,Cnel. Diaz y Mansilla,3178,Cnel. Diaz,Mansilla,11,32,3
+2015,Marzo,11 de Sep y Monroe,1391,11 de Sep,Monroe,22,38,3
+2015,Marzo,Arenales y Montevideo,2359,Arenales,Montevideo,12,10,3
+2015,Marzo,M.T. Alvear y Uriburu,1096,M.T. Alvear,Uriburu,23,39,3
+2015,Marzo,La Pampa y Superi,1678,La Pampa,Superi,24,40,3
+2015,Abril,Virrey Cevallos y Chile,3344,Virrey Cevallos,Chile,1,19,4
+2015,Abril,Azopardo y Mexico,630,Azopardo,Mexico,2,25,4
+2015,Abril,Rincon y Carlos Calvo,2336,Rincon,Carlos Calvo,3,26,4
+2015,Abril,Virrey Liniers y C.Calvo,2356,Virrey Liniers,C.Calvo,4,27,4
+2015,Abril,Billinghurst y Peron,5508,Billinghurst,Peron,5,28,4
+2015,Abril,Del Libertador y Montevideo,2114,Del Libertador,Montevideo,6,10,4
+2015,Abril,Corredor Norte y Casares,3699,Corredor Norte,Casares,7,29,4
+2015,Abril,EEUU y 33 Orientales,1535,EEUU,33 Orientales,8,30,4
+2015,Abril,F. Alcorta y Derecho,2062,F. Alcorta,Derecho,9,31,4
+2015,Abril,Montevideo y Peron,3455,Montevideo,Peron,10,28,4
+2015,Abril,Potosi y Rawson,1359,Potosi,Rawson,17,33,4
+2015,Abril,J. Alvarez y Padilla,1550,J. Alvarez,Padilla,18,34,4
+2015,Abril,Chile y Tacuari,1264,Chile,Tacuari,19,35,4
+2015,Abril,Serrano y Loyola,3437,Serrano,Loyola,20,36,4
+2015,Abril,Gorriti y G. Cruz,3979,Gorriti,G. Cruz,21,37,4
+2015,Abril,Cnel. Diaz y Mansilla,3062,Cnel. Diaz,Mansilla,11,32,4
+2015,Abril,11 de Sep y Monroe,1387,11 de Sep,Monroe,22,38,4
+2015,Abril,Arenales y Montevideo,3037,Arenales,Montevideo,12,10,4
+2015,Abril,M.T. Alvear y Uriburu,1275,M.T. Alvear,Uriburu,23,39,4
+2015,Abril,La Pampa y Superi,1925,La Pampa,Superi,24,40,4
+2015,Mayo,Virrey Cevallos y Chile,3140,Virrey Cevallos,Chile,1,19,5
+2015,Mayo,Azopardo y Mexico,1133,Azopardo,Mexico,2,25,5
+2015,Mayo,Rincon y Carlos Calvo,2653,Rincon,Carlos Calvo,3,26,5
+2015,Mayo,Virrey Liniers y C.Calvo,2874,Virrey Liniers,C.Calvo,4,27,5
+2015,Mayo,Billinghurst y Peron,4735,Billinghurst,Peron,5,28,5
+2015,Mayo,Del Libertador y Montevideo,2194,Del Libertador,Montevideo,6,10,5
+2015,Mayo,Corredor Norte y Casares,3462,Corredor Norte,Casares,7,29,5
+2015,Mayo,EEUU y 33 Orientales,1370,EEUU,33 Orientales,8,30,5
+2015,Mayo,F. Alcorta y Derecho,2111,F. Alcorta,Derecho,9,31,5
+2015,Mayo,Montevideo y Peron,3764,Montevideo,Peron,10,28,5
+2015,Mayo,Potosi y Rawson,1720,Potosi,Rawson,17,33,5
+2015,Mayo,J. Alvarez y Padilla,1283,J. Alvarez,Padilla,18,34,5
+2015,Mayo,Chile y Tacuari,1165,Chile,Tacuari,19,35,5
+2015,Mayo,Serrano y Loyola,2665,Serrano,Loyola,20,36,5
+2015,Mayo,Gorriti y G. Cruz,3497,Gorriti,G. Cruz,21,37,5
+2015,Mayo,Cnel. Diaz y Mansilla,2903,Cnel. Diaz,Mansilla,11,32,5
+2015,Mayo,11 de Sep y Monroe,1345,11 de Sep,Monroe,22,38,5
+2015,Mayo,Arenales y Montevideo,2598,Arenales,Montevideo,12,10,5
+2015,Mayo,M.T. Alvear y Uriburu,1093,M.T. Alvear,Uriburu,23,39,5
+2015,Mayo,La Pampa y Superi,1799,La Pampa,Superi,24,40,5
+2015,Junio,Virrey Cevallos y Chile,3597,Virrey Cevallos,Chile,1,19,6
+2015,Junio,Azopardo y Mexico,932,Azopardo,Mexico,2,25,6
+2015,Junio,Rincon y Carlos Calvo,1900,Rincon,Carlos Calvo,3,26,6
+2015,Junio,Virrey Liniers y C.Calvo,2203,Virrey Liniers,C.Calvo,4,27,6
+2015,Junio,Billinghurst y Peron,5548,Billinghurst,Peron,5,28,6
+2015,Junio,Del Libertador y Montevideo,2114,Del Libertador,Montevideo,6,10,6
+2015,Junio,Corredor Norte y Casares,3364,Corredor Norte,Casares,7,29,6
+2015,Junio,EEUU y 33 Orientales,1314,EEUU,33 Orientales,8,30,6
+2015,Junio,F. Alcorta y Derecho,1977,F. Alcorta,Derecho,9,31,6
+2015,Junio,Montevideo y Peron,3735,Montevideo,Peron,10,28,6
+2015,Junio,Potosi y Rawson,1607,Potosi,Rawson,17,33,6
+2015,Junio,J. Alvarez y Padilla,1247,J. Alvarez,Padilla,18,34,6
+2015,Junio,Chile y Tacuari,855,Chile,Tacuari,19,35,6
+2015,Junio,Serrano y Loyola,2766,Serrano,Loyola,20,36,6
+2015,Junio,Gorriti y G. Cruz,3312,Gorriti,G. Cruz,21,37,6
+2015,Junio,Cnel. Diaz y Mansilla,2765,Cnel. Diaz,Mansilla,11,32,6
+2015,Junio,11 de Sep y Monroe,1228,11 de Sep,Monroe,22,38,6
+2015,Junio,Arenales y Montevideo,2252,Arenales,Montevideo,12,10,6
+2015,Junio,M.T. Alvear y Uriburu,1375,M.T. Alvear,Uriburu,23,39,6
+2015,Junio,La Pampa y Superi,1682,La Pampa,Superi,24,40,6
+2015,Julio,Virrey Cevallos y Chile,2374,Virrey Cevallos,Chile,1,19,7
+2015,Julio,Azopardo y Mexico,720,Azopardo,Mexico,2,25,7
+2015,Julio,Rincon y Carlos Calvo,1674,Rincon,Carlos Calvo,3,26,7
+2015,Julio,Virrey Liniers y C.Calvo,2098,Virrey Liniers,C.Calvo,4,27,7
+2015,Julio,Billinghurst y Peron,3990,Billinghurst,Peron,5,28,7
+2015,Julio,Del Libertador y Montevideo,1842,Del Libertador,Montevideo,6,10,7
+2015,Julio,Corredor Norte y Casares,2560,Corredor Norte,Casares,7,29,7
+2015,Julio,EEUU y 33 Orientales,900,EEUU,33 Orientales,8,30,7
+2015,Julio,F. Alcorta y Derecho,1868,F. Alcorta,Derecho,9,31,7
+2015,Julio,Montevideo y Peron,2719,Montevideo,Peron,10,28,7
+2015,Julio,Potosi y Rawson,1237,Potosi,Rawson,17,33,7
+2015,Julio,J. Alvarez y Padilla,1034,J. Alvarez,Padilla,18,34,7
+2015,Julio,Chile y Tacuari,870,Chile,Tacuari,19,35,7
+2015,Julio,Serrano y Loyola,2307,Serrano,Loyola,20,36,7
+2015,Julio,Gorriti y G. Cruz,2404,Gorriti,G. Cruz,21,37,7
+2015,Julio,Cnel. Diaz y Mansilla,1913,Cnel. Diaz,Mansilla,11,32,7
+2015,Julio,11 de Sep y Monroe,1208,11 de Sep,Monroe,22,38,7
+2015,Julio,Arenales y Montevideo,1964,Arenales,Montevideo,12,10,7
+2015,Julio,M.T. Alvear y Uriburu,1237,M.T. Alvear,Uriburu,23,39,7
+2015,Julio,La Pampa y Superi,1201,La Pampa,Superi,24,40,7
+2015,Agosto,Virrey Cevallos y Chile,2456,Virrey Cevallos,Chile,1,19,8
+2015,Agosto,Azopardo y Mexico,1156,Azopardo,Mexico,2,25,8
+2015,Agosto,Rincon y Carlos Calvo,1601,Rincon,Carlos Calvo,3,26,8
+2015,Agosto,Virrey Liniers y C.Calvo,1571,Virrey Liniers,C.Calvo,4,27,8
+2015,Agosto,Billinghurst y Peron,3411,Billinghurst,Peron,5,28,8
+2015,Agosto,Del Libertador y Montevideo,1629,Del Libertador,Montevideo,6,10,8
+2015,Agosto,Corredor Norte y Casares,2689,Corredor Norte,Casares,7,29,8
+2015,Agosto,EEUU y 33 Orientales,980,EEUU,33 Orientales,8,30,8
+2015,Agosto,F. Alcorta y Derecho,1396,F. Alcorta,Derecho,9,31,8
+2015,Agosto,Montevideo y Peron,2932,Montevideo,Peron,10,28,8
+2015,Agosto,Potosi y Rawson,1102,Potosi,Rawson,17,33,8
+2015,Agosto,J. Alvarez y Padilla,1026,J. Alvarez,Padilla,18,34,8
+2015,Agosto,Chile y Tacuari,956,Chile,Tacuari,19,35,8
+2015,Agosto,Serrano y Loyola,2757,Serrano,Loyola,20,36,8
+2015,Agosto,Gorriti y G. Cruz,2398,Gorriti,G. Cruz,21,37,8
+2015,Agosto,Cnel. Diaz y Mansilla,2140,Cnel. Diaz,Mansilla,11,32,8
+2015,Agosto,11 de Sep y Monroe,982,11 de Sep,Monroe,22,38,8
+2015,Agosto,Arenales y Montevideo,1529,Arenales,Montevideo,12,10,8
+2015,Agosto,M.T. Alvear y Uriburu,1374,M.T. Alvear,Uriburu,23,39,8
+2015,Agosto,La Pampa y Superi,1236,La Pampa,Superi,24,40,8
+2015,Septiembre,Virrey Cevallos y Chile,2453,Virrey Cevallos,Chile,1,19,9
+2015,Septiembre,Azopardo y Mexico,730,Azopardo,Mexico,2,25,9
+2015,Septiembre,Rincon y Carlos Calvo,1797,Rincon,Carlos Calvo,3,26,9
+2015,Septiembre,Virrey Liniers y C.Calvo,1860,Virrey Liniers,C.Calvo,4,27,9
+2015,Septiembre,Billinghurst y Peron,4395,Billinghurst,Peron,5,28,9
+2015,Septiembre,Del Libertador y Montevideo,1785,Del Libertador,Montevideo,6,10,9
+2015,Septiembre,Corredor Norte y Casares,2660,Corredor Norte,Casares,7,29,9
+2015,Septiembre,EEUU y 33 Orientales,1195,EEUU,33 Orientales,8,30,9
+2015,Septiembre,F. Alcorta y Derecho,1597,F. Alcorta,Derecho,9,31,9
+2015,Septiembre,Montevideo y Peron,3069,Montevideo,Peron,10,28,9
+2015,Septiembre,Potosi y Rawson,1341,Potosi,Rawson,17,33,9
+2015,Septiembre,J. Alvarez y Padilla,1091,J. Alvarez,Padilla,18,34,9
+2015,Septiembre,Chile y Tacuari,1060,Chile,Tacuari,19,35,9
+2015,Septiembre,Serrano y Loyola,2118,Serrano,Loyola,20,36,9
+2015,Septiembre,Gorriti y G. Cruz,2601,Gorriti,G. Cruz,21,37,9
+2015,Septiembre,Cnel. Diaz y Mansilla,2302,Cnel. Diaz,Mansilla,11,32,9
+2015,Septiembre,11 de Sep y Monroe,1115,11 de Sep,Monroe,22,38,9
+2015,Septiembre,Arenales y Montevideo,1974,Arenales,Montevideo,12,10,9
+2015,Septiembre,M.T. Alvear y Uriburu,1770,M.T. Alvear,Uriburu,23,39,9
+2015,Septiembre,La Pampa y Superi,1656,La Pampa,Superi,24,40,9
+2015,Octubre,Virrey Cevallos y Chile,2557,Virrey Cevallos,Chile,1,19,10
+2015,Octubre,Azopardo y Mexico,923,Azopardo,Mexico,2,25,10
+2015,Octubre,Rincon y Carlos Calvo,1884,Rincon,Carlos Calvo,3,26,10
+2015,Octubre,Virrey Liniers y C.Calvo,1838,Virrey Liniers,C.Calvo,4,27,10
+2015,Octubre,Billinghurst y Peron,3924,Billinghurst,Peron,5,28,10
+2015,Octubre,Del Libertador y Montevideo,1697,Del Libertador,Montevideo,6,10,10
+2015,Octubre,Corredor Norte y Casares,2612,Corredor Norte,Casares,7,29,10
+2015,Octubre,EEUU y 33 Orientales,1193,EEUU,33 Orientales,8,30,10
+2015,Octubre,F. Alcorta y Derecho,1768,F. Alcorta,Derecho,9,31,10
+2015,Octubre,Montevideo y Peron,3158,Montevideo,Peron,10,28,10
+2015,Octubre,Potosi y Rawson,1317,Potosi,Rawson,17,33,10
+2015,Octubre,J. Alvarez y Padilla,1328,J. Alvarez,Padilla,18,34,10
+2015,Octubre,Chile y Tacuari,998,Chile,Tacuari,19,35,10
+2015,Octubre,Serrano y Loyola,2825,Serrano,Loyola,20,36,10
+2015,Octubre,Gorriti y G. Cruz,3035,Gorriti,G. Cruz,21,37,10
+2015,Octubre,Cnel. Diaz y Mansilla,2945,Cnel. Diaz,Mansilla,11,32,10
+2015,Octubre,11 de Sep y Monroe,1100,11 de Sep,Monroe,22,38,10
+2015,Octubre,Arenales y Montevideo,1876,Arenales,Montevideo,12,10,10
+2015,Octubre,M.T. Alvear y Uriburu,1698,M.T. Alvear,Uriburu,23,39,10
+2015,Octubre,La Pampa y Superi,1726,La Pampa,Superi,24,40,10
+2015,Noviembre,Virrey Cevallos y Chile,2905,Virrey Cevallos,Chile,1,19,11
+2015,Noviembre,Azopardo y Mexico,716,Azopardo,Mexico,2,25,11
+2015,Noviembre,Rincon y Carlos Calvo,2062,Rincon,Carlos Calvo,3,26,11
+2015,Noviembre,Virrey Liniers y C.Calvo,1687,Virrey Liniers,C.Calvo,4,27,11
+2015,Noviembre,Billinghurst y Peron,4968,Billinghurst,Peron,5,28,11
+2015,Noviembre,Del Libertador y Montevideo,2249,Del Libertador,Montevideo,6,10,11
+2015,Noviembre,Corredor Norte y Casares,3564,Corredor Norte,Casares,7,29,11
+2015,Noviembre,EEUU y 33 Orientales,1684,EEUU,33 Orientales,8,30,11
+2015,Noviembre,F. Alcorta y Derecho,2131,F. Alcorta,Derecho,9,31,11
+2015,Noviembre,Montevideo y Peron,3425,Montevideo,Peron,10,28,11
+2015,Noviembre,Potosi y Rawson,1464,Potosi,Rawson,17,33,11
+2015,Noviembre,J. Alvarez y Padilla,1558,J. Alvarez,Padilla,18,18,11
+2015,Noviembre,Chile y Tacuari,1192,Chile,Tacuari,19,19,11
+2015,Noviembre,Serrano y Loyola,3806,Serrano,Loyola,20,20,11
+2015,Noviembre,Gorriti y G. Cruz,3927,Gorriti,G. Cruz,21,21,11
+2015,Noviembre,Cnel. Diaz y Mansilla,3171,Cnel. Diaz,Mansilla,11,11,11
+2015,Noviembre,11 de Sep y Monroe,1389,11 de Sep,Monroe,22,22,11
+2015,Noviembre,Arenales y Montevideo,2325,Arenales,Montevideo,12,12,11
+2015,Noviembre,M.T. Alvear y Uriburu,1964,M.T. Alvear,Uriburu,23,23,11
+2015,Noviembre,La Pampa y Superi,1579,La Pampa,Superi,24,24,11
+2015,Diciembre,Virrey Cevallos y Chile,2906,Virrey Cevallos,Chile,1,1,12
+2015,Diciembre,Azopardo y Mexico,936,Azopardo,Mexico,2,2,12
+2015,Diciembre,Rincon y Carlos Calvo,2252,Rincon,Carlos Calvo,3,3,12
+2015,Diciembre,Virrey Liniers y C.Calvo,2022,Virrey Liniers,C.Calvo,4,4,12
+2015,Diciembre,Billinghurst y Peron,4325,Billinghurst,Peron,5,5,12
+2015,Diciembre,Del Libertador y Montevideo,2069,Del Libertador,Montevideo,6,6,12
+2015,Diciembre,Corredor Norte y Casares,3750,Corredor Norte,Casares,7,7,12
+2015,Diciembre,EEUU y 33 Orientales,1510,EEUU,33 Orientales,8,8,12
+2015,Diciembre,F. Alcorta y Derecho,1960,F. Alcorta,Derecho,9,9,12
+2015,Diciembre,Montevideo y Peron,2802,Montevideo,Peron,10,10,12
+2015,Diciembre,Potosi y Rawson,1191,Potosi,Rawson,17,17,12
+2015,Diciembre,J. Alvarez y Padilla,1154,J. Alvarez,Padilla,18,18,12
+2015,Diciembre,Chile y Tacuari,1148,Chile,Tacuari,19,19,12
+2015,Diciembre,Serrano y Loyola,3351,Serrano,Loyola,20,20,12
+2015,Diciembre,Gorriti y G. Cruz,3458,Gorriti,G. Cruz,21,21,12
+2015,Diciembre,Cnel. Diaz y Mansilla,2575,Cnel. Diaz,Mansilla,11,11,12
+2015,Diciembre,11 de Sep y Monroe,881,11 de Sep,Monroe,22,22,12
+2015,Diciembre,Arenales y Montevideo,2133,Arenales,Montevideo,12,12,12
+2015,Diciembre,M.T. Alvear y Uriburu,1568,M.T. Alvear,Uriburu,23,23,12
+2015,Diciembre,La Pampa y Superi,1567,La Pampa,Superi,24,24,12
+2016,Enero,Virrey Cevallos y Chile,2165,Virrey Cevallos,Chile,1,1,1
+2016,Enero,Azopardo y Mexico,1092,Azopardo,Mexico,2,2,1
+2016,Enero,Rincon y Carlos Calvo,1402,Rincon,Carlos Calvo,3,3,1
+2016,Enero,Virrey Liniers y C.Calvo,1414,Virrey Liniers,C.Calvo,4,4,1
+2016,Enero,Billinghurst y Peron,2972,Billinghurst,Peron,5,5,1
+2016,Enero,Del Libertador y Montevideo,1974,Del Libertador,Montevideo,6,6,1
+2016,Enero,Corredor Norte y Casares,2567,Corredor Norte,Casares,7,7,1
+2016,Enero,EEUU y 33 Orientales,1300,EEUU,33 Orientales,8,8,1
+2016,Enero,F. Alcorta y Derecho,1784,F. Alcorta,Derecho,9,9,1
+2016,Enero,Montevideo y Peron,2356,Montevideo,Peron,10,10,1
+2016,Enero,Potosi y Rawson,833,Potosi,Rawson,17,17,1
+2016,Enero,J. Alvarez y Padilla,1243,J. Alvarez,Padilla,18,18,1
+2016,Enero,Chile y Tacuari,840,Chile,Tacuari,19,19,1
+2016,Enero,Serrano y Loyola,2618,Serrano,Loyola,20,20,1
+2016,Enero,Gorriti y G. Cruz,2933,Gorriti,G. Cruz,21,21,1
+2016,Enero,Cnel. Diaz y Mansilla,2058,Cnel. Diaz,Mansilla,11,11,1
+2016,Enero,11 de Sep y Monroe,695,11 de Sep,Monroe,22,22,1
+2016,Enero,Arenales y Montevideo,1679,Arenales,Montevideo,12,12,1
+2016,Enero,M.T. Alvear y Uriburu,1671,M.T. Alvear,Uriburu,23,23,1
+2016,Enero,La Pampa y Superi,1490,La Pampa,Superi,24,24,1
+2016,Febrero,Virrey Cevallos y Chile,2559,Virrey Cevallos,Chile,1,1,2
+2016,Febrero,Azopardo y Mexico,817,Azopardo,Mexico,2,2,2
+2016,Febrero,Rincon y Carlos Calvo,2034,Rincon,Carlos Calvo,3,3,2
+2016,Febrero,Virrey Liniers y C.Calvo,1903,Virrey Liniers,C.Calvo,4,4,2
+2016,Febrero,Billinghurst y Peron,3802,Billinghurst,Peron,5,5,2
+2016,Febrero,Del Libertador y Montevideo,1901,Del Libertador,Montevideo,6,6,2
+2016,Febrero,Corredor Norte y Casares,3354,Corredor Norte,Casares,7,7,2
+2016,Febrero,EEUU y 33 Orientales,1197,EEUU,33 Orientales,8,8,2
+2016,Febrero,F. Alcorta y Derecho,1867,F. Alcorta,Derecho,9,9,2
+2016,Febrero,Montevideo y Peron,2572,Montevideo,Peron,10,10,2
+2016,Febrero,Potosi y Rawson,1152,Potosi,Rawson,17,17,2
+2016,Febrero,J. Alvarez y Padilla,1229,J. Alvarez,Padilla,18,18,2
+2016,Febrero,Chile y Tacuari,1168,Chile,Tacuari,19,19,2
+2016,Febrero,Serrano y Loyola,2614,Serrano,Loyola,20,20,2
+2016,Febrero,Gorriti y G. Cruz,2867,Gorriti,G. Cruz,21,21,2
+2016,Febrero,Cnel. Diaz y Mansilla,1591,Cnel. Diaz,Mansilla,11,11,2
+2016,Febrero,11 de Sep y Monroe,1098,11 de Sep,Monroe,22,22,2
+2016,Febrero,Arenales y Montevideo,1836,Arenales,Montevideo,12,12,2
+2016,Febrero,M.T. Alvear y Uriburu,1409,M.T. Alvear,Uriburu,23,23,2
+2016,Febrero,La Pampa y Superi,1503,La Pampa,Superi,24,24,2
+2016,Marzo,Virrey Cevallos y Chile,2618,Virrey Cevallos,Chile,1,1,3
+2016,Marzo,Azopardo y Mexico,777,Azopardo,Mexico,2,2,3
+2016,Marzo,Rincon y Carlos Calvo,2174,Rincon,Carlos Calvo,3,3,3
+2016,Marzo,Virrey Liniers y C.Calvo,2204,Virrey Liniers,C.Calvo,4,4,3
+2016,Marzo,Billinghurst y Peron,3883,Billinghurst,Peron,5,5,3
+2016,Marzo,Del Libertador y Montevideo,1679,Del Libertador,Montevideo,6,6,3
+2016,Marzo,Corredor Norte y Casares,3083,Corredor Norte,Casares,7,7,3
+2016,Marzo,EEUU y 33 Orientales,1478,EEUU,33 Orientales,8,8,3
+2016,Marzo,F. Alcorta y Derecho,1789,F. Alcorta,Derecho,9,9,3
+2016,Marzo,Montevideo y Peron,2965,Montevideo,Peron,10,10,3
+2016,Marzo,Potosi y Rawson,1476,Potosi,Rawson,17,17,3
+2016,Marzo,J. Alvarez y Padilla,1276,J. Alvarez,Padilla,18,18,3
+2016,Marzo,Chile y Tacuari,910,Chile,Tacuari,19,19,3
+2016,Marzo,Serrano y Loyola,2458,Serrano,Loyola,20,20,3
+2016,Marzo,Gorriti y G. Cruz,3141,Gorriti,G. Cruz,21,21,3
+2016,Marzo,Cnel. Diaz y Mansilla,1790,Cnel. Diaz,Mansilla,11,11,3
+2016,Marzo,11 de Sep y Monroe,830,11 de Sep,Monroe,22,22,3
+2016,Marzo,Arenales y Montevideo,1692,Arenales,Montevideo,12,12,3
+2016,Marzo,M.T. Alvear y Uriburu,2235,M.T. Alvear,Uriburu,23,23,3
+2016,Marzo,La Pampa y Superi,1766,La Pampa,Superi,24,24,3
+2016,Abril,Virrey Cevallos y Chile,3013,Virrey Cevallos,Chile,1,1,4
+2016,Abril,Azopardo y Mexico,710,Azopardo,Mexico,2,2,4
+2016,Abril,Rincon y Carlos Calvo,2252,Rincon,Carlos Calvo,3,3,4
+2016,Abril,Virrey Liniers y C.Calvo,1883,Virrey Liniers,C.Calvo,4,4,4
+2016,Abril,Billinghurst y Peron,4291,Billinghurst,Peron,5,5,4
+2016,Abril,Del Libertador y Montevideo,1546,Del Libertador,Montevideo,6,6,4
+2016,Abril,Corredor Norte y Casares,2998,Corredor Norte,Casares,7,7,4
+2016,Abril,EEUU y 33 Orientales,1795,EEUU,33 Orientales,8,8,4
+2016,Abril,F. Alcorta y Derecho,1982,F. Alcorta,Derecho,9,9,4
+2016,Abril,Montevideo y Peron,2768,Montevideo,Peron,10,10,4
+2016,Abril,Potosi y Rawson,1537,Potosi,Rawson,17,17,4
+2016,Abril,J. Alvarez y Padilla,1528,J. Alvarez,Padilla,18,18,4
+2016,Abril,Chile y Tacuari,1022,Chile,Tacuari,19,19,4
+2016,Abril,Serrano y Loyola,2650,Serrano,Loyola,20,20,4
+2016,Abril,Gorriti y G. Cruz,3014,Gorriti,G. Cruz,21,21,4
+2016,Abril,Cnel. Diaz y Mansilla,2000,Cnel. Diaz,Mansilla,11,11,4
+2016,Abril,11 de Sep y Monroe,1497,11 de Sep,Monroe,22,22,4
+2016,Abril,Arenales y Montevideo,2052,Arenales,Montevideo,12,12,4
+2016,Abril,M.T. Alvear y Uriburu,2912,M.T. Alvear,Uriburu,23,23,4
+2016,Abril,La Pampa y Superi,1345,La Pampa,Superi,24,24,4
+2016,Mayo,Virrey Cevallos y Chile,2717,Virrey Cevallos,Chile,1,1,5
+2016,Mayo,Azopardo y Mexico,1065,Azopardo,Mexico,2,2,5
+2016,Mayo,Rincon y Carlos Calvo,2565,Rincon,Carlos Calvo,3,3,5
+2016,Mayo,Virrey Liniers y C.Calvo,2312,Virrey Liniers,C.Calvo,4,4,5
+2016,Mayo,Billinghurst y Peron,3692,Billinghurst,Peron,5,5,5
+2016,Mayo,Del Libertador y Montevideo,1544,Del Libertador,Montevideo,6,6,5
+2016,Mayo,Corredor Norte y Casares,2838,Corredor Norte,Casares,7,7,5
+2016,Mayo,EEUU y 33 Orientales,1376,EEUU,33 Orientales,8,8,5
+2016,Mayo,F. Alcorta y Derecho,1746,F. Alcorta,Derecho,9,9,5
+2016,Mayo,Montevideo y Peron,2490,Montevideo,Peron,10,10,5
+2016,Mayo,Potosi y Rawson,1730,Potosi,Rawson,17,17,5
+2016,Mayo,J. Alvarez y Padilla,1159,J. Alvarez,Padilla,18,18,5
+2016,Mayo,Chile y Tacuari,1053,Chile,Tacuari,19,19,5
+2016,Mayo,Serrano y Loyola,2195,Serrano,Loyola,20,20,5
+2016,Mayo,Gorriti y G. Cruz,2486,Gorriti,G. Cruz,21,21,5
+2016,Mayo,Cnel. Diaz y Mansilla,1845,Cnel. Diaz,Mansilla,11,11,5
+2016,Mayo,11 de Sep y Monroe,1268,11 de Sep,Monroe,22,22,5
+2016,Mayo,Arenales y Montevideo,1948,Arenales,Montevideo,12,12,5
+2016,Mayo,M.T. Alvear y Uriburu,1884,M.T. Alvear,Uriburu,23,23,5
+2016,Mayo,La Pampa y Superi,1275,La Pampa,Superi,24,24,5
+2016,Junio,Virrey Cevallos y Chile,2413,Virrey Cevallos,Chile,1,1,6
+2016,Junio,Azopardo y Mexico,765,Azopardo,Mexico,2,2,6
+2016,Junio,Rincon y Carlos Calvo,1957,Rincon,Carlos Calvo,3,3,6
+2016,Junio,Virrey Liniers y C.Calvo,1758,Virrey Liniers,C.Calvo,4,4,6
+2016,Junio,Billinghurst y Peron,3937,Billinghurst,Peron,5,5,6
+2016,Junio,Del Libertador y Montevideo,1430,Del Libertador,Montevideo,6,6,6
+2016,Junio,Corredor Norte y Casares,2487,Corredor Norte,Casares,7,7,6
+2016,Junio,EEUU y 33 Orientales,1472,EEUU,33 Orientales,8,8,6
+2016,Junio,F. Alcorta y Derecho,1263,F. Alcorta,Derecho,9,9,6
+2016,Junio,Montevideo y Peron,2906,Montevideo,Peron,10,10,6
+2016,Junio,Potosi y Rawson,1446,Potosi,Rawson,17,17,6
+2016,Junio,J. Alvarez y Padilla,1293,J. Alvarez,Padilla,18,18,6
+2016,Junio,Chile y Tacuari,888,Chile,Tacuari,19,19,6
+2016,Junio,Serrano y Loyola,2462,Serrano,Loyola,20,20,6
+2016,Junio,Gorriti y G. Cruz,2161,Gorriti,G. Cruz,21,21,6
+2016,Junio,Cnel. Diaz y Mansilla,1702,Cnel. Diaz,Mansilla,11,11,6
+2016,Junio,11 de Sep y Monroe,898,11 de Sep,Monroe,22,22,6
+2016,Junio,Arenales y Montevideo,1915,Arenales,Montevideo,12,12,6
+2016,Junio,M.T. Alvear y Uriburu,1783,M.T. Alvear,Uriburu,23,23,6
+2016,Junio,La Pampa y Superi,1220,La Pampa,Superi,24,24,6
+2016,Julio,Virrey Cevallos y Chile,2113,Virrey Cevallos,Chile,1,1,7
+2016,Julio,Azopardo y Mexico,609,Azopardo,Mexico,2,2,7
+2016,Julio,Rincon y Carlos Calvo,1282,Rincon,Carlos Calvo,3,3,7
+2016,Julio,Virrey Liniers y C.Calvo,1250,Virrey Liniers,C.Calvo,4,4,7
+2016,Julio,Billinghurst y Peron,2612,Billinghurst,Peron,5,5,7
+2016,Julio,Del Libertador y Montevideo,1327,Del Libertador,Montevideo,6,6,7
+2016,Julio,Corredor Norte y Casares,2230,Corredor Norte,Casares,7,7,7
+2016,Julio,EEUU y 33 Orientales,1268,EEUU,33 Orientales,8,8,7
+2016,Julio,F. Alcorta y Derecho,1497,F. Alcorta,Derecho,9,9,7
+2016,Julio,Montevideo y Peron,2438,Montevideo,Peron,10,10,7
+2016,Julio,Potosi y Rawson,1024,Potosi,Rawson,17,17,7
+2016,Julio,J. Alvarez y Padilla,1600,J. Alvarez,Padilla,18,18,7
+2016,Julio,Chile y Tacuari,897,Chile,Tacuari,19,19,7
+2016,Julio,Serrano y Loyola,3204,Serrano,Loyola,20,20,7
+2016,Julio,Gorriti y G. Cruz,3199,Gorriti,G. Cruz,21,21,7
+2016,Julio,Cnel. Diaz y Mansilla,1982,Cnel. Diaz,Mansilla,11,11,7
+2016,Julio,11 de Sep y Monroe,1057,11 de Sep,Monroe,22,22,7
+2016,Julio,Arenales y Montevideo,2212,Arenales,Montevideo,12,12,7
+2016,Julio,M.T. Alvear y Uriburu,2301,M.T. Alvear,Uriburu,23,23,7
+2016,Julio,La Pampa y Superi,960,La Pampa,Superi,24,24,7
+2016,Agosto,Virrey Cevallos y Chile,3087,Virrey Cevallos,Chile,1,1,8
+2016,Agosto,Azopardo y Mexico,858,Azopardo,Mexico,2,2,8
+2016,Agosto,Rincon y Carlos Calvo,2255,Rincon,Carlos Calvo,3,3,8
+2016,Agosto,Virrey Liniers y C.Calvo,2410,Virrey Liniers,C.Calvo,4,4,8
+2016,Agosto,Billinghurst y Peron,5011,Billinghurst,Peron,5,5,8
+2016,Agosto,Del Libertador y Montevideo,1821,Del Libertador,Montevideo,6,6,8
+2016,Agosto,Corredor Norte y Casares,3534,Corredor Norte,Casares,7,7,8
+2016,Agosto,EEUU y 33 Orientales,1293,EEUU,33 Orientales,8,8,8
+2016,Agosto,F. Alcorta y Derecho,1422,F. Alcorta,Derecho,9,9,8
+2016,Agosto,Montevideo y Peron,2429,Montevideo,Peron,10,10,8
+2016,Agosto,Potosi y Rawson,1259,Potosi,Rawson,17,17,8
+2016,Agosto,J. Alvarez y Padilla,1454,J. Alvarez,Padilla,18,18,8
+2016,Agosto,Chile y Tacuari,1028,Chile,Tacuari,19,19,8
+2016,Agosto,Serrano y Loyola,3906,Serrano,Loyola,20,20,8
+2016,Agosto,Gorriti y G. Cruz,3691,Gorriti,G. Cruz,21,21,8
+2016,Agosto,Cnel. Diaz y Mansilla,3384,Cnel. Diaz,Mansilla,11,11,8
+2016,Agosto,11 de Sep y Monroe,949,11 de Sep,Monroe,22,22,8
+2016,Agosto,Arenales y Montevideo,2346,Arenales,Montevideo,12,12,8
+2016,Agosto,M.T. Alvear y Uriburu,2271,M.T. Alvear,Uriburu,23,23,8
+2016,Agosto,La Pampa y Superi,1209,La Pampa,Superi,24,24,8
+2016,Septiembre,Virrey Cevallos y Chile,2206,Virrey Cevallos,Chile,1,1,9
+2016,Septiembre,Azopardo y Mexico,915,Azopardo,Mexico,2,2,9
+2016,Septiembre,Rincon y Carlos Calvo,2386,Rincon,Carlos Calvo,3,3,9
+2016,Septiembre,Virrey Liniers y C.Calvo,2357,Virrey Liniers,C.Calvo,4,4,9
+2016,Septiembre,Billinghurst y Peron,3501,Billinghurst,Peron,5,5,9
+2016,Septiembre,Del Libertador y Montevideo,1924,Del Libertador,Montevideo,6,6,9
+2016,Septiembre,Corredor Norte y Casares,4007,Corredor Norte,Casares,7,7,9
+2016,Septiembre,EEUU y 33 Orientales,1498,EEUU,33 Orientales,8,8,9
+2016,Septiembre,F. Alcorta y Derecho,2147,F. Alcorta,Derecho,9,9,9
+2016,Septiembre,Montevideo y Peron,2331,Montevideo,Peron,10,10,9
+2016,Septiembre,Potosi y Rawson,1678,Potosi,Rawson,17,17,9
+2016,Septiembre,J. Alvarez y Padilla,1994,J. Alvarez,Padilla,18,18,9
+2016,Septiembre,Chile y Tacuari,1202,Chile,Tacuari,19,19,9
+2016,Septiembre,Serrano y Loyola,3061,Serrano,Loyola,20,20,9
+2016,Septiembre,Gorriti y G. Cruz,4491,Gorriti,G. Cruz,21,21,9
+2016,Septiembre,Cnel. Diaz y Mansilla,2494,Cnel. Diaz,Mansilla,11,11,9
+2016,Septiembre,11 de Sep y Monroe,1190,11 de Sep,Monroe,22,22,9
+2016,Septiembre,Arenales y Montevideo,1674,Arenales,Montevideo,12,12,9
+2016,Septiembre,M.T. Alvear y Uriburu,2658,M.T. Alvear,Uriburu,23,23,9
+2016,Septiembre,La Pampa y Superi,1691,La Pampa,Superi,24,24,9
+2016,Octubre,Virrey Cevallos y Chile,2615,Virrey Cevallos,Chile,1,1,10
+2016,Octubre,Azopardo y Mexico,812,Azopardo,Mexico,2,2,10
+2016,Octubre,Rincon y Carlos Calvo,2717,Rincon,Carlos Calvo,3,3,10
+2016,Octubre,Virrey Liniers y C.Calvo,2689,Virrey Liniers,C.Calvo,4,4,10
+2016,Octubre,Billinghurst y Peron,5473,Billinghurst,Peron,5,5,10
+2016,Octubre,Del Libertador y Montevideo,2080,Del Libertador,Montevideo,6,6,10
+2016,Octubre,Corredor Norte y Casares,3678,Corredor Norte,Casares,7,7,10
+2016,Octubre,EEUU y 33 Orientales,1058,EEUU,33 Orientales,8,8,10
+2016,Octubre,F. Alcorta y Derecho,1701,F. Alcorta,Derecho,9,9,10
+2016,Octubre,Montevideo y Peron,2843,Montevideo,Peron,10,10,10
+2016,Octubre,Potosi y Rawson,1507,Potosi,Rawson,17,17,10
+2016,Octubre,J. Alvarez y Padilla,1410,J. Alvarez,Padilla,18,18,10
+2016,Octubre,Chile y Tacuari,1173,Chile,Tacuari,19,19,10
+2016,Octubre,Serrano y Loyola,3235,Serrano,Loyola,20,20,10
+2016,Octubre,Gorriti y G. Cruz,3407,Gorriti,G. Cruz,21,21,10
+2016,Octubre,Cnel. Diaz y Mansilla,3060,Cnel. Diaz,Mansilla,11,11,10
+2016,Octubre,11 de Sep y Monroe,1852,11 de Sep,Monroe,22,22,10
+2016,Octubre,Arenales y Montevideo,1652,Arenales,Montevideo,12,12,10
+2016,Octubre,M.T. Alvear y Uriburu,2894,M.T. Alvear,Uriburu,23,23,10
+2016,Octubre,La Pampa y Superi,1527,La Pampa,Superi,24,24,10
+2016,Noviembre,Virrey Cevallos y Chile,3276,Virrey Cevallos,Chile,1,1,11
+2016,Noviembre,Azopardo y Mexico,635,Azopardo,Mexico,2,2,11
+2016,Noviembre,Rincon y Carlos Calvo,3178,Rincon,Carlos Calvo,3,3,11
+2016,Noviembre,Virrey Liniers y C.Calvo,2628,Virrey Liniers,C.Calvo,4,4,11
+2016,Noviembre,Billinghurst y Peron,3568,Billinghurst,Peron,5,5,11
+2016,Noviembre,Del Libertador y Montevideo,2846,Del Libertador,Montevideo,6,6,11
+2016,Noviembre,Corredor Norte y Casares,4801,Corredor Norte,Casares,7,7,11
+2016,Noviembre,EEUU y 33 Orientales,1649,EEUU,33 Orientales,8,8,11
+2016,Noviembre,F. Alcorta y Derecho,2139,F. Alcorta,Derecho,9,9,11
+2016,Noviembre,Montevideo y Peron,3517,Montevideo,Peron,10,10,11
+2016,Noviembre,Potosi y Rawson,1838,Potosi,Rawson,17,17,11
+2016,Noviembre,J. Alvarez y Padilla,2204,J. Alvarez,Padilla,18,18,11
+2016,Noviembre,Chile y Tacuari,1178,Chile,Tacuari,19,19,11
+2016,Noviembre,Serrano y Loyola,4216,Serrano,Loyola,20,20,11
+2016,Noviembre,Gorriti y G. Cruz,4871,Gorriti,G. Cruz,21,21,11
+2016,Noviembre,Cnel. Diaz y Mansilla,4496,Cnel. Diaz,Mansilla,11,11,11
+2016,Noviembre,11 de Sep y Monroe,1475,11 de Sep,Monroe,22,22,11
+2016,Noviembre,Arenales y Montevideo,2105,Arenales,Montevideo,12,12,11
+2016,Noviembre,M.T. Alvear y Uriburu,3365,M.T. Alvear,Uriburu,23,23,11
+2016,Noviembre,La Pampa y Superi,1842,La Pampa,Superi,24,24,11
+2016,Diciembre,Virrey Cevallos y Chile,2761,Virrey Cevallos,Chile,1,1,12
+2016,Diciembre,Azopardo y Mexico,822,Azopardo,Mexico,2,2,12
+2016,Diciembre,Rincon y Carlos Calvo,2135,Rincon,Carlos Calvo,3,3,12
+2016,Diciembre,Virrey Liniers y C.Calvo,2102,Virrey Liniers,C.Calvo,4,4,12
+2016,Diciembre,Billinghurst y Peron,4651,Billinghurst,Peron,5,5,12
+2016,Diciembre,Del Libertador y Montevideo,2691,Del Libertador,Montevideo,6,6,12
+2016,Diciembre,Corredor Norte y Casares,3540,Corredor Norte,Casares,7,7,12
+2016,Diciembre,EEUU y 33 Orientales,1785,EEUU,33 Orientales,8,8,12
+2016,Diciembre,F. Alcorta y Derecho,2039,F. Alcorta,Derecho,9,9,12
+2016,Diciembre,Montevideo y Peron,2473,Montevideo,Peron,10,10,12
+2016,Diciembre,Potosi y Rawson,1772,Potosi,Rawson,17,17,12
+2016,Diciembre,J. Alvarez y Padilla,1577,J. Alvarez,Padilla,18,18,12
+2016,Diciembre,Chile y Tacuari,1076,Chile,Tacuari,19,19,12
+2016,Diciembre,Serrano y Loyola,3475,Serrano,Loyola,20,20,12
+2016,Diciembre,Gorriti y G. Cruz,4974,Gorriti,G. Cruz,21,21,12
+2016,Diciembre,Cnel. Diaz y Mansilla,3054,Cnel. Diaz,Mansilla,11,11,12
+2016,Diciembre,11 de Sep y Monroe,1224,11 de Sep,Monroe,22,22,12
+2016,Diciembre,Arenales y Montevideo,1993,Arenales,Montevideo,12,12,12
+2016,Diciembre,M.T. Alvear y Uriburu,2916,M.T. Alvear,Uriburu,23,23,12
+2016,Diciembre,La Pampa y Superi,1343,La Pampa,Superi,24,24,12
+2017,Enero,Virrey Cevallos y Chile,2211,Virrey Cevallos,Chile,1,1,1
+2017,Enero,Azopardo y Mexico,1212,Azopardo,Mexico,2,2,1
+2017,Enero,Rincon y Carlos Calvo,1861,Rincon,Carlos Calvo,3,3,1
+2017,Enero,Virrey Liniers y C.Calvo,2136,Virrey Liniers,C.Calvo,4,4,1
+2017,Enero,Billinghurst y Peron,3849,Billinghurst,Peron,5,5,1
+2017,Enero,Del Libertador y Montevideo,2405,Del Libertador,Montevideo,6,6,1
+2017,Enero,Corredor Norte y Casares,3936,Corredor Norte,Casares,7,7,1
+2017,Enero,EEUU y 33 Orientales,1419,EEUU,33 Orientales,8,8,1
+2017,Enero,F. Alcorta y Derecho,2379,F. Alcorta,Derecho,9,9,1
+2017,Enero,Montevideo y Peron,2453,Montevideo,Peron,10,10,1
+2017,Enero,Potosi y Rawson,1535,Potosi,Rawson,17,17,1
+2017,Enero,J. Alvarez y Padilla,1551,J. Alvarez,Padilla,18,18,1
+2017,Enero,Chile y Tacuari,1155,Chile,Tacuari,19,19,1
+2017,Enero,Serrano y Loyola,3713,Serrano,Loyola,20,20,1
+2017,Enero,Gorriti y G. Cruz,3512,Gorriti,G. Cruz,21,21,1
+2017,Enero,Cnel. Diaz y Mansilla,2420,Cnel. Diaz,Mansilla,11,11,1
+2017,Enero,11 de Sep y Monroe,1169,11 de Sep,Monroe,22,22,1
+2017,Enero,Arenales y Montevideo,1840,Arenales,Montevideo,12,12,1
+2017,Enero,M.T. Alvear y Uriburu,2209,M.T. Alvear,Uriburu,23,23,1
+2017,Enero,La Pampa y Superi,1507,La Pampa,Superi,24,24,1
+2017,Febrero,Virrey Cevallos y Chile,2553,Virrey Cevallos,Chile,1,1,2
+2017,Febrero,Azopardo y Mexico,889,Azopardo,Mexico,2,2,2
+2017,Febrero,Rincon y Carlos Calvo,2234,Rincon,Carlos Calvo,3,3,2
+2017,Febrero,Virrey Liniers y C.Calvo,2588,Virrey Liniers,C.Calvo,4,4,2
+2017,Febrero,Billinghurst y Peron,4026,Billinghurst,Peron,5,5,2
+2017,Febrero,Del Libertador y Montevideo,2415,Del Libertador,Montevideo,6,6,2
+2017,Febrero,Corredor Norte y Casares,4445,Corredor Norte,Casares,7,7,2
+2017,Febrero,EEUU y 33 Orientales,1206,EEUU,33 Orientales,8,8,2
+2017,Febrero,F. Alcorta y Derecho,2290,F. Alcorta,Derecho,9,9,2
+2017,Febrero,Montevideo y Peron,2134,Montevideo,Peron,10,10,2
+2017,Febrero,Potosi y Rawson,1617,Potosi,Rawson,17,17,2
+2017,Febrero,J. Alvarez y Padilla,1436,J. Alvarez,Padilla,18,18,2
+2017,Febrero,Chile y Tacuari,1189,Chile,Tacuari,19,19,2
+2017,Febrero,Serrano y Loyola,3226,Serrano,Loyola,20,20,2
+2017,Febrero,Gorriti y G. Cruz,4265,Gorriti,G. Cruz,21,21,2
+2017,Febrero,Cnel. Diaz y Mansilla,2056,Cnel. Diaz,Mansilla,11,11,2
+2017,Febrero,11 de Sep y Monroe,1440,11 de Sep,Monroe,22,22,2
+2017,Febrero,Arenales y Montevideo,1922,Arenales,Montevideo,12,12,2
+2017,Febrero,M.T. Alvear y Uriburu,2510,M.T. Alvear,Uriburu,23,23,2
+2017,Febrero,La Pampa y Superi,1911,La Pampa,Superi,24,24,2
+2017,Marzo,Virrey Cevallos y Chile,2194,Virrey Cevallos,Chile,1,1,3
+2017,Marzo,Azopardo y Mexico,1179,Azopardo,Mexico,2,2,3
+2017,Marzo,Rincon y Carlos Calvo,3528,Rincon,Carlos Calvo,3,3,3
+2017,Marzo,Virrey Liniers y C.Calvo,2910,Virrey Liniers,C.Calvo,4,4,3
+2017,Marzo,Billinghurst y Peron,6303,Billinghurst,Peron,5,5,3
+2017,Marzo,Del Libertador y Montevideo,1220,Del Libertador,Montevideo,6,6,3
+2017,Marzo,Corredor Norte y Casares,3957,Corredor Norte,Casares,7,7,3
+2017,Marzo,EEUU y 33 Orientales,1892,EEUU,33 Orientales,8,8,3
+2017,Marzo,F. Alcorta y Derecho,2030,F. Alcorta,Derecho,9,9,3
+2017,Marzo,Montevideo y Peron,3713,Montevideo,Peron,10,10,3
+2017,Marzo,Potosi y Rawson,1662,Potosi,Rawson,17,17,3
+2017,Marzo,J. Alvarez y Padilla,1836,J. Alvarez,Padilla,18,18,3
+2017,Marzo,Chile y Tacuari,1898,Chile,Tacuari,19,19,3
+2017,Marzo,Serrano y Loyola,3174,Serrano,Loyola,20,20,3
+2017,Marzo,Gorriti y G. Cruz,3128,Gorriti,G. Cruz,21,21,3
+2017,Marzo,Cnel. Diaz y Mansilla,2192,Cnel. Diaz,Mansilla,11,11,3
+2017,Marzo,11 de Sep y Monroe,1516,11 de Sep,Monroe,22,22,3
+2017,Marzo,Arenales y Montevideo,2492,Arenales,Montevideo,12,12,3
+2017,Marzo,M.T. Alvear y Uriburu,3089,M.T. Alvear,Uriburu,23,23,3
+2017,Marzo,La Pampa y Superi,2030,La Pampa,Superi,24,24,3
+2017,Abril,Virrey Cevallos y Chile,2928,Virrey Cevallos,Chile,1,1,4
+2017,Abril,Azopardo y Mexico,842,Azopardo,Mexico,2,2,4
+2017,Abril,Rincon y Carlos Calvo,2988,Rincon,Carlos Calvo,3,3,4
+2017,Abril,Virrey Liniers y C.Calvo,2688,Virrey Liniers,C.Calvo,4,4,4
+2017,Abril,Billinghurst y Peron,5762,Billinghurst,Peron,5,5,4
+2017,Abril,Del Libertador y Montevideo,1571,Del Libertador,Montevideo,6,6,4
+2017,Abril,Corredor Norte y Casares,4008,Corredor Norte,Casares,7,7,4
+2017,Abril,EEUU y 33 Orientales,2090,EEUU,33 Orientales,8,8,4
+2017,Abril,F. Alcorta y Derecho,2476,F. Alcorta,Derecho,9,9,4
+2017,Abril,Montevideo y Peron,3000,Montevideo,Peron,10,10,4
+2017,Abril,Potosi y Rawson,1965,Potosi,Rawson,17,17,4
+2017,Abril,J. Alvarez y Padilla,2128,J. Alvarez,Padilla,18,18,4
+2017,Abril,Chile y Tacuari,1798,Chile,Tacuari,19,19,4
+2017,Abril,Serrano y Loyola,3387,Serrano,Loyola,20,20,4
+2017,Abril,Gorriti y G. Cruz,3710,Gorriti,G. Cruz,21,21,4
+2017,Abril,Cnel. Diaz y Mansilla,2510,Cnel. Diaz,Mansilla,11,11,4
+2017,Abril,11 de Sep y Monroe,1757,11 de Sep,Monroe,22,22,4
+2017,Abril,Arenales y Montevideo,2382,Arenales,Montevideo,12,12,4
+2017,Abril,M.T. Alvear y Uriburu,4477,M.T. Alvear,Uriburu,23,23,4
+2017,Abril,La Pampa y Superi,1622,La Pampa,Superi,24,24,4
+2017,Mayo,Virrey Cevallos y Chile,2638,Virrey Cevallos,Chile,1,1,5
+2017,Mayo,Azopardo y Mexico,1064,Azopardo,Mexico,2,2,5
+2017,Mayo,Rincon y Carlos Calvo,2284,Rincon,Carlos Calvo,3,3,5
+2017,Mayo,Virrey Liniers y C.Calvo,3112,Virrey Liniers,C.Calvo,4,4,5
+2017,Mayo,Billinghurst y Peron,4222,Billinghurst,Peron,5,5,5
+2017,Mayo,Del Libertador y Montevideo,2662,Del Libertador,Montevideo,6,6,5
+2017,Mayo,Corredor Norte y Casares,3160,Corredor Norte,Casares,7,7,5
+2017,Mayo,EEUU y 33 Orientales,1723,EEUU,33 Orientales,8,8,5
+2017,Mayo,F. Alcorta y Derecho,2357,F. Alcorta,Derecho,9,9,5
+2017,Mayo,Montevideo y Peron,2897,Montevideo,Peron,10,10,5
+2017,Mayo,Potosi y Rawson,2410,Potosi,Rawson,17,17,5
+2017,Mayo,J. Alvarez y Padilla,1621,J. Alvarez,Padilla,18,18,5
+2017,Mayo,Chile y Tacuari,1760,Chile,Tacuari,19,19,5
+2017,Mayo,Serrano y Loyola,3047,Serrano,Loyola,20,20,5
+2017,Mayo,Gorriti y G. Cruz,2612,Gorriti,G. Cruz,21,21,5
+2017,Mayo,Cnel. Diaz y Mansilla,2280,Cnel. Diaz,Mansilla,11,11,5
+2017,Mayo,11 de Sep y Monroe,1560,11 de Sep,Monroe,22,22,5
+2017,Mayo,Arenales y Montevideo,2151,Arenales,Montevideo,12,12,5
+2017,Mayo,M.T. Alvear y Uriburu,2691,M.T. Alvear,Uriburu,23,23,5
+2017,Mayo,La Pampa y Superi,1874,La Pampa,Superi,24,24,5
+2017,Junio,Virrey Cevallos y Chile,2688,Virrey Cevallos,Chile,1,1,6
+2017,Junio,Azopardo y Mexico,1106,Azopardo,Mexico,2,2,6
+2017,Junio,Rincon y Carlos Calvo,2382,Rincon,Carlos Calvo,3,3,6
+2017,Junio,Virrey Liniers y C.Calvo,2000,Virrey Liniers,C.Calvo,4,4,6
+2017,Junio,Billinghurst y Peron,5400,Billinghurst,Peron,5,5,6
+2017,Junio,Del Libertador y Montevideo,1172,Del Libertador,Montevideo,6,6,6
+2017,Junio,Corredor Norte y Casares,2903,Corredor Norte,Casares,7,7,6
+2017,Junio,EEUU y 33 Orientales,1404,EEUU,33 Orientales,8,8,6
+2017,Junio,F. Alcorta y Derecho,1193,F. Alcorta,Derecho,9,9,6
+2017,Junio,Montevideo y Peron,2116,Montevideo,Peron,10,10,6
+2017,Junio,Potosi y Rawson,1115,Potosi,Rawson,17,17,6
+2017,Junio,J. Alvarez y Padilla,1267,J. Alvarez,Padilla,18,18,6
+2017,Junio,Chile y Tacuari,1696,Chile,Tacuari,19,19,6
+2017,Junio,Serrano y Loyola,2723,Serrano,Loyola,20,20,6
+2017,Junio,Gorriti y G. Cruz,3043,Gorriti,G. Cruz,21,21,6
+2017,Junio,Cnel. Diaz y Mansilla,2078,Cnel. Diaz,Mansilla,11,11,6
+2017,Junio,11 de Sep y Monroe,928,11 de Sep,Monroe,22,22,6
+2017,Junio,Arenales y Montevideo,1944,Arenales,Montevideo,12,12,6
+2017,Junio,M.T. Alvear y Uriburu,2324,M.T. Alvear,Uriburu,23,23,6
+2017,Junio,La Pampa y Superi,1461,La Pampa,Superi,24,24,6
+2017,Julio,Virrey Cevallos y Chile,2016,Virrey Cevallos,Chile,1,1,7
+2017,Julio,Azopardo y Mexico,996,Azopardo,Mexico,2,2,7
+2017,Julio,Rincon y Carlos Calvo,1665,Rincon,Carlos Calvo,3,3,7
+2017,Julio,Virrey Liniers y C.Calvo,1492,Virrey Liniers,C.Calvo,4,4,7
+2017,Julio,Billinghurst y Peron,2661,Billinghurst,Peron,5,5,7
+2017,Julio,Del Libertador y Montevideo,1617,Del Libertador,Montevideo,6,6,7
+2017,Julio,Corredor Norte y Casares,2615,Corredor Norte,Casares,7,7,7
+2017,Julio,EEUU y 33 Orientales,902,EEUU,33 Orientales,8,8,7
+2017,Julio,F. Alcorta y Derecho,1787,F. Alcorta,Derecho,9,9,7
+2017,Julio,Montevideo y Peron,1907,Montevideo,Peron,10,10,7
+2017,Julio,Potosi y Rawson,969,Potosi,Rawson,17,17,7
+2017,Julio,J. Alvarez y Padilla,930,J. Alvarez,Padilla,18,18,7
+2017,Julio,Chile y Tacuari,1788,Chile,Tacuari,19,19,7
+2017,Julio,Serrano y Loyola,2244,Serrano,Loyola,20,20,7
+2017,Julio,Gorriti y G. Cruz,2475,Gorriti,G. Cruz,21,21,7
+2017,Julio,Cnel. Diaz y Mansilla,1237,Cnel. Diaz,Mansilla,11,11,7
+2017,Julio,11 de Sep y Monroe,842,11 de Sep,Monroe,22,22,7
+2017,Julio,Arenales y Montevideo,1248,Arenales,Montevideo,12,12,7
+2017,Julio,M.T. Alvear y Uriburu,1259,M.T. Alvear,Uriburu,23,23,7
+2017,Julio,La Pampa y Superi,1058,La Pampa,Superi,24,24,7
+2017,Agosto,Virrey Cevallos y Chile,2400,Virrey Cevallos,Chile,1,1,8
+2017,Agosto,Azopardo y Mexico,786,Azopardo,Mexico,2,2,8
+2017,Agosto,Rincon y Carlos Calvo,2978,Rincon,Carlos Calvo,3,3,8
+2017,Agosto,Virrey Liniers y C.Calvo,2327,Virrey Liniers,C.Calvo,4,4,8
+2017,Agosto,Billinghurst y Peron,4149,Billinghurst,Peron,5,5,8
+2017,Agosto,Del Libertador y Montevideo,2868,Del Libertador,Montevideo,6,6,8
+2017,Agosto,Corredor Norte y Casares,4129,Corredor Norte,Casares,7,7,8
+2017,Agosto,EEUU y 33 Orientales,1313,EEUU,33 Orientales,8,8,8
+2017,Agosto,F. Alcorta y Derecho,2240,F. Alcorta,Derecho,9,9,8
+2017,Agosto,Montevideo y Peron,2346,Montevideo,Peron,10,10,8
+2017,Agosto,Potosi y Rawson,1696,Potosi,Rawson,17,17,8
+2017,Agosto,J. Alvarez y Padilla,1688,J. Alvarez,Padilla,18,18,8
+2017,Agosto,Chile y Tacuari,1779,Chile,Tacuari,19,19,8
+2017,Agosto,Serrano y Loyola,4143,Serrano,Loyola,20,20,8
+2017,Agosto,Gorriti y G. Cruz,4427,Gorriti,G. Cruz,21,21,8
+2017,Agosto,Cnel. Diaz y Mansilla,2377,Cnel. Diaz,Mansilla,11,11,8
+2017,Agosto,11 de Sep y Monroe,1072,11 de Sep,Monroe,22,22,8
+2017,Agosto,Arenales y Montevideo,1653,Arenales,Montevideo,12,12,8
+2017,Agosto,M.T. Alvear y Uriburu,1886,M.T. Alvear,Uriburu,23,23,8
+2017,Agosto,La Pampa y Superi,1374,La Pampa,Superi,24,24,8
+2017,Septiembre,Virrey Cevallos y Chile,2770,Virrey Cevallos,Chile,1,1,9
+2017,Septiembre,Azopardo y Mexico,977,Azopardo,Mexico,2,2,9
+2017,Septiembre,Rincon y Carlos Calvo,2875,Rincon,Carlos Calvo,3,3,9
+2017,Septiembre,Virrey Liniers y C.Calvo,2425,Virrey Liniers,C.Calvo,4,4,9
+2017,Septiembre,Billinghurst y Peron,4510,Billinghurst,Peron,5,5,9
+2017,Septiembre,Del Libertador y Montevideo,2937,Del Libertador,Montevideo,6,6,9
+2017,Septiembre,Corredor Norte y Casares,3625,Corredor Norte,Casares,7,7,9
+2017,Septiembre,EEUU y 33 Orientales,1723,EEUU,33 Orientales,8,8,9
+2017,Septiembre,F. Alcorta y Derecho,2615,F. Alcorta,Derecho,9,9,9
+2017,Septiembre,Montevideo y Peron,2584,Montevideo,Peron,10,10,9
+2017,Septiembre,Potosi y Rawson,1793,Potosi,Rawson,17,17,9
+2017,Septiembre,J. Alvarez y Padilla,1359,J. Alvarez,Padilla,18,18,9
+2017,Septiembre,Chile y Tacuari,1843,Chile,Tacuari,19,19,9
+2017,Septiembre,Serrano y Loyola,2997,Serrano,Loyola,20,20,9
+2017,Septiembre,Gorriti y G. Cruz,3466,Gorriti,G. Cruz,21,21,9
+2017,Septiembre,Cnel. Diaz y Mansilla,2299,Cnel. Diaz,Mansilla,11,11,9
+2017,Septiembre,11 de Sep y Monroe,1286,11 de Sep,Monroe,22,22,9
+2017,Septiembre,Arenales y Montevideo,1699,Arenales,Montevideo,12,12,9
+2017,Septiembre,M.T. Alvear y Uriburu,2654,M.T. Alvear,Uriburu,23,23,9
+2017,Septiembre,La Pampa y Superi,1430,La Pampa,Superi,24,24,9
+2017,Octubre,Virrey Cevallos y Chile,3195,Virrey Cevallos,Chile,1,1,10
+2017,Octubre,Azopardo y Mexico,1148,Azopardo,Mexico,2,2,10
+2017,Octubre,Rincon y Carlos Calvo,2915,Rincon,Carlos Calvo,3,3,10
+2017,Octubre,Virrey Liniers y C.Calvo,1958,Virrey Liniers,C.Calvo,4,4,10
+2017,Octubre,Billinghurst y Peron,3746,Billinghurst,Peron,5,5,10
+2017,Octubre,Del Libertador y Montevideo,3323,Del Libertador,Montevideo,6,6,10
+2017,Octubre,Corredor Norte y Casares,4354,Corredor Norte,Casares,7,7,10
+2017,Octubre,EEUU y 33 Orientales,1842,EEUU,33 Orientales,8,8,10
+2017,Octubre,F. Alcorta y Derecho,2199,F. Alcorta,Derecho,9,9,10
+2017,Octubre,Montevideo y Peron,3185,Montevideo,Peron,10,10,10
+2017,Octubre,Potosi y Rawson,1362,Potosi,Rawson,17,17,10
+2017,Octubre,J. Alvarez y Padilla,2075,J. Alvarez,Padilla,18,18,10
+2017,Octubre,Chile y Tacuari,2058,Chile,Tacuari,19,19,10
+2017,Octubre,Serrano y Loyola,3849,Serrano,Loyola,20,20,10
+2017,Octubre,Gorriti y G. Cruz,3839,Gorriti,G. Cruz,21,21,10
+2017,Octubre,Cnel. Diaz y Mansilla,2569,Cnel. Diaz,Mansilla,11,11,10
+2017,Octubre,11 de Sep y Monroe,1433,11 de Sep,Monroe,22,22,10
+2017,Octubre,Arenales y Montevideo,2432,Arenales,Montevideo,12,12,10
+2017,Octubre,M.T. Alvear y Uriburu,3519,M.T. Alvear,Uriburu,23,23,10
+2017,Octubre,La Pampa y Superi,1629,La Pampa,Superi,24,24,10
+2017,Noviembre,Virrey Cevallos y Chile,3358,Virrey Cevallos,Chile,1,1,11
+2017,Noviembre,Azopardo y Mexico,1115,Azopardo,Mexico,2,2,11
+2017,Noviembre,Rincon y Carlos Calvo,2759,Rincon,Carlos Calvo,3,3,11
+2017,Noviembre,Virrey Liniers y C.Calvo,2459,Virrey Liniers,C.Calvo,4,4,11
+2017,Noviembre,Billinghurst y Peron,6251,Billinghurst,Peron,5,5,11
+2017,Noviembre,Del Libertador y Montevideo,2675,Del Libertador,Montevideo,6,6,11
+2017,Noviembre,Corredor Norte y Casares,4548,Corredor Norte,Casares,7,7,11
+2017,Noviembre,EEUU y 33 Orientales,1624,EEUU,33 Orientales,8,8,11
+2017,Noviembre,F. Alcorta y Derecho,2498,F. Alcorta,Derecho,9,9,11
+2017,Noviembre,Montevideo y Peron,2898,Montevideo,Peron,10,10,11
+2017,Noviembre,Potosi y Rawson,1413,Potosi,Rawson,17,17,11
+2017,Noviembre,J. Alvarez y Padilla,2358,J. Alvarez,Padilla,18,18,11
+2017,Noviembre,Chile y Tacuari,1929,Chile,Tacuari,19,19,11
+2017,Noviembre,Serrano y Loyola,4996,Serrano,Loyola,20,20,11
+2017,Noviembre,Gorriti y G. Cruz,4330,Gorriti,G. Cruz,21,21,11
+2017,Noviembre,Cnel. Diaz y Mansilla,3083,Cnel. Diaz,Mansilla,11,11,11
+2017,Noviembre,11 de Sep y Monroe,1341,11 de Sep,Monroe,22,22,11
+2017,Noviembre,Arenales y Montevideo,2245,Arenales,Montevideo,12,12,11
+2017,Noviembre,M.T. Alvear y Uriburu,3071,M.T. Alvear,Uriburu,23,23,11
+2017,Noviembre,La Pampa y Superi,1446,La Pampa,Superi,24,24,11
+2017,Diciembre,Virrey Cevallos y Chile,3276,Virrey Cevallos,Chile,1,1,12
+2017,Diciembre,Azopardo y Mexico,1029,Azopardo,Mexico,2,2,12
+2017,Diciembre,Rincon y Carlos Calvo,2065,Rincon,Carlos Calvo,3,3,12
+2017,Diciembre,Virrey Liniers y C.Calvo,2232,Virrey Liniers,C.Calvo,4,4,12
+2017,Diciembre,Billinghurst y Peron,5409,Billinghurst,Peron,5,5,12
+2017,Diciembre,Del Libertador y Montevideo,1981,Del Libertador,Montevideo,6,6,12
+2017,Diciembre,Corredor Norte y Casares,3868,Corredor Norte,Casares,7,7,12
+2017,Diciembre,EEUU y 33 Orientales,1639,EEUU,33 Orientales,8,8,12
+2017,Diciembre,F. Alcorta y Derecho,2001,F. Alcorta,Derecho,9,9,12
+2017,Diciembre,Montevideo y Peron,2537,Montevideo,Peron,10,10,12
+2017,Diciembre,Potosi y Rawson,1872,Potosi,Rawson,17,17,12
+2017,Diciembre,J. Alvarez y Padilla,1542,J. Alvarez,Padilla,18,18,12
+2017,Diciembre,Chile y Tacuari,2860,Chile,Tacuari,19,19,12
+2017,Diciembre,Serrano y Loyola,3985,Serrano,Loyola,20,20,12
+2017,Diciembre,Gorriti y G. Cruz,3272,Gorriti,G. Cruz,21,21,12
+2017,Diciembre,Cnel. Diaz y Mansilla,1977,Cnel. Diaz,Mansilla,11,11,12
+2017,Diciembre,11 de Sep y Monroe,858,11 de Sep,Monroe,22,22,12
+2017,Diciembre,Arenales y Montevideo,1788,Arenales,Montevideo,12,12,12
+2017,Diciembre,M.T. Alvear y Uriburu,3020,M.T. Alvear,Uriburu,23,23,12
+2017,Diciembre,La Pampa y Superi,2195,La Pampa,Superi,24,24,12
+2018,Enero,Virrey Cevallos y Chile,2541,Virrey Cevallos,Chile,1,1,1
+2018,Enero,Azopardo y Mexico,1006,Azopardo,Mexico,2,2,1
+2018,Enero,Rincon y Carlos Calvo,2096,Rincon,Carlos Calvo,3,3,1
+2018,Enero,Virrey Liniers y C.Calvo,1959,Virrey Liniers,C.Calvo,4,4,1
+2018,Enero,Billinghurst y Peron,3813,Billinghurst,Peron,5,5,1
+2018,Enero,Del Libertador y Montevideo,1934,Del Libertador,Montevideo,6,6,1
+2018,Enero,Corredor Norte y Casares,4162,Corredor Norte,Casares,7,7,1
+2018,Enero,EEUU y 33 Orientales,1532,EEUU,33 Orientales,8,8,1
+2018,Enero,F. Alcorta y Derecho,2583,F. Alcorta,Derecho,9,9,1
+2018,Enero,Montevideo y Peron,2668,Montevideo,Peron,10,10,1
+2018,Enero,Potosi y Rawson,1401,Potosi,Rawson,17,17,1
+2018,Enero,J. Alvarez y Padilla,1362,J. Alvarez,Padilla,18,18,1
+2018,Enero,Chile y Tacuari,2739,Chile,Tacuari,19,19,1
+2018,Enero,Serrano y Loyola,2743,Serrano,Loyola,20,20,1
+2018,Enero,Gorriti y G. Cruz,3590,Gorriti,G. Cruz,21,21,1
+2018,Enero,Cnel. Diaz y Mansilla,2393,Cnel. Diaz,Mansilla,11,11,1
+2018,Enero,11 de Sep y Monroe,1161,11 de Sep,Monroe,22,22,1
+2018,Enero,Arenales y Montevideo,1843,Arenales,Montevideo,12,12,1
+2018,Enero,M.T. Alvear y Uriburu,2744,M.T. Alvear,Uriburu,23,23,1
+2018,Enero,La Pampa y Superi,1579,La Pampa,Superi,24,24,1
+2018,Febrero,Virrey Cevallos y Chile,3032,Virrey Cevallos,Chile,1,1,2
+2018,Febrero,Azopardo y Mexico,827,Azopardo,Mexico,2,2,2
+2018,Febrero,Rincon y Carlos Calvo,2232,Rincon,Carlos Calvo,3,3,2
+2018,Febrero,Virrey Liniers y C.Calvo,1893,Virrey Liniers,C.Calvo,4,4,2
+2018,Febrero,Billinghurst y Peron,3980,Billinghurst,Peron,5,5,2
+2018,Febrero,Del Libertador y Montevideo,2468,Del Libertador,Montevideo,6,6,2
+2018,Febrero,Corredor Norte y Casares,3749,Corredor Norte,Casares,7,7,2
+2018,Febrero,EEUU y 33 Orientales,1427,EEUU,33 Orientales,8,8,2
+2018,Febrero,F. Alcorta y Derecho,2319,F. Alcorta,Derecho,9,9,2
+2018,Febrero,Montevideo y Peron,3272,Montevideo,Peron,10,10,2
+2018,Febrero,Potosi y Rawson,1633,Potosi,Rawson,17,17,2
+2018,Febrero,J. Alvarez y Padilla,1767,J. Alvarez,Padilla,18,18,2
+2018,Febrero,Chile y Tacuari,2686,Chile,Tacuari,19,19,2
+2018,Febrero,Serrano y Loyola,3636,Serrano,Loyola,20,20,2
+2018,Febrero,Gorriti y G. Cruz,3614,Gorriti,G. Cruz,21,21,2
+2018,Febrero,Cnel. Diaz y Mansilla,2859,Cnel. Diaz,Mansilla,11,11,2
+2018,Febrero,11 de Sep y Monroe,1236,11 de Sep,Monroe,22,22,2
+2018,Febrero,Arenales y Montevideo,2271,Arenales,Montevideo,12,12,2
+2018,Febrero,M.T. Alvear y Uriburu,3097,M.T. Alvear,Uriburu,23,23,2
+2018,Febrero,La Pampa y Superi,1815,La Pampa,Superi,24,24,2
+2018,Marzo,Virrey Cevallos y Chile,3240,Virrey Cevallos,Chile,1,1,3
+2018,Marzo,Azopardo y Mexico,862,Azopardo,Mexico,2,2,3
+2018,Marzo,Rincon y Carlos Calvo,2599,Rincon,Carlos Calvo,3,3,3
+2018,Marzo,Virrey Liniers y C.Calvo,2873,Virrey Liniers,C.Calvo,4,4,3
+2018,Marzo,Billinghurst y Peron,5398,Billinghurst,Peron,5,5,3
+2018,Marzo,Del Libertador y Montevideo,3027,Del Libertador,Montevideo,6,6,3
+2018,Marzo,Corredor Norte y Casares,4055,Corredor Norte,Casares,7,7,3
+2018,Marzo,EEUU y 33 Orientales,2241,EEUU,33 Orientales,8,8,3
+2018,Marzo,F. Alcorta y Derecho,2543,F. Alcorta,Derecho,9,9,3
+2018,Marzo,Montevideo y Peron,3157,Montevideo,Peron,10,10,3
+2018,Marzo,Potosi y Rawson,1954,Potosi,Rawson,17,17,3
+2018,Marzo,J. Alvarez y Padilla,1935,J. Alvarez,Padilla,18,18,3
+2018,Marzo,Chile y Tacuari,2746,Chile,Tacuari,19,19,3
+2018,Marzo,Serrano y Loyola,3802,Serrano,Loyola,20,20,3
+2018,Marzo,Gorriti y G. Cruz,4061,Gorriti,G. Cruz,21,21,3
+2018,Marzo,Cnel. Diaz y Mansilla,2857,Cnel. Diaz,Mansilla,11,11,3
+2018,Marzo,11 de Sep y Monroe,1181,11 de Sep,Monroe,22,22,3
+2018,Marzo,Arenales y Montevideo,2314,Arenales,Montevideo,12,12,3
+2018,Marzo,M.T. Alvear y Uriburu,3164,M.T. Alvear,Uriburu,23,23,3
+2018,Marzo,La Pampa y Superi,2026,La Pampa,Superi,24,24,3
+2018,Abril,Virrey Cevallos y Chile,1729,Virrey Cevallos,Chile,1,1,4
+2018,Abril,Azopardo y Mexico,1089,Azopardo,Mexico,2,2,4
+2018,Abril,Rincon y Carlos Calvo,2917,Rincon,Carlos Calvo,3,3,4
+2018,Abril,Virrey Liniers y C.Calvo,2725,Virrey Liniers,C.Calvo,4,4,4
+2018,Abril,Billinghurst y Peron,4983,Billinghurst,Peron,5,5,4
+2018,Abril,Del Libertador y Montevideo,2379,Del Libertador,Montevideo,6,6,4
+2018,Abril,Corredor Norte y Casares,4237,Corredor Norte,Casares,7,7,4
+2018,Abril,EEUU y 33 Orientales,2297,EEUU,33 Orientales,8,8,4
+2018,Abril,F. Alcorta y Derecho,2681,F. Alcorta,Derecho,9,9,4
+2018,Abril,Montevideo y Peron,3425,Montevideo,Peron,10,10,4
+2018,Abril,Potosi y Rawson,2102,Potosi,Rawson,17,17,4
+2018,Abril,J. Alvarez y Padilla,1880,J. Alvarez,Padilla,18,18,4
+2018,Abril,Chile y Tacuari,2830,Chile,Tacuari,19,19,4
+2018,Abril,Serrano y Loyola,3266,Serrano,Loyola,20,20,4
+2018,Abril,Gorriti y G. Cruz,4028,Gorriti,G. Cruz,21,21,4
+2018,Abril,Cnel. Diaz y Mansilla,2751,Cnel. Diaz,Mansilla,11,11,4
+2018,Abril,11 de Sep y Monroe,1263,11 de Sep,Monroe,22,22,4
+2018,Abril,Arenales y Montevideo,2340,Arenales,Montevideo,12,12,4
+2018,Abril,M.T. Alvear y Uriburu,3595,M.T. Alvear,Uriburu,23,23,4
+2018,Abril,La Pampa y Superi,2363,La Pampa,Superi,24,24,4
+2018,Mayo,Virrey Cevallos y Chile,2849,Virrey Cevallos,Chile,1,1,5
+2018,Mayo,Azopardo y Mexico,1113,Azopardo,Mexico,2,2,5
+2018,Mayo,Rincon y Carlos Calvo,3205,Rincon,Carlos Calvo,3,3,5
+2018,Mayo,Virrey Liniers y C.Calvo,2703,Virrey Liniers,C.Calvo,4,4,5
+2018,Mayo,Billinghurst y Peron,4746,Billinghurst,Peron,5,5,5
+2018,Mayo,Del Libertador y Montevideo,2649,Del Libertador,Montevideo,6,6,5
+2018,Mayo,Corredor Norte y Casares,3486,Corredor Norte,Casares,7,7,5
+2018,Mayo,EEUU y 33 Orientales,1799,EEUU,33 Orientales,8,8,5
+2018,Mayo,F. Alcorta y Derecho,2366,F. Alcorta,Derecho,9,9,5
+2018,Mayo,Montevideo y Peron,3019,Montevideo,Peron,10,10,5
+2018,Mayo,Potosi y Rawson,2108,Potosi,Rawson,17,17,5
+2018,Mayo,J. Alvarez y Padilla,1484,J. Alvarez,Padilla,18,18,5
+2018,Mayo,Chile y Tacuari,2958,Chile,Tacuari,19,19,5
+2018,Mayo,Serrano y Loyola,3932,Serrano,Loyola,20,20,5
+2018,Mayo,Gorriti y G. Cruz,2921,Gorriti,G. Cruz,21,21,5
+2018,Mayo,Cnel. Diaz y Mansilla,2654,Cnel. Diaz,Mansilla,11,11,5
+2018,Mayo,11 de Sep y Monroe,1277,11 de Sep,Monroe,22,22,5
+2018,Mayo,Arenales y Montevideo,2241,Arenales,Montevideo,12,12,5
+2018,Mayo,M.T. Alvear y Uriburu,2907,M.T. Alvear,Uriburu,23,23,5
+2018,Mayo,La Pampa y Superi,1722,La Pampa,Superi,24,24,5
+2018,Junio,Virrey Cevallos y Chile,3392,Virrey Cevallos,Chile,1,1,6
+2018,Junio,Azopardo y Mexico,1092,Azopardo,Mexico,2,2,6
+2018,Junio,Rincon y Carlos Calvo,2521,Rincon,Carlos Calvo,3,3,6
+2018,Junio,Virrey Liniers y C.Calvo,2222,Virrey Liniers,C.Calvo,4,4,6
+2018,Junio,Billinghurst y Peron,4546,Billinghurst,Peron,5,5,6
+2018,Junio,Del Libertador y Montevideo,1988,Del Libertador,Montevideo,6,6,6
+2018,Junio,Corredor Norte y Casares,2957,Corredor Norte,Casares,7,7,6
+2018,Junio,EEUU y 33 Orientales,1498,EEUU,33 Orientales,8,8,6
+2018,Junio,F. Alcorta y Derecho,1605,F. Alcorta,Derecho,9,9,6
+2018,Junio,Montevideo y Peron,3146,Montevideo,Peron,10,10,6
+2018,Junio,Potosi y Rawson,1595,Potosi,Rawson,17,17,6
+2018,Junio,J. Alvarez y Padilla,1502,J. Alvarez,Padilla,18,18,6
+2018,Junio,Chile y Tacuari,2741,Chile,Tacuari,19,19,6
+2018,Junio,Serrano y Loyola,2885,Serrano,Loyola,20,20,6
+2018,Junio,Gorriti y G. Cruz,3076,Gorriti,G. Cruz,21,21,6
+2018,Junio,Cnel. Diaz y Mansilla,2416,Cnel. Diaz,Mansilla,11,11,6
+2018,Junio,11 de Sep y Monroe,1125,11 de Sep,Monroe,22,22,6
+2018,Junio,Arenales y Montevideo,1996,Arenales,Montevideo,12,12,6
+2018,Junio,M.T. Alvear y Uriburu,3674,M.T. Alvear,Uriburu,23,23,6
+2018,Junio,La Pampa y Superi,1665,La Pampa,Superi,24,24,6
+2018,Julio,Virrey Cevallos y Chile,2844,Virrey Cevallos,Chile,1,1,7
+2018,Julio,Azopardo y Mexico,833,Azopardo,Mexico,2,2,7
+2018,Julio,Rincon y Carlos Calvo,1929,Rincon,Carlos Calvo,3,3,7
+2018,Julio,Virrey Liniers y C.Calvo,2073,Virrey Liniers,C.Calvo,4,4,7
+2018,Julio,Billinghurst y Peron,4422,Billinghurst,Peron,5,5,7
+2018,Julio,Del Libertador y Montevideo,1464,Del Libertador,Montevideo,6,6,7
+2018,Julio,Corredor Norte y Casares,2308,Corredor Norte,Casares,7,7,7
+2018,Julio,EEUU y 33 Orientales,1531,EEUU,33 Orientales,8,8,7
+2018,Julio,F. Alcorta y Derecho,1224,F. Alcorta,Derecho,9,9,7
+2018,Julio,Montevideo y Peron,3146,Montevideo,Peron,10,10,7
+2018,Julio,Potosi y Rawson,1553,Potosi,Rawson,17,17,7
+2018,Julio,J. Alvarez y Padilla,1617,J. Alvarez,Padilla,18,18,7
+2018,Julio,Chile y Tacuari,2734,Chile,Tacuari,19,19,7
+2018,Julio,Serrano y Loyola,3144,Serrano,Loyola,20,20,7
+2018,Julio,Gorriti y G. Cruz,2615,Gorriti,G. Cruz,21,21,7
+2018,Julio,Cnel. Diaz y Mansilla,2089,Cnel. Diaz,Mansilla,11,11,7
+2018,Julio,11 de Sep y Monroe,953,11 de Sep,Monroe,22,22,7
+2018,Julio,Arenales y Montevideo,2035,Arenales,Montevideo,12,12,7
+2018,Julio,M.T. Alvear y Uriburu,3184,M.T. Alvear,Uriburu,23,23,7
+2018,Julio,La Pampa y Superi,1317,La Pampa,Superi,24,24,7
+2018,Agosto,Virrey Cevallos y Chile,2934,Virrey Cevallos,Chile,1,1,8
+2018,Agosto,Azopardo y Mexico,830,Azopardo,Mexico,2,2,8
+2018,Agosto,Rincon y Carlos Calvo,2281,Rincon,Carlos Calvo,3,3,8
+2018,Agosto,Virrey Liniers y C.Calvo,2527,Virrey Liniers,C.Calvo,4,4,8
+2018,Agosto,Billinghurst y Peron,4546,Billinghurst,Peron,5,5,8
+2018,Agosto,Del Libertador y Montevideo,2135,Del Libertador,Montevideo,6,6,8
+2018,Agosto,Corredor Norte y Casares,2596,Corredor Norte,Casares,7,7,8
+2018,Agosto,EEUU y 33 Orientales,2027,EEUU,33 Orientales,8,8,8
+2018,Agosto,F. Alcorta y Derecho,1618,F. Alcorta,Derecho,9,9,8
+2018,Agosto,Montevideo y Peron,2926,Montevideo,Peron,10,10,8
+2018,Agosto,Potosi y Rawson,1958,Potosi,Rawson,17,17,8
+2018,Agosto,J. Alvarez y Padilla,1618,J. Alvarez,Padilla,18,18,8
+2018,Agosto,Chile y Tacuari,2682,Chile,Tacuari,19,19,8
+2018,Agosto,Serrano y Loyola,2916,Serrano,Loyola,20,20,8
+2018,Agosto,Gorriti y G. Cruz,3576,Gorriti,G. Cruz,21,21,8
+2018,Agosto,Cnel. Diaz y Mansilla,2722,Cnel. Diaz,Mansilla,11,11,8
+2018,Agosto,11 de Sep y Monroe,1106,11 de Sep,Monroe,22,22,8
+2018,Agosto,Arenales y Montevideo,2284,Arenales,Montevideo,12,12,8
+2018,Agosto,M.T. Alvear y Uriburu,3403,M.T. Alvear,Uriburu,23,23,8
+2018,Agosto,La Pampa y Superi,1700,La Pampa,Superi,24,24,8
+2018,Septiembre,Virrey Cevallos y Chile,4304,Virrey Cevallos,Chile,1,1,9
+2018,Septiembre,Azopardo y Mexico,1120,Azopardo,Mexico,2,2,9
+2018,Septiembre,Rincon y Carlos Calvo,3026,Rincon,Carlos Calvo,3,3,9
+2018,Septiembre,Virrey Liniers y C.Calvo,2952,Virrey Liniers,C.Calvo,4,4,9
+2018,Septiembre,Billinghurst y Peron,5581,Billinghurst,Peron,5,5,9
+2018,Septiembre,Del Libertador y Montevideo,2961,Del Libertador,Montevideo,6,6,9
+2018,Septiembre,Corredor Norte y Casares,3904,Corredor Norte,Casares,7,7,9
+2018,Septiembre,EEUU y 33 Orientales,2506,EEUU,33 Orientales,8,8,9
+2018,Septiembre,F. Alcorta y Derecho,2778,F. Alcorta,Derecho,9,9,9
+2018,Septiembre,Montevideo y Peron,3644,Montevideo,Peron,10,10,9
+2018,Septiembre,Potosi y Rawson,2536,Potosi,Rawson,17,17,9
+2018,Septiembre,J. Alvarez y Padilla,2144,J. Alvarez,Padilla,18,18,9
+2018,Septiembre,Chile y Tacuari,2772,Chile,Tacuari,19,19,9
+2018,Septiembre,Serrano y Loyola,4360,Serrano,Loyola,20,20,9
+2018,Septiembre,Gorriti y G. Cruz,4489,Gorriti,G. Cruz,21,21,9
+2018,Septiembre,Cnel. Diaz y Mansilla,3096,Cnel. Diaz,Mansilla,11,11,9
+2018,Septiembre,11 de Sep y Monroe,1473,11 de Sep,Monroe,22,22,9
+2018,Septiembre,Arenales y Montevideo,2631,Arenales,Montevideo,12,12,9
+2018,Septiembre,M.T. Alvear y Uriburu,4301,M.T. Alvear,Uriburu,23,23,9
+2018,Septiembre,La Pampa y Superi,2118,La Pampa,Superi,24,24,9
+2018,Octubre,Virrey Cevallos y Chile,4612,Virrey Cevallos,Chile,1,1,10
+2018,Octubre,Azopardo y Mexico,1230,Azopardo,Mexico,2,2,10
+2018,Octubre,Rincon y Carlos Calvo,2982,Rincon,Carlos Calvo,3,3,10
+2018,Octubre,Virrey Liniers y C.Calvo,3342,Virrey Liniers,C.Calvo,4,4,10
+2018,Octubre,Billinghurst y Peron,6322,Billinghurst,Peron,5,5,10
+2018,Octubre,Del Libertador y Montevideo,3570,Del Libertador,Montevideo,6,6,10
+2018,Octubre,Corredor Norte y Casares,4467,Corredor Norte,Casares,7,7,10
+2018,Octubre,EEUU y 33 Orientales,2239,EEUU,33 Orientales,8,8,10
+2018,Octubre,F. Alcorta y Derecho,3092,F. Alcorta,Derecho,9,9,10
+2018,Octubre,Montevideo y Peron,4444,Montevideo,Peron,10,10,10
+2018,Octubre,Potosi y Rawson,2460,Potosi,Rawson,17,17,10
+2018,Octubre,J. Alvarez y Padilla,1663,J. Alvarez,Padilla,18,18,10
+2018,Octubre,Chile y Tacuari,3646,Chile,Tacuari,19,19,10
+2018,Octubre,Serrano y Loyola,3519,Serrano,Loyola,20,20,10
+2018,Octubre,Gorriti y G. Cruz,4789,Gorriti,G. Cruz,21,21,10
+2018,Octubre,Cnel. Diaz y Mansilla,2817,Cnel. Diaz,Mansilla,11,11,10
+2018,Octubre,11 de Sep y Monroe,1685,11 de Sep,Monroe,22,22,10
+2018,Octubre,Arenales y Montevideo,2538,Arenales,Montevideo,12,12,10
+2018,Octubre,M.T. Alvear y Uriburu,4570,M.T. Alvear,Uriburu,23,23,10
+2018,Octubre,La Pampa y Superi,3053,La Pampa,Superi,24,24,10
+2018,Noviembre,Virrey Cevallos y Chile,3987,Virrey Cevallos,Chile,1,1,11
+2018,Noviembre,Azopardo y Mexico,1091,Azopardo,Mexico,2,2,11
+2018,Noviembre,Rincon y Carlos Calvo,2582,Rincon,Carlos Calvo,3,3,11
+2018,Noviembre,Virrey Liniers y C.Calvo,2632,Virrey Liniers,C.Calvo,4,4,11
+2018,Noviembre,Billinghurst y Peron,5529,Billinghurst,Peron,5,5,11
+2018,Noviembre,Del Libertador y Montevideo,3488,Del Libertador,Montevideo,6,6,11
+2018,Noviembre,Corredor Norte y Casares,3953,Corredor Norte,Casares,7,7,11
+2018,Noviembre,EEUU y 33 Orientales,2101,EEUU,33 Orientales,8,8,11
+2018,Noviembre,F. Alcorta y Derecho,2469,F. Alcorta,Derecho,9,9,11
+2018,Noviembre,Montevideo y Peron,3494,Montevideo,Peron,10,10,11
+2018,Noviembre,Potosi y Rawson,2091,Potosi,Rawson,17,17,11
+2018,Noviembre,J. Alvarez y Padilla,1832,J. Alvarez,Padilla,18,18,11
+2018,Noviembre,Chile y Tacuari,3443,Chile,Tacuari,19,19,11
+2018,Noviembre,Serrano y Loyola,3858,Serrano,Loyola,20,20,11
+2018,Noviembre,Gorriti y G. Cruz,4545,Gorriti,G. Cruz,21,21,11
+2018,Noviembre,Cnel. Diaz y Mansilla,2811,Cnel. Diaz,Mansilla,11,11,11
+2018,Noviembre,11 de Sep y Monroe,1387,11 de Sep,Monroe,22,22,11
+2018,Noviembre,Arenales y Montevideo,2445,Arenales,Montevideo,12,12,11
+2018,Noviembre,M.T. Alvear y Uriburu,4550,M.T. Alvear,Uriburu,23,23,11
+2018,Noviembre,La Pampa y Superi,2637,La Pampa,Superi,24,24,11
+2018,Diciembre,Virrey Cevallos y Chile,3849,Virrey Cevallos,Chile,1,1,12
+2018,Diciembre,Azopardo y Mexico,888,Azopardo,Mexico,2,2,12
+2018,Diciembre,Rincon y Carlos Calvo,3124,Rincon,Carlos Calvo,3,3,12
+2018,Diciembre,Virrey Liniers y C.Calvo,3278,Virrey Liniers,C.Calvo,4,4,12
+2018,Diciembre,Billinghurst y Peron,4541,Billinghurst,Peron,5,5,12
+2018,Diciembre,Del Libertador y Montevideo,2748,Del Libertador,Montevideo,6,6,12
+2018,Diciembre,Corredor Norte y Casares,4768,Corredor Norte,Casares,7,7,12
+2018,Diciembre,EEUU y 33 Orientales,1878,EEUU,33 Orientales,8,8,12
+2018,Diciembre,F. Alcorta y Derecho,2934,F. Alcorta,Derecho,9,9,12
+2018,Diciembre,Montevideo y Peron,3462,Montevideo,Peron,10,10,12
+2018,Diciembre,Potosi y Rawson,2209,Potosi,Rawson,17,17,12
+2018,Diciembre,J. Alvarez y Padilla,2410,J. Alvarez,Padilla,18,18,12
+2018,Diciembre,Chile y Tacuari,4123,Chile,Tacuari,19,19,12
+2018,Diciembre,Serrano y Loyola,4561,Serrano,Loyola,20,20,12
+2018,Diciembre,Gorriti y G. Cruz,4368,Gorriti,G. Cruz,21,21,12
+2018,Diciembre,Cnel. Diaz y Mansilla,3190,Cnel. Diaz,Mansilla,11,11,12
+2018,Diciembre,11 de Sep y Monroe,1474,11 de Sep,Monroe,22,22,12
+2018,Diciembre,Arenales y Montevideo,2661,Arenales,Montevideo,12,12,12
+2018,Diciembre,M.T. Alvear y Uriburu,3590,M.T. Alvear,Uriburu,23,23,12
+2018,Diciembre,La Pampa y Superi,2511,La Pampa,Superi,24,24,12
+2019,Enero,Virrey Cevallos y Chile,3323,Virrey Cevallos,Chile,1,1,1
+2019,Enero,Azopardo y Mexico,723,Azopardo,Mexico,2,2,1
+2019,Enero,Rincon y Carlos Calvo,2729,Rincon,Carlos Calvo,3,3,1
+2019,Enero,Virrey Liniers y C.Calvo,2646,Virrey Liniers,C.Calvo,4,4,1
+2019,Enero,Billinghurst y Peron,4265,Billinghurst,Peron,5,5,1
+2019,Enero,Del Libertador y Montevideo,2083,Del Libertador,Montevideo,6,6,1
+2019,Enero,Corredor Norte y Casares,4104,Corredor Norte,Casares,7,7,1
+2019,Enero,EEUU y 33 Orientales,1907,EEUU,33 Orientales,8,8,1
+2019,Enero,F. Alcorta y Derecho,2258,F. Alcorta,Derecho,9,9,1
+2019,Enero,Montevideo y Peron,2912,Montevideo,Peron,10,10,1
+2019,Enero,Potosi y Rawson,1557,Potosi,Rawson,17,17,1
+2019,Enero,J. Alvarez y Padilla,1768,J. Alvarez,Padilla,18,18,1
+2019,Enero,Chile y Tacuari,3467,Chile,Tacuari,19,19,1
+2019,Enero,Serrano y Loyola,3332,Serrano,Loyola,20,20,1
+2019,Enero,Gorriti y G. Cruz,4173,Gorriti,G. Cruz,21,21,1
+2019,Enero,Cnel. Diaz y Mansilla,2484,Cnel. Diaz,Mansilla,11,11,1
+2019,Enero,11 de Sep y Monroe,1032,11 de Sep,Monroe,22,22,1
+2019,Enero,Arenales y Montevideo,1902,Arenales,Montevideo,12,12,1
+2019,Enero,M.T. Alvear y Uriburu,2775,M.T. Alvear,Uriburu,23,23,1
+2019,Enero,La Pampa y Superi,2462,La Pampa,Superi,24,24,1
+2019,Febrero,Virrey Cevallos y Chile,3842,Virrey Cevallos,Chile,1,1,2
+2019,Febrero,Azopardo y Mexico,824,Azopardo,Mexico,2,2,2
+2019,Febrero,Rincon y Carlos Calvo,3117,Rincon,Carlos Calvo,3,3,2
+2019,Febrero,Virrey Liniers y C.Calvo,2657,Virrey Liniers,C.Calvo,4,4,2
+2019,Febrero,Billinghurst y Peron,5438,Billinghurst,Peron,5,5,2
+2019,Febrero,Del Libertador y Montevideo,2880,Del Libertador,Montevideo,6,6,2
+2019,Febrero,Corredor Norte y Casares,4708,Corredor Norte,Casares,7,7,2
+2019,Febrero,EEUU y 33 Orientales,2027,EEUU,33 Orientales,8,8,2
+2019,Febrero,F. Alcorta y Derecho,2724,F. Alcorta,Derecho,9,9,2
+2019,Febrero,Montevideo y Peron,3666,Montevideo,Peron,10,10,2
+2019,Febrero,Potosi y Rawson,2179,Potosi,Rawson,17,17,2
+2019,Febrero,J. Alvarez y Padilla,2157,J. Alvarez,Padilla,18,18,2
+2019,Febrero,Chile y Tacuari,3674,Chile,Tacuari,19,19,2
+2019,Febrero,Serrano y Loyola,4208,Serrano,Loyola,20,20,2
+2019,Febrero,Gorriti y G. Cruz,5087,Gorriti,G. Cruz,21,21,2
+2019,Febrero,Cnel. Diaz y Mansilla,3170,Cnel. Diaz,Mansilla,11,11,2
+2019,Febrero,11 de Sep y Monroe,1016,11 de Sep,Monroe,22,22,2
+2019,Febrero,Arenales y Montevideo,2384,Arenales,Montevideo,12,12,2
+2019,Febrero,M.T. Alvear y Uriburu,3609,M.T. Alvear,Uriburu,23,23,2
+2019,Febrero,La Pampa y Superi,3511,La Pampa,Superi,24,24,2
+2019,Marzo,Virrey Cevallos y Chile,3943,Virrey Cevallos,Chile,1,1,3
+2019,Marzo,Azopardo y Mexico,1057,Azopardo,Mexico,2,2,3
+2019,Marzo,Rincon y Carlos Calvo,3389,Rincon,Carlos Calvo,3,3,3
+2019,Marzo,Virrey Liniers y C.Calvo,3269,Virrey Liniers,C.Calvo,4,4,3
+2019,Marzo,Billinghurst y Peron,5656,Billinghurst,Peron,5,5,3
+2019,Marzo,Del Libertador y Montevideo,2729,Del Libertador,Montevideo,6,6,3
+2019,Marzo,Corredor Norte y Casares,4577,Corredor Norte,Casares,7,7,3
+2019,Marzo,EEUU y 33 Orientales,2499,EEUU,33 Orientales,8,8,3
+2019,Marzo,F. Alcorta y Derecho,2701,F. Alcorta,Derecho,9,9,3
+2019,Marzo,Montevideo y Peron,3986,Montevideo,Peron,10,10,3
+2019,Marzo,Potosi y Rawson,2352,Potosi,Rawson,17,17,3
+2019,Marzo,J. Alvarez y Padilla,2193,J. Alvarez,Padilla,18,18,3
+2019,Marzo,Chile y Tacuari,3692,Chile,Tacuari,19,19,3
+2019,Marzo,Serrano y Loyola,4245,Serrano,Loyola,20,20,3
+2019,Marzo,Gorriti y G. Cruz,4832,Gorriti,G. Cruz,21,21,3
+2019,Marzo,Cnel. Diaz y Mansilla,3050,Cnel. Diaz,Mansilla,11,11,3
+2019,Marzo,11 de Sep y Monroe,1288,11 de Sep,Monroe,22,22,3
+2019,Marzo,Arenales y Montevideo,2458,Arenales,Montevideo,12,12,3
+2019,Marzo,M.T. Alvear y Uriburu,3651,M.T. Alvear,Uriburu,23,23,3
+2019,Marzo,La Pampa y Superi,3722,La Pampa,Superi,24,24,3
+2019,Abril,Virrey Cevallos y Chile,4045,Virrey Cevallos,Chile,1,1,4
+2019,Abril,Azopardo y Mexico,1063,Azopardo,Mexico,2,2,4
+2019,Abril,Rincon y Carlos Calvo,3457,Rincon,Carlos Calvo,3,3,4
+2019,Abril,Virrey Liniers y C.Calvo,3351,Virrey Liniers,C.Calvo,4,4,4
+2019,Abril,Billinghurst y Peron,5486,Billinghurst,Peron,5,5,4
+2019,Abril,Del Libertador y Montevideo,2745,Del Libertador,Montevideo,6,6,4
+2019,Abril,Corredor Norte y Casares,4607,Corredor Norte,Casares,7,7,4
+2019,Abril,EEUU y 33 Orientales,2210,EEUU,33 Orientales,8,8,4
+2019,Abril,F. Alcorta y Derecho,2803,F. Alcorta,Derecho,9,9,4
+2019,Abril,Montevideo y Peron,3795,Montevideo,Peron,10,10,4
+2019,Abril,Potosi y Rawson,2453,Potosi,Rawson,17,17,4
+2019,Abril,J. Alvarez y Padilla,2134,J. Alvarez,Padilla,18,18,4
+2019,Abril,Chile y Tacuari,3763,Chile,Tacuari,19,19,4
+2019,Abril,Serrano y Loyola,4003,Serrano,Loyola,20,20,4
+2019,Abril,Gorriti y G. Cruz,4887,Gorriti,G. Cruz,21,21,4
+2019,Abril,Cnel. Diaz y Mansilla,3068,Cnel. Diaz,Mansilla,11,11,4
+2019,Abril,11 de Sep y Monroe,1359,11 de Sep,Monroe,22,22,4
+2019,Abril,Arenales y Montevideo,2471,Arenales,Montevideo,12,12,4
+2019,Abril,M.T. Alvear y Uriburu,3698,M.T. Alvear,Uriburu,23,23,4
+2019,Abril,La Pampa y Superi,3508,La Pampa,Superi,24,24,4
+2019,Mayo,Virrey Cevallos y Chile,4029,Virrey Cevallos,Chile,1,1,5
+2019,Mayo,Azopardo y Mexico,1016,Azopardo,Mexico,2,2,5
+2019,Mayo,Rincon y Carlos Calvo,3150,Rincon,Carlos Calvo,3,3,5
+2019,Mayo,Virrey Liniers y C.Calvo,3022,Virrey Liniers,C.Calvo,4,4,5
+2019,Mayo,Billinghurst y Peron,5320,Billinghurst,Peron,5,5,5
+2019,Mayo,Del Libertador y Montevideo,3262,Del Libertador,Montevideo,6,6,5
+2019,Mayo,Corredor Norte y Casares,4635,Corredor Norte,Casares,7,7,5
+2019,Mayo,EEUU y 33 Orientales,2083,EEUU,33 Orientales,8,8,5
+2019,Mayo,F. Alcorta y Derecho,3576,F. Alcorta,Derecho,9,9,5
+2019,Mayo,Montevideo y Peron,3544,Montevideo,Peron,10,10,5
+2019,Mayo,Potosi y Rawson,2174,Potosi,Rawson,17,17,5
+2019,Mayo,J. Alvarez y Padilla,2096,J. Alvarez,Padilla,18,18,5
+2019,Mayo,Chile y Tacuari,4924,Chile,Tacuari,19,19,5
+2019,Mayo,Serrano y Loyola,4070,Serrano,Loyola,20,20,5
+2019,Mayo,Gorriti y G. Cruz,4979,Gorriti,G. Cruz,21,21,5
+2019,Mayo,Cnel. Diaz y Mansilla,3213,Cnel. Diaz,Mansilla,11,11,5
+2019,Mayo,11 de Sep y Monroe,1163,11 de Sep,Monroe,22,22,5
+2019,Mayo,Arenales y Montevideo,3079,Arenales,Montevideo,12,12,5
+2019,Mayo,M.T. Alvear y Uriburu,4932,M.T. Alvear,Uriburu,23,23,5
+2019,Mayo,La Pampa y Superi,3499,La Pampa,Superi,24,24,5
+2019,Junio,Virrey Cevallos y Chile,3665,Virrey Cevallos,Chile,1,1,6
+2019,Junio,Azopardo y Mexico,1515,Azopardo,Mexico,2,2,6
+2019,Junio,Rincon y Carlos Calvo,2232,Rincon,Carlos Calvo,3,3,6
+2019,Junio,Virrey Liniers y C.Calvo,2779,Virrey Liniers,C.Calvo,4,4,6
+2019,Junio,Billinghurst y Peron,5672,Billinghurst,Peron,5,5,6
+2019,Junio,Del Libertador y Montevideo,2620,Del Libertador,Montevideo,6,6,6
+2019,Junio,Corredor Norte y Casares,5451,Corredor Norte,Casares,7,7,6
+2019,Junio,EEUU y 33 Orientales,2500,EEUU,33 Orientales,8,8,6
+2019,Junio,F. Alcorta y Derecho,2162,F. Alcorta,Derecho,9,9,6
+2019,Junio,Montevideo y Peron,4741,Montevideo,Peron,10,10,6
+2019,Junio,Potosi y Rawson,2393,Potosi,Rawson,17,17,6
+2019,Junio,J. Alvarez y Padilla,1983,J. Alvarez,Padilla,18,18,6
+2019,Junio,Chile y Tacuari,3861,Chile,Tacuari,19,19,6
+2019,Junio,Serrano y Loyola,4697,Serrano,Loyola,20,20,6
+2019,Junio,Gorriti y G. Cruz,6215,Gorriti,G. Cruz,21,21,6
+2019,Junio,Cnel. Diaz y Mansilla,4117,Cnel. Diaz,Mansilla,11,11,6
+2019,Junio,11 de Sep y Monroe,1700,11 de Sep,Monroe,22,22,6
+2019,Junio,Arenales y Montevideo,2632,Arenales,Montevideo,12,12,6
+2019,Junio,M.T. Alvear y Uriburu,4056,M.T. Alvear,Uriburu,23,23,6
+2019,Junio,La Pampa y Superi,2929,La Pampa,Superi,24,24,6
+2019,Julio,Virrey Cevallos y Chile,3142,Virrey Cevallos,Chile,1,1,7
+2019,Julio,Azopardo y Mexico,1505,Azopardo,Mexico,2,2,7
+2019,Julio,Rincon y Carlos Calvo,2675,Rincon,Carlos Calvo,3,3,7
+2019,Julio,Virrey Liniers y C.Calvo,2835,Virrey Liniers,C.Calvo,4,4,7
+2019,Julio,Billinghurst y Peron,5963,Billinghurst,Peron,5,5,7
+2019,Julio,Del Libertador y Montevideo,2166,Del Libertador,Montevideo,6,6,7
+2019,Julio,Corredor Norte y Casares,3265,Corredor Norte,Casares,7,7,7
+2019,Julio,EEUU y 33 Orientales,2571,EEUU,33 Orientales,8,8,7
+2019,Julio,F. Alcorta y Derecho,2453,F. Alcorta,Derecho,9,9,7
+2019,Julio,Montevideo y Peron,4275,Montevideo,Peron,10,10,7
+2019,Julio,Potosi y Rawson,1874,Potosi,Rawson,17,17,7
+2019,Julio,J. Alvarez y Padilla,2132,J. Alvarez,Padilla,18,18,7
+2019,Julio,Chile y Tacuari,3507,Chile,Tacuari,19,19,7
+2019,Julio,Serrano y Loyola,3849,Serrano,Loyola,20,20,7
+2019,Julio,Gorriti y G. Cruz,4140,Gorriti,G. Cruz,21,21,7
+2019,Julio,Cnel. Diaz y Mansilla,2909,Cnel. Diaz,Mansilla,11,11,7
+2019,Julio,11 de Sep y Monroe,1159,11 de Sep,Monroe,22,22,7
+2019,Julio,Arenales y Montevideo,2257,Arenales,Montevideo,12,12,7
+2019,Julio,M.T. Alvear y Uriburu,4138,M.T. Alvear,Uriburu,23,23,7
+2019,Julio,La Pampa y Superi,3306,La Pampa,Superi,24,24,7

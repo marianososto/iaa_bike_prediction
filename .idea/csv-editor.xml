@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/codificacion_coordenadas_codificacion.csv">
+        <entry key="/codificacion_coordenadas.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
@@ -14,6 +14,20 @@
           <value>
             <Attribute>
               <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/distancias_origen_destino.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/volumen-ciclistas-mensuales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>

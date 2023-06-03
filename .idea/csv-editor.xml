@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/distancias_origen_destino_bidirecciona.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/distancias_origen_destino_bidireccional.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/volumen-ciclistas-mensuales.csv">
           <value>
             <Attribute>
